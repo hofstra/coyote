@@ -20,5 +20,22 @@ Each `_build/sources/_posts` file must include in the YAML front matter:
 
 Optional fields include:
 
-* `pubdate: ...`: Original publication date, in the YYYY-MM-DD format.
+* `pubdate: ...`: Original publication date, in the `YYYY-MM-DD` format.
 * `source: ...`: Available to document the source of the item.
+
+`_build/sources/_posts/2015-07-30-arizona-republican-poison.md` is an example to reference.
+
+### Managing the Tag Index
+
+To support pages that correspond to tags, and which output lists of matching source materials, each of those tags needs a post file created in `_build/tags/_posts`.
+
+Each file should contain the date it was created in the file name, in the format `YYY-MM-DD`.
+
+All words in the tag name should be included in the filename, separated by `-`, lowercase.
+
+Each file must include the following in the YAML front matter:
+
+* `layout: tag`
+* `title: ...`: Title of the tag.
+
+`title` **must** match the exact use of the tag in corresponding posts for those posts to be related to the tag.
