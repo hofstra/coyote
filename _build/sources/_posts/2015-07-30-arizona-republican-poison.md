@@ -2,6 +2,9 @@
 layout: source
 title: U.S. Introduces New Coyote Poison To Kill Off Pest
 category: Newspapers
+pubdate:
+source:
+type: article
 tags:
 - Pelt
 - Pest
