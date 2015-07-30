@@ -22,4 +22,6 @@ markdown:         kramdown
 permalink: /:categories/:title/
 
 collections:
-- sources
+  sources:
+    output: true
+    permalink: /sources/:path/index.html # :categories doesn't seem to be an option here
