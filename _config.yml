@@ -22,6 +22,4 @@ markdown:         kramdown
 permalink: /:categories/:title/
 
 collections:
-- newspapers
-- natural-histories
-- literary-works
+- sources
