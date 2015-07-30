@@ -47,20 +47,27 @@
     <hr/>
 
     <h3>Output all sources in collection:</h3>
+    <p>This worked, but the collection has been removed to avoid confusion in the directory structure.</p>
+{% comment %}
     <ul>
 {% for source in site.sources %}
         <li><a href="{{ source.url }}">{{ source.title }}</a></li>
 {% endfor %}
     </ul>
+{% endcomment %}
     <h3>Output all categories in collection:</h3>
+    <p>This worked, but the collection has been removed to avoid confusion in the directory structure.</p>
+{% comment %}
 {% assign groups = site.sources | group_by: "category" | sort: "name" %}
 {% for group in groups %}
     <h4>{{ group.name }}</h4>
+
     <ul>
     {% for item in group.items %}
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
     </ul>
 {% endfor %}
+{% endcomment %}
 </body>
 </html>
