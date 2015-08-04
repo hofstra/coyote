@@ -10,7 +10,7 @@ tags:
 - Women and Coyote
 
 
-(DORSEY, G. A. and KROEBER, A. L. *Traditions of the Arapaho.* Field Columbian Museum, Anthropological Series, Chicago, 1903, Vol. 5.) [https://archive.org/details/traditionsofarap05dors]
+[DORSEY, G. A. and KROEBER, A. L. *Traditions of the Arapaho.* Field Columbian Museum, Anthropological Series, Chicago, 1903, Vol. 5.] (https://archive.org/details/traditionsofarap05dors)
 
 ***
 Note: Nihancan is the Arapaho trickster figure, a role played by Coytoe in many other Native American myth cycles. Even though Coyote is not the trickser figure, he maintains his cunning characteristics. 
