@@ -1,3 +1,4 @@
+---
 layout: source
 title: Nih'ancan and Coyote
 category: Myths
@@ -8,7 +9,7 @@ tags:
 - Trickster
 - Pest
 - Women and Coyote
-
+---
 
 [DORSEY, G. A. and KROEBER, A. L. *Traditions of the Arapaho.* Field Columbian Museum, Anthropological Series, Chicago, 1903, Vol. 5.] (https://archive.org/details/traditionsofarap05dors)
 
