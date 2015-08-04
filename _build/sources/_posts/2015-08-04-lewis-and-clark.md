@@ -19,7 +19,7 @@ tags:
 
 * At the time of Lewis and Clark’s expedition, the word “coyote” was not in English usage. Lewis and Clark refer variously to the animal as a “prarie wolf,” a “brush wolf,” or a “burrowing wolf of the Praries.”  The coyote is initially mistaken for a fox (see entry, 18 September 1804). Later in the journey, Lewis and Clark sent a pelt of a coyote along with other animals to President Jefferson (see entry, 3 April 1805).
 
-* The Journals are well knwon for creative spelling and sentence construction.  Gutenberg edition, used here, of the text is failthful to the original manuscripts. 
+* The Journals are well known for creative spelling and sentence construction.  Gutenberg edition, used here, of the text is failthful to the original manuscripts. 
 ***
 
 **Clark, August 12, 1804**
