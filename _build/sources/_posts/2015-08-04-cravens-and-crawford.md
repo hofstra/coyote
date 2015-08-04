@@ -6,8 +6,8 @@ pubdate: 1938-04-11
 source: Library of Congress
 type: Manuscript 
 tags:
--Coyote and Settler-Colonialists
--Coyote and Native Americans 
+- Coyote and Settler-Colonialists
+- Coyote and Native Americans 
 ---
 [Cravens, Florence, and Edith L. Crawford. “I Was Born in Austin, Texas.”  Pioneer Story. Library of Congress, Manuscript Division, WPA Federal Writers' Project Collection. April 11, 1938.] (http://www.loc.gov/item/wpalh001194/)
 
