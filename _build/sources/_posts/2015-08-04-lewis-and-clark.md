@@ -10,17 +10,16 @@ tags:
 - Coyote and natural history
 - Coyote and Settler-Colonialists
 ---
-*The Journals of Lewis and Clark, by Meriwether Lewis and William Clark.* A Project Gutenberg EBook. http://www.gutenberg.org/files/8419/8419-h/8419-h.htm.
+[*The Journals of Lewis and Clark, by Meriwether Lewis and William Clark.* A Project Gutenberg EBook.] (http://www.gutenberg.org/files/8419/8419-h/8419-h.htm.)
 
 ***
-Note:
+**Notes**
 
-The entries represented below are those in which the coyote plays a role. 
+-The entries excerpted below are those in which the coyote plays a role. 
 
-At the time of Lewis and Clark’s expedition, the word “coyote” was not in English usage. Lewis and Clark refer variously to the animal as a “prarie wolf,” a “brush wolf,” or a “burrowing wolf of the Praries.”  The coyote is initially mistaken for a fox (see entry, 18 September 1804). Later in the journey, Lewis and Clark sent a pelt of a coyote along with other animals to President Jefferson (see entry, 3 April 1805). The entries reproduced below reflect those in which the coyote figures most prominently.
+-At the time of Lewis and Clark’s expedition, the word “coyote” was not in English usage. Lewis and Clark refer variously to the animal as a “prarie wolf,” a “brush wolf,” or a “burrowing wolf of the Praries.”  The coyote is initially mistaken for a fox (see entry, 18 September 1804). Later in the journey, Lewis and Clark sent a pelt of a coyote along with other animals to President Jefferson (see entry, 3 April 1805).
 
-Spelling in the journals is likewise various. Except where an error might lead to serious confusion, I have left the Gutenberg edition of the text unchanged. 
-
+-The Journals are well knwon for creative spelling and sentence construction.  Gutenberg edition, used here, of the text is failthful to the original manuscripts. 
 ***
 
 **Clark, August 12, 1804**
