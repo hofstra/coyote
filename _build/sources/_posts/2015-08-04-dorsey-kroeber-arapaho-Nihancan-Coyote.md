@@ -4,10 +4,9 @@ title: Nih'ancan and Coyote
 category: Myths
 pubdate: 1903
 source: Internet Archive
-type: article
+type: myth
 tags:
 - Trickster
-- Pest
 - Women and Coyote
 ---
 
