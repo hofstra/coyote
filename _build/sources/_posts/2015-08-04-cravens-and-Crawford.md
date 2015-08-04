@@ -9,7 +9,7 @@ tags:
 - Coyotes and Wagon Trains
 - Coyotes and Native Americans
 ---
-(Cravens, Florence, and Edith L. Crawford. “I Was Born in Austin, Texas.”  Pioneer Story. Library of Congress, Manuscript Division, WPA Federal Writers' Project Collection. April 11, 1938.) [http://www.loc.gov/item/wpalh001194/]
+[Cravens, Florence, and Edith L. Crawford. “I Was Born in Austin, Texas.”  Pioneer Story. Library of Congress, Manuscript Division, WPA Federal Writers' Project Collection. April 11, 1938.] (http://www.loc.gov/item/wpalh001194/)
 
 NARRATOR: Mrs. Florence Cravens. Carrizozo, N.M. Aged 63 years. 
 
