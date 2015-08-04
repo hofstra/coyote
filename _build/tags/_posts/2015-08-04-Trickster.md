@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: trickster
+title: Trickster
 ---
 This is content written about this tag
