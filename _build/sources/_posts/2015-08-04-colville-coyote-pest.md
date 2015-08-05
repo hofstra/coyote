@@ -1,7 +1,7 @@
 ---
 layout: source
 title: The Coyote a Pest But The Pelt Worth Money
-category: Myths
+category: Newspapers
 pubdate: 1903
 source: Library of Congress
 type: article
