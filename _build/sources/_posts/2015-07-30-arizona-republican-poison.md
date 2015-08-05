@@ -2,7 +2,7 @@
 layout: source
 title: U.S. Introduces New Coyote Poison To Kill Off Pest
 category: Newspapers
-pubdate:
+pubdate: 1920-03-28
 source:
 type: article
 tags:
