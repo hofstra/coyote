@@ -23,3 +23,4 @@ permalink: /:categories/:title/
 
 # Compensating for gh-pages project site
 baseurl: /coyote
+# https://github.com/jekyll/jekyll/issues/332
