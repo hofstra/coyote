@@ -2,7 +2,7 @@
 layout: source
 title: Statuette of Annubis
 category: Images
-pubdate:1938
+pubdate: 1938
 source: Metropolitan Museum of Art
 type: image
 tags:
