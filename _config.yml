@@ -19,4 +19,4 @@ exclude:          ["templates", "Gemfile", "Gemfile.lock", "README.md", ".gitign
 markdown:         kramdown
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /coyote/:categories/:title/
