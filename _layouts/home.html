@@ -20,7 +20,7 @@
     <p>This is the list of all myth sources posted to the site.</p>
     <ul>
 {% for source in site.categories.sources %}
-        <li><a href="{{ source.url }}">{{ source.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ source.url }}">{{ source.title }}</a></li>
 {% endfor %}
     </ul>
 
@@ -31,7 +31,7 @@
     <h4>{{ group.name }}</h4>
     <ul>
     {% for item in group.items %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
     </ul>
 {% endfor %}
@@ -40,7 +40,7 @@
     <p>This is the curated tag list based on corresponding posts.</p>
     <ul>
 {% for tag in site.categories.tags %}
-        <li><a href="{{ tag.url }}">{{ tag.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ tag.url }}">{{ tag.title }}</a></li>
 {% endfor %}
     </ul>
 
@@ -51,7 +51,7 @@
 {% comment %}
     <ul>
 {% for source in site.sources %}
-        <li><a href="{{ source.url }}">{{ source.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ source.url }}">{{ source.title }}</a></li>
 {% endfor %}
     </ul>
 {% endcomment %}
@@ -64,7 +64,7 @@
 
     <ul>
     {% for item in group.items %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
     </ul>
 {% endfor %}
