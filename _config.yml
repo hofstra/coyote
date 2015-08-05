@@ -10,7 +10,7 @@ google_analytics: false
 
 # Where things are
 destination:      ./_site
-source:           ./_build
+# source:           ./_build
 
 # Handling Reading
 exclude:          ["templates", "Gemfile", "Gemfile.lock", "README.md", ".gitignore"]
