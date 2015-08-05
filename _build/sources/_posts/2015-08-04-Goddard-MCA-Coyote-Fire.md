@@ -3,14 +3,14 @@ layout: source
 title: Myths and Tales from the San Carlos Apache, Securing Fire
 category: Myths
 pubdate: 1918
-source: Internet Archive
+source: American Museum of Natural History, Research Library 
 type: myth
 tags:
-- Trickster
-- Women and Coyote
+- Coyote steals fire
+- Coyote as trickster
+- Coyote as hero
 ---
-
-[Goddard, Pliny Earle. Myths and Tales from the San Carlos Apache. *Anthropological Papers of the American Museum of Natural History* 1918. (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAAahUKEwjD07Xe35DHAhUKmx4KHW2RB9g&url=http%3A%2F%2Fdigitallibrary.amnh.org%2Fdspace%2Fbitstream%2Fhandle%2F2246%2F164%2FA024a01.pdf%3Bjsessionid%3DF2A77ACD6863B36A205C802168DABF61%3Fsequence%3D1&ei=GGHBVcPnE4q2eu2insAN&usg=AFQjCNF4hfKpBvI3QkY2EDMw-KDR_QrW0Q&sig2=6oB4zytl-Gbky1euyajgZg&bvm=bv.99261572,d.dmo)
+[Goddard, Pliny Earle. *Myths and Tales from the San Carlos Apache. Anthropological Papers of the American Museum of Natural History* 1918. (http://digitallibrary.amnh.org/handle/2246/164)
 
 Securing Fire
 
