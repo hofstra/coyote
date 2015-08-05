@@ -6,8 +6,8 @@ pubdate: 1903
 source: Internet Archive
 type: text
 tags:
-- Trickster
-- Women and Coyote
+- Coyote as trickster
+- Coyote and women 
 ---
 
 [DORSEY, G. A. and KROEBER, A. L. *Traditions of the Arapaho.* Field Columbian Museum, Anthropological Series, Chicago, 1903, Vol. 5.] (https://archive.org/details/traditionsofarap05dors)
