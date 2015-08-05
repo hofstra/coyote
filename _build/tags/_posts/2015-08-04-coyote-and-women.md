@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: Women and Coyote
+title: Coyote and women 
 ---
 This is content written about this tag. 
