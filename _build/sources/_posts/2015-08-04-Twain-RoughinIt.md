@@ -1,6 +1,15 @@
-
-
-Mark Twain. *Roughing It, Complete.* ROUGHING IT, COMPLETE, By Mark Twain. 1872. Excerpt from Chapter V. http://www.gutenberg.org/files/3177/3177-h/3177-h.htm. 
+---
+layout: source
+title: Mark Twain, Roughin It
+category: Literary Works
+pubdate: 1872
+source: Project Gutenberg
+type: text
+tags:
+- Coyote and Dogs
+- Coyote and Cunning
+---
+[Mark Twain. *Roughing It, Complete.* 1872. Project Gutenberg.] (http://www.gutenberg.org/files/3177/3177-h/3177-h.htm.) 
 
 ***
 There are 3 associated images from the Gutenberg edition included on Omeka: http://coyote.omeka.net/admin/items/edit/66
