@@ -8,6 +8,7 @@ type: text
 tags:
 - Coyote and Dogs
 - Coyote and Cunning
+- Coyote and Native Americans
 ---
 [Mark Twain. *Roughing It, Complete.* 1872. Project Gutenberg.] (http://www.gutenberg.org/files/3177/3177-h/3177-h.htm.) 
 
