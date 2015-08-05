@@ -20,3 +20,6 @@ markdown:         kramdown
 
 # Outputting
 permalink: /:categories/:title/
+
+# Compensating for gh-pages project site
+baseurl: http://0.0.0.0:4000

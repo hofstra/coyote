@@ -24,3 +24,6 @@ CNAME
 # OS garbage.
 Thumbs.db
 .DS_Store
+
+# Had to add _config.yml here so that different setting can be used for baseurl
+_config.yml
