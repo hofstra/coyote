@@ -10,7 +10,7 @@ tags:
 - Coyote as trickster
 - Coyote as hero
 ---
-[Goddard, Pliny Earle. *Myths and Tales from the San Carlos Apache. Anthropological Papers of the American Museum of Natural History* 1918. (http://digitallibrary.amnh.org/handle/2246/164)
+[Goddard, Pliny Earle. *Myths and Tales from the San Carlos Apache. Anthropological Papers of the American Museum of Natural History* 1918.] (http://digitallibrary.amnh.org/handle/2246/164)
 
 Securing Fire
 
