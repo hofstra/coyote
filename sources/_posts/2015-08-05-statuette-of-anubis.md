@@ -3,7 +3,7 @@ layout: source
 title: Statuette of Annubis
 category: Images
 pubdate:1938
-source: Metropolitan Museum of Art, Accession Number 38.5
+source: Metropolitan Museum of Art
 type: image
 tags:
 - Coyote as Art
