@@ -1,0 +1,25 @@
+# Site settings
+title: Coyote
+email: drc@hofstra.edu
+description: "Informational website for the Myths of Coyote project"
+baseurl: ""
+url: "http://hofstradrc.org"
+twitter_username:
+github_username:  hofstra
+google_analytics: false
+
+# Where things are
+destination:      ./_site
+# source:           ./_build
+
+# Handling Reading
+exclude:          ["templates", "Gemfile", "Gemfile.lock", "README.md", ".gitignore"]
+
+# Conversion
+markdown:         kramdown
+
+# Outputting
+permalink: /:categories/:title/
+
+# Compensating for gh-pages project site
+baseurl: /coyote
