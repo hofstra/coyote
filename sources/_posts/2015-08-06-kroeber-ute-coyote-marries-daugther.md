@@ -10,7 +10,7 @@ tags:
 - Coyote marries daughter 
 - Coyote and women 
 ---
-[A. L. Kroeber. *The Journal of American Folklore* Vol. 14 No. 55 (1901). pp. 252-285.] (http://www.jstor.org/stable/533352)
+[A. L. Kroeber. "Ute Tales." *The Journal of American Folklore* Vol. 14 No. 55 (1901). pp. 252-285.] (http://www.jstor.org/stable/533352)
  ***
 *Note:* The convention was to translate explicit sexual content into Latin. I offer in the footnotes a rough rendering of that content, suggestions for improvement are most welcome. 
  ***
