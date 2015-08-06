@@ -3,13 +3,15 @@ layout: source
 title: The Doings of Coyote
 category: Myths
 pubdate: 1919
-source: Internet Archive
+source: American Museum of Natural History, Research Library
 type: myth
 tags:
-
+- Coyote as trickster
+- Coyote marries daughter 
+- Coyote and women 
 ---
 
-Pliny Earle Goddard.  *Myths and Tales from the White Mountain Apache. Anthropological Papers of the Museum of Natural History* Vol. XXIV, Part 2. The American Museum of Natural History. 1919. 
+[ Earle Goddard.  *Myths and Tales from the White Mountain Apache. Anthropological Papers of the Museum of Natural History* Vol. XXIV, Part 2. The American Museum of Natural History. 1919.] (http://digitallibrary.amnh.org/handle/2246/169)
 
 The Doings of Coyote. 
 
