@@ -3,7 +3,7 @@ layout: source
 title: 
 category: Myths
 pubdate: 1903
-source: Internet Archive
+source: American Museum of Natural History, Research Library
 type: myth
 tags:
 - Coyote as trickster
