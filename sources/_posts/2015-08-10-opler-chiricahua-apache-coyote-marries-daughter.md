@@ -7,12 +7,14 @@ source: Hathi Trust Digital Library
 type: myth
 tags:
 - Coyote as trickster
-- Coyote and eye juggler
 - Coyote and Native Americans
 - Coyote and women 
+- Coyote marries daughter 
 ---
 
 [Opler, Morris Edward. *Myths and Tales of the Chiricahua Apache Indians, with an Appendix of Apache and Navaho.* Comparative References by David French. *Memoirs American Folklore Society* 37 New York, 1942.] (http://catalog.hathitrust.org/Record/001631384)
+
+Coyote Marries His Own Daughter
 
 Coyote had a family; I don't know how many children he did have. The oldest daughter was a very pretty girl. Coyote and his family were in a camp in one place, and he was figuring out how he was going to get a chance to marry his own daughter. Finally he had it planned, the way he was going to work it. He told his wife and children, "I've got lung trouble." But he wasn't sick. Nothing was wrong with him. He said, "This is a very contagious disease, and I don't want to spread it among my children. You see that tree over there. You make me a bed up in that tree and feed me, and I'll stay there."
 
