@@ -2,21 +2,19 @@
 layout: source
 title: Coyote as Eye Juggler
 category: Myths
-pubdate:
+pubdate: 1938
 source: Hathi Trust Digital Library 
 type: myth
 tags:
 - Coyote and Native Americans
 - Coyote as trickster
-- Coyote as hero
-- Coyote and eye juggler 
 - Coyote marries daughter 
 - Coyote and women 
 ---
 
 [Opler, Morris Edward. *Myths and Tales of the Jicarilla Apache Indians.* *Memoirs American Folklore Society* 31 New York, 1938.] (http://hdl.handle.net/2027/miun.agy7794.0001.001)
 
-**Coyote Marries Own Daughter**   
+Coyote Marries Own Daughter
 
 Coyote started back to his home. He had a family and among his children he had a grown daughter, just old enough to get married.  He was getting tired of his wife and he ·wished he could find some way to marry his daughter. He got back home. He told his family, "I'm feeling sick. I don't think I'll ever get well. This is the last time I'm going to hunt for you before I get very sick." He killed a deer. In the deer's nose there are some worms called "deer's nose worms." He took out the worms. He brought the meat home. He put the worms in his clothes. 
 
