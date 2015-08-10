@@ -8,7 +8,6 @@ type: myth
 tags:
 - Coyote and Native Americans
 - Coyote as trickster
-- Coyote and eye juggler
 - Coyote steals fire
 - Coyote as hero
 ---
