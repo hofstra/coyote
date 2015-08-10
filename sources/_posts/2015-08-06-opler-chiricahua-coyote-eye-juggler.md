@@ -9,6 +9,7 @@ tags:
 - Coyote as trickster
 - Coyote and eye juggler
 - Coyote and Native Americans
+- Coyote and women 
 ---
 
 [Opler, Morris Edward. *Myths and Tales of the Chiricahua Apache Indians, with an Appendix of Apache and Navaho.* Comparative References by David French. *Memoirs American Folklore Society* 37 New York, 1942.] (http://catalog.hathitrust.org/Record/001631384)
