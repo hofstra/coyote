@@ -8,7 +8,8 @@ type: myth
 tags:
 - Coyote and Native Americans
 - Coyote as trickster
-- Coyote and eye juggler 
+- Coyote and eye juggler
+- Coyote and women 
 ---
 
 [Teit, James Alexander, Livingston Farrand, Marian K. Gould, and Herbert Joseph Spinden. *Folk-Tales of Salishan and Sahaptin Tribes. American Folk-Lore Society* 1917.] (https://archive.org/details/folktalesofsalis00boas)
