@@ -11,7 +11,7 @@ tags:
 - Coyote as hero
 ---
 
-[Teit, James. *The Shushwap.*  *Memoirs, American Museum of Natural History* VoL  2 part 7. 1909.] (http://digitallibrary.amnh.org/dspace/handle/2246/38)
+[Teit, James. *The Shushwap.*  *Memoirs, American Museum of Natural History* Vol  2 part 7. 1909.] (http://digitallibrary.amnh.org/dspace/handle/2246/38)
 
 **Coyote and Grisly Bear make the Seasons, and Night and Day**
 
