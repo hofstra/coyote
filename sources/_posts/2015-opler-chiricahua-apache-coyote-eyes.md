@@ -2,7 +2,7 @@
 layout: source
 title: Coyote as Eye Juggler
 category: Myths
-pubdate:
+pubdate: 1942
 source: Hathi Digital Libraries
 type: myth
 tags:
