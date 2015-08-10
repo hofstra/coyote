@@ -13,7 +13,7 @@ tags:
 
 [Opler, Morris Edward. *Myths and Legends of the Lipan Apache Indians.* *Memoirs American Folklore Society* 36 New York, 1940.] (http://hdl.handle.net/2027/uc1.32106000764370) 
 
-*Coyote as Eye-Juggler (version 1)
+Coyote as Eye-Juggler (version 1)
 
 Coyote went on. He saw that someone was walking around in an open place. When he got nearer he saw that it was Jack-rabbit. Jack-rabbit was throwing up his eyes, one after the other, juggling them. He was out where there were no trees and had his eyes out of their sockets.
 
