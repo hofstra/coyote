@@ -8,7 +8,7 @@ type: article
 tags: Coyote and bounty payments
 ---
 
-[“County Varmint Fund Tapped Twice in a Day.” *Daily Capital Journal.* (Salem, Or.) 1903-1919, September 08, 1919. Chronicling America: Historic American Newspapers. Lib. of Congress.]
+[“County Varmint Fund Tapped Twice in a Day.” *Daily Capital Journal.* (Salem, Or.) 1903-1919, September 08, 1919. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn99063957/1919-09-08/ed-1/seq-9/)
 ***
 View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HUGUwcFp3UGI0RlE
 ***
