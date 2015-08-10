@@ -1,7 +1,17 @@
+---
+layout: source
+title: Coyote as Eye Juggler
+category: Myths
+pubdate:
+source: Hathi Digital Libraries
+type: myth
+tags:
+- Coyote and Native Americans
+- Coyote as trickster
+- Coyote and eye juggler 
+---
 
-
-
-Opler, Morris Edward. *Myths and Tales of the Chiricahua Apache Indians, with an Appendix of Apache and Navaho.* Comparative References by David French. *Memoirs American Folklore Society* 37 New York,1942. 
+[Opler, Morris Edward. *Myths and Tales of the Chiricahua Apache Indians, with an Appendix of Apache and Navaho.* Comparative References by David French. *Memoirs American Folklore Society* 37 New York, 1942.] (http://babel.hathitrust.org/cgi/pt?id=miun.agy7799.0001.001;view=1up;seq=3)
 
 Coyote as Eye Juggler
 
