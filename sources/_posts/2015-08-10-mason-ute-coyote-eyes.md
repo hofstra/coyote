@@ -1,4 +1,19 @@
-[Mason, J. Alden. Myths of the Uintah Utes. *Journal of American Folk-Lore* 1910, Vol. 23, pp. 299-363]
+---
+layout: source
+title: Coyote Juggles His Eyes and Becomes Blind
+category: Myths
+pubdate: 1910
+source: JSTOR
+type: myth
+tags:
+- Coyote and Native Americans
+- Coyote steals fire
+- Coyote as trickster
+- Coyote as hero
+- Coyote and eye juggler 
+---
+
+[Mason, J. Alden. Myths of the Uintah Utes. *Journal of American Folk-Lore* 1910, Vol. 23, pp. 299-363.]
  (http://www.jstor.org/stable/534545)
 
 Coyote Juggles His Eyes and Becomes Blind
