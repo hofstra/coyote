@@ -78,13 +78,13 @@ I brought the news one day to Mrs. Coyote that the Legislature of California had
 
 THE BOUNTY SONG
 
->Five dollars is offered for me!
+Five dollars is offered for me!
 
->Why-ee-ee-oo-o-ee, for me—
+Why-ee-ee-oo-o-ee, for me—
 
->Five dollars for me!
+Five dollars for me!
 
->I'm a howling coyote.
+I'm a howling coyote.
 
 Five dollars for my poor scalp!
 Yip-you-ee-you-ee-oo-o-ee!
