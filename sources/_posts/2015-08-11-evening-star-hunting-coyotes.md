@@ -1,6 +1,20 @@
+---
+layout: source
+title: Hunting Coyotes Jolly Good Sport
+category: Newspapers
+pubdate: 1905-05-14
+source: Library of Congress
+type: article
+tags:
+- Coyote and conflicts with ranching
+- Coyote and Dogs
+- Coyote and bounty payments
+- Coyotes and Theodore Roosevelt, 
+- Coyote and conflicts with civilization
+- Coyote and Hunting Tournament 
+---
 
-
-“Hunting Coyotes Jolly Good Sport.” *Evening Star*. (Washington, D.C.) 1854-1972. May 14, 1905. Chronicling America: Historic American Newspapers. Lib. of Congress. http://chroniclingamerica.loc.gov/
+[“Hunting Coyotes Jolly Good Sport.” *Evening Star*. (Washington, D.C.) 1854-1972. May 14, 1905. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn83045462/1905-05-14/ed-1/seq-28/)
 
 View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HMlBKNGQ0YzY3MXc
 
