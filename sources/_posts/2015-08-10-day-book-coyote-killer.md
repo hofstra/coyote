@@ -9,9 +9,9 @@ tags:
 - Coyote and conflicts with ranching
 - Coyote as pest
 ---
-***
-"U.S. Ranger is Champion Coyote Killer." *The Day Book*. (Chicago, Ill.), 24 Feb. 1914. Chronicling America: Historic American Newspapers. Lib. of Congress. 
 
+["U.S. Ranger is Champion Coyote Killer." *The Day Book*. (Chicago, Ill.), 24 Feb. 1914. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn83045487/1914-02-24/ed-1/seq-23/)
+***
 View PDF (and newspaper image) here: https://drive.google.com/file/d/0B3jjm_N_Qi2HdnFBRkRkTVA0TEk/view?usp=sharing
 ***
 U. S. RANGER IS CHAMPION COYOTE KILLER
