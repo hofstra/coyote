@@ -7,7 +7,7 @@ source: Library of Congress
 type: article
 tags:
 - Pelt
-- Pest
+- Coyote as pest
 - Poison
 - Coyote and conflicts with ranching
 ---
