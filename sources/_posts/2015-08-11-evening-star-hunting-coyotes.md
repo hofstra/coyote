@@ -9,7 +9,7 @@ tags:
 - Coyote and conflicts with ranching
 - Coyote and Dogs
 - Coyote and bounty payments
-- Coyotes and Theodore Roosevelt, 
+- Coyote and Theodore Roosevelt, 
 - Coyote and conflicts with civilization
 - Coyote and Hunting Tournament 
 ---
