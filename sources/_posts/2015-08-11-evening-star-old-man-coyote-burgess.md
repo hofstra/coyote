@@ -1,7 +1,18 @@
+---
+layout: source
+title: Old Man Coyote Takes His Time
+category: Newspapers
+pubdate: 1920-03-26
+source: Library of Congress
+type: children's story
+tags:
+- Coyote and children's stories
+- Coyote and Burgess
+- Coyote as predator
+---
 
-
-Burgess, Thornton. "Old Man Coyote Takes His Time." *Evening Star*. 
-(Washington, D.C.) 1854-1972, March 26, 1920. Chronicling America: Historic American Newspapers. Lib. of Congress. <http://chroniclingamerica.loc.gov/>
+[Burgess, Thornton. "Old Man Coyote Takes His Time." *Evening Star*. 
+Washington, D.C. 1854-1972, March 26, 1920. Chronicling America: Historic American Newspapers. Lib. of Congress.] (<http://chroniclingamerica.loc.gov/lccn/sn83045462/1920-03-26/ed-1/seq-15/)
 
 ***
 View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HOG5mUWJZd1V1LWc
