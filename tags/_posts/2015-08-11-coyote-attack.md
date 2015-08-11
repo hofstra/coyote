@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: - Coyote Attack 
+title: Coyote Attack 
 ---
 This is content written about this tag. 
