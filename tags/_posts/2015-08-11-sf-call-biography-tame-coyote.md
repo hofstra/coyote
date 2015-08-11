@@ -79,26 +79,26 @@ I brought the news one day to Mrs. Coyote that the Legislature of California had
 THE BOUNTY SONG
 
 Five dollars is offered for me! <br>
-Why-ee-ee-oo-o-ee, for me—
-Five dollars for me!
-I'm a howling coyote.
+Why-ee-ee-oo-o-ee, for me— <br>
+Five dollars for me! <br>
+I'm a howling coyote. <br>
 
-Five dollars for my poor scalp!
-Yip-you-ee-you-ee-oo-o-ee!
-I dare not give a yelp,
-But somebody snaps a trap for me-oo-ee!
-I'm a howling coyote.
+Five dollars for my poor scalp! <br>
+Yip-you-ee-you-ee-oo-o-ee! <br>
+I dare not give a yelp, <br>
+But somebody snaps a trap for me-oo-ee! <br>
+I'm a howling coyote. <br>
 
-Yip—yip—five dollars for me!
-Poison, ambush and gun,
-Are making the roost of the chicken
-Very poor pickin' for me, yip-yip-you-ee!
-I'm a valuable thing to the State;
-It offers a V for my pate—
-Perhaps I'm to teach in the schools
-The vowels by natural rules—
-A-e-i-o-u-we-ye—
-I'm a howling coyote.
+Yip—yip—five dollars for me! <br>
+Poison, ambush and gun, <br>
+Are making the roost of the chicken <br>
+Very poor pickin' for me, yip-yip-you-ee! <br>
+I'm a valuable thing to the State; <br>
+It offers a V for my pate— <br>
+Perhaps I'm to teach in the schools <br>
+The vowels by natural rules— <br>
+A-e-i-o-u-we-ye— <br>
+I'm a howling coyote. <br>
 
 The music which I made I doubt if any one but a coyote could sing—unless he were a very good ventriloquist.
 
