@@ -16,6 +16,11 @@ tags:
 
 [Marion Pearson. The San Francisco Call. San Francisco, CA 1895-1913 December 31, 1911. Chronicling America: Historic American Newspapers. Lib. of Congress.] (<http://chroniclingamerica.loc.gov/lccn/sn85066387/1911-12-31/ed-1/seq-3/)
 
+***
+View PDF: https://drive.google.com/file/d/0B3jjm_N_Qi2HU3VvLWRaVVRXVEE/view?usp=sharing
+
+***
+
 The  ranchmen's war on varmints where California's cattle, sheep and poultry are raised. Every owner must know the habits and signs of mountain lions, coyotes and bob cats, and join with his gun and trained dogs in the determined slaughter
 
 DISTURBANCE was in the air. A stone rolling noisily downhill was sufficient to send the band of sheep scurrying across the road, where they huddled together under a dripping oak until the snapping of a twig sent them back again in a frenzy of fear. One of their fellows, a fine big thoroughbred, was stretched rigid on the slope of the embankment with his head and shoulders pointing downhill. A blinding mist had settled over the country after the heavy downpour of the night before, and had it not been for the panicky condition of the flock the sharp eyes of Jim Runyon would have missed the important message that lay almost at the feet of his horse. With intent and expectant eyes, Runyon peered about until the carcass of the sheep caught his gaze. In a moment he was off his horse and stooping over the dead animal. To his experienced eye its position showed that it had met with a violent death. The body was still warm. There was no sign of wound or blood, but then the rain had been heavy enough to have washed away all trace of the latter. 
