@@ -7,6 +7,8 @@ source: Library of Congress
 type: article
 tags:
 - Coyote and Cunning
+- Coyote as predator
+- Coyote, descriptions of howl
 ---
 
 ["The Artful Coyote." *Ranche and Range*. North Yakima, WA 1897-1902. September 15, 1898. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/2007252185/1898-09-15/ed-1/seq-13/)
