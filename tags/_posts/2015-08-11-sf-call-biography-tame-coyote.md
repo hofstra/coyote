@@ -77,12 +77,11 @@ Several years passed away.
 I brought the news one day to Mrs. Coyote that the Legislature of California had just passed a law offering $5 reward for the scalp of every coyote that could be brought in with both ears on it. She looked slyly at my one ear and said: "You are safe, my dear, in any case." I told her they would kill me before they would find it out. She thought the law a great joke, and she made up some poetry about it, which she repeated to me. I thought it very funny. I set it to music for her, and we went up on the top of a hill and practiced it with a great many variations of the tune. She called It "The Bounty Song." I will write it down:
 
 THE BOUNTY SONG
-________
 
-Five dollars is offered for me!
-Why-ee-ee-oo-o-ee, for me—
-Five dollars for me!
-I'm a howling coyote.
+>Five dollars is offered for me!
+>Why-ee-ee-oo-o-ee, for me—
+>Five dollars for me!
+>I'm a howling coyote.
 
 Five dollars for my poor scalp!
 Yip-you-ee-you-ee-oo-o-ee!
