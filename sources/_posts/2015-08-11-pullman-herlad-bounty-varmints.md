@@ -1,6 +1,15 @@
+---
+layout: source
+title: Bounty on Varmints
+category: Newspapers
+pubdate: 1905-05-06
+source: Library of Congress
+type: article
+tags:
+- Coyote and bounty payments
+---
 
-
-“Bounty on Varmints.” *Pullman Herald.* Pullman, WA 1888-1989, May 6, 1905. Chronicling America: Historic American Newspapers. Lib. of Congress. http://chroniclingamerica.loc.gov/
+[“Bounty on Varmints.” *Pullman Herald.* Pullman, WA 1888-1989, May 6, 1905. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn88085488/1905-05-06/ed-1/seq-7/)
 
 ***
 View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HbmExVEdxZ2NJU1k
