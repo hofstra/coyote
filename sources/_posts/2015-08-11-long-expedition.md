@@ -5,7 +5,7 @@ category: Natural Histories
 pubdate: 1823
 source: Internet Archive
 type: text
-tags
+tags:
 - Coyote as specimen
 - Coyote and natural history
 - Coyote and Cunning
