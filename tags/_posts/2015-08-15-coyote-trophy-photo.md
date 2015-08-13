@@ -1,5 +1,5 @@
 ---
 layout: tag
-title:Coyote and trophy photo
+title: Coyote and trophy photo
 ---
 This is content written about this tag. 
