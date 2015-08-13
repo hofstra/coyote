@@ -7,7 +7,7 @@ source: Library of Congress
 type: article
 tags:
 - Coyote and conflicts with ranching
-- Pelt
+-  Coyote Pelt
 - Coyote as pest
 ---
 
