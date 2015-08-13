@@ -4,7 +4,6 @@ title: Abernathy holding coyote by jaw
 category: Images
 pubdate: 1905
 source: Library of Congress
-2010649018
 type: image
 tags: 
 - Coyote and Theodore Roosevelt
