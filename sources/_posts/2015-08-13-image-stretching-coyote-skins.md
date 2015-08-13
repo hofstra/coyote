@@ -2,9 +2,8 @@
 layout: source
 title: Stretching Coyote Skins
 category: Images
-pubdate: 
-source: Paradise Valley Folklife Project collection, 1978-1982 (AFC 1991/021), American Folklife Center, Library of Congress Klaumann, Kenny (Depicted)
-Smock, William (Photographer) 
+pubdate: 1978-1982
+source: American Folklife Center, Library of Congress, Kenny Klaumann,Depicted, William Smock, Photographer 
 type: image
 tags: 
 - Coyote Pelt
