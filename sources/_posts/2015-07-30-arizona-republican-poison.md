@@ -6,7 +6,7 @@ pubdate: 1920-03-28
 source: Library of Congress
 type: article
 tags:
-- Pelt
+-  Coyote Pelt
 - Coyote as pest
 - Poison
 - Coyote and conflicts with ranching
