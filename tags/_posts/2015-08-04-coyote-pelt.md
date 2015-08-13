@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: Pelt
+title:  Coyote Pelt
 ---
 This is content written about this tag. 
