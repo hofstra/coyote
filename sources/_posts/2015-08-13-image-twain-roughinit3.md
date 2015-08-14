@@ -9,5 +9,5 @@ tags:
 - Coyote and Native Americans
 - Coyote and Dogs
 - Coyote and Native Americans 
-https://s3.amazonaws.com/omeka-net/12543/archive/files/b5e30f7cab27575495821c37d7bc82b0.jpg?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1439524482&Signature=huSqUEf5O2v0w5y1UbQ8kkyMh%2Bs%3D
+https://s3.amazonaws.com/omeka-net/12543/archive/files/2d97ff675abfca22260573a95eb62a3a.jpg?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1439553618&Signature=TsGliT1uP%2BlfU3Rh3OiC7e5KcDI%3D
 ---
