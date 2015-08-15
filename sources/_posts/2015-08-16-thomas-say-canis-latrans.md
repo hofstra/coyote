@@ -3,7 +3,7 @@ layout: source
 title: Thomas Say's Description of Canis Latrans
 category: Natural History
 pubdate: 1820
-source: Library of Congress
+source: Internet Archive
 type: text
 tags: 
 - Coyote and Settler-Colonialists
@@ -17,7 +17,7 @@ tags:
 
 The excerpted material is from Chapter IX of the account, which notes that the information is taken from the journal of Thomas Say and that the events transpired in the vicinity of Council Bluffs. Say served as zoologist on this expedition. His account of the coyote is the first to place the animal within the Linnaean taxonomy as *canis latrans*.
 
-Say's narrative complemented by the drawing "Prarire Wolf In Distress" by Titian Ramsay Peale, who worked as an assistant naturalist on the exhibition.  
+Say's narrative complemented by the drawing "Prarire Wolf In Distress" by Titian Ramsay Peale, who worked as an assistant naturalist on the exhibition: /img/prairie-wolf-distress.jpg
 
 ***
 
