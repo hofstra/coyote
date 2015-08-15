@@ -1,10 +1,24 @@
+---
+layout: source
+title: Thomas Say's Description of Canis Latrans
+category: Natural History
+pubdate: 1820
+source: Library of Congress
+type: text
+tags: 
+- Coyote and Settler-Colonialists
+- Coyote and Cunning
+- Coyote and Trapping
+---
+
 [“Account of an Expedition from Pittsburgh to the Rocky Mountains, Performed in the Years 1819 and ‘20 : By Order of the Hon. J.C. Calhoun, Sec’y of War: Under the Command of Major Stephen H. Long. From the Notes of Major Long, Mr. T. Say, and Other Gentlemen of the Exploring Party : James, Edwin, 1797-1861. Internet Archive.] (https://archive.org/details/accountofexpedit01jame)
 ***
 **Note**
 
 The excerpted material is from Chapter IX of the account, which notes that the information is taken from the journal of Thomas Say and that the events transpired in the vicinity of Council Bluffs. Say served as zoologist on this expedition. His account of the coyote is the first to place the animal within the Linnaean taxonomy as *canis latrans*.
 
-Say's narrative complemented by the drawing "Prarire Wolf In Distress" by Titian Ramsay Peale, who worked as an assistant naturalist on the exhibition.  View Peale's watercolor [sketch.] (https://s3.amazonaws.com/omeka-net/12543/archive/files/9649ce9fb5aecdb91505575715416063.png?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1439381599&Signature=Y940UYc%2BqZVQRXU%2Fe7ILrPaVIZE%3D)
+Say's narrative complemented by the drawing "Prarire Wolf In Distress" by Titian Ramsay Peale, who worked as an assistant naturalist on the exhibition.  
+
 ***
 
 The prairie wolves roam over the plains in considerable numbers, and during the night, the principal season of their hunts, they venture very near to the encampment of the traveller. They are by far the most numerous of our wolves, and often unite in packs for the purpose of chasing deer, which they very frequently succeed in running down, and killing. This, however, is an achievement attended with much difficulty to them, and in which the exertion of their utmost swiftness and cunning, are so often unavailing, that they are sometimes reduced to the necessity of eating wild plums, and other fruits, to them almost indigestible, in order to distend the stomach, and appease in a degree the cravings of hunger.
