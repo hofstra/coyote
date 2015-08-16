@@ -1,7 +1,7 @@
 ---
 layout: source
 title: Rindinger Interview 
-category: Oral Histories
+category: Oral History
 pubdate: 1938
 source: Library of Congress
 type: manuscript
