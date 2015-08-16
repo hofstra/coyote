@@ -4,7 +4,7 @@ title: Burns, Reminiscings of a cattleman
 category: Literary Works
 pubdate: 1936
 source: Library of Congress
-type: text
+type: Manuscript 
 tags: 
 - Coyote and Cunning
 - Coyote as predator
