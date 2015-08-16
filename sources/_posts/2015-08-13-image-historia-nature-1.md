@@ -8,5 +8,5 @@ type: image
 tags:
 - Coyote and Settler-Colonialists
 - Coyote and natural history
-img:/sources/img/historia-naturae-coyotl.jpg
+img: /sources/img/historia-naturae-coyotl.jpg
 ---
