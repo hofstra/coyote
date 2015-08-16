@@ -4,7 +4,7 @@ title: Rindinger, Oral History
 category: Oral Histories
 pubdate: 1938
 source: Library of Congress
-type: text
+type: manuscript
 tags: 
 - Coyote and bounty payments
 ---
