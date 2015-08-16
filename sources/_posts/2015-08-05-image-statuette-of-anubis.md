@@ -1,10 +1,10 @@
 ---
 layout: source
 title: Statuette of Annubis
-category: Images
+category: Image
 pubdate: 1938
 source: Metropolitan Museum of Art
-type: image
+type: images
 tags:
 - Coyote as Art
 - Coyote and Mesoamerica
