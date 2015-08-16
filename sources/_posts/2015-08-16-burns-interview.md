@@ -1,19 +1,17 @@
 ---
 layout: source
-title: Burns, Oral History 
+title: Burns, Reminiscings of a cattleman
 category: Literary Works
-pubdate: 1938
+pubdate: 1936
 source: Library of Congress
 type: text
 tags: 
 - Coyote and Cunning
-- Coyote, descriptions of howl
 - Coyote as predator
-- Coyote and Dogs
 ---
 
 
-Burns, Rollie C, and Ivey G. Warren. Library of Congress, Manuscript Division, WPA Federal Writers' Project Collection. 1936. http://www.loc.gov/item/wpalh002606/.
+[Burns, Rollie C, and Ivey G. Warren. Library of Congress, Manuscript Division, WPA Federal Writers' Project Collection. 1936.] (http://www.loc.gov/item/wpalh002606/)
 
 Personal Interview R.C. Burns “Rollie Burns” by Dr. W.C.Holden. REMINISCINGS OF A CATTLEMAN
 
