@@ -1,6 +1,6 @@
 ---
 layout: source
-title: 
+title: Historia Naturae
 category: Natural History
 pubdate: 1635
 source: Library of Congress
