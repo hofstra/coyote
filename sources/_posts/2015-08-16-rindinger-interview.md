@@ -22,8 +22,7 @@ Then I went into the broom busines 1890, Lived in the sandhills but I worked in 
 
 I worked in a distillery at Nebraska City thru the winters when I was about 20 ears old and I learned how to make whiskey.
 
-I got some broom corn out to “Grandpa Bowers” out South of Grainton and I went out to make up brooms. He lived with his son Lon Bowers and I went over there. I moved my broom machines where I got the broom corn. Bowers was out there makin' up whiskey and
-I learnt him so he could make good whiskey. I [brot?] [?] in a gallon and I got $12.00 for it and they said it was better than any bonded whiskey, that was in prohibition days.
+I got some broom corn out to “Grandpa Bowers” out South of Grainton and I went out to make up brooms. He lived with his son Lon Bowers and I went over there. I moved my broom machines where I got the broom corn. Bowers was out there makin' up whiskey and I learnt him so he could make good whiskey. I [brot?] [?] in a gallon and I got $12.00 for it and they said it was better than any bonded whiskey, that was in prohibition days.
 
 My Uncle was a captain in the Civil War and the old man Tillian[?] served under my Uncle. I was peddlin' brooms up by Hershey and ran onto Tillians and they made me stay a week with them. Hunter's [Huntin's?] different than what it was when I came here. The 4 years I rode here I killed 600 coyotes and got $1.00 cash for everyone. I only got $28.00 a month for 4 years that I rode here but I made $600 killing the coyotes. I lived out at the head of Pawnee Creek.
 
