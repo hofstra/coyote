@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Rindinger, Oral History 
+title: Rindinger, Oral History
 category: Oral Histories
 pubdate: 1938
 source: Library of Congress
