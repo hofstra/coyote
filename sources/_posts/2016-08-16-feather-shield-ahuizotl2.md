@@ -4,7 +4,7 @@ title: Feather Shield of Ahuizotl
 category: Images
 pubdate: 1892
 source: Internet Archive
-type: image
+type: images
 tags:
 - Coyote and women 
 - Coyote as Art
