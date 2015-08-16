@@ -1,7 +1,7 @@
 ---
 layout: source
 title: Feather Shield of Ahuizotl 
-category: Image
+category: Images
 pubdate: 1325-1521
 source: Weltmuseum Wien, Vienna
 type: image
