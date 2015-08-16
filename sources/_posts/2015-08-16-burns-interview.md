@@ -1,7 +1,7 @@
 ---
 layout: source
 title: Burns, Reminiscings of a cattleman
-category: Literary Works
+category: Oral Histories 
 pubdate: 1936
 source: Library of Congress
 type: Manuscript 
