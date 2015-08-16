@@ -1,9 +1,9 @@
 ---
 layout: source
-title: Rindinger, Oral History 
+title: Acel Rowley and Dog with Coyote Hides
 category: Literary Works
-pubdate: 1938
-source: Library of Congress
+pubdate: 1939
+source: Uintah County Library
 type: text
 tags: 
 - Coyote and Cunning
