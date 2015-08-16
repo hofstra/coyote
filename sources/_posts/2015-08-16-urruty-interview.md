@@ -1,7 +1,7 @@
 ---
 layout: source
 title: Urruty, Oral History 
-category: Oral Histories
+category: Oral History
 pubdate: 1978
 source: Library of Congress
 type: text
