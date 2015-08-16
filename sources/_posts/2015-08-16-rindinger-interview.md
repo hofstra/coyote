@@ -1,7 +1,7 @@
 ---
 layout: source
 title: Rindinger, Oral History 
-category: Literary Works
+category: Oral Histories
 pubdate: 1938
 source: Library of Congress
 type: text
