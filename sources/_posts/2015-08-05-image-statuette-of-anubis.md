@@ -8,7 +8,7 @@ type: image
 tags:
 - Coyote as Art
 - Coyote and Mesoamerica
-img: https://s3.amazonaws.com/omeka-net/12543/archive/files/fbc6feeb62fa6217422c2256566a8033.jpg?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1438823447&Signature=APtGANop%2FTt7j12vqJoowO8tMBs%3D
+img: /sources/img/statuette-anubis.jpg
 ---
 
 Note that `img` in the metadata can also specify a local image. To do so:
