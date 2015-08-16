@@ -1,10 +1,10 @@
 ---
 layout: source
 title: Acel Rowley and Dog with Coyote Hides
-category: Literary Works
+category: Images
 pubdate: 1939
 source: Uintah County Library
-type: text
+type: image
 tags: 
 - Coyote and Cunning
 - Coyote, descriptions of howl
