@@ -9,4 +9,5 @@ tags:
 - Coyote Pelt
 - Coyote and Hunting Tournament 
 - Coyote and trophy photo
-img: /sources/img/coyote-hunt-ford-county-kansas.jpg 
+img: /sources/img/coyote-hunt-ford-county-kansas.jpg
+---
