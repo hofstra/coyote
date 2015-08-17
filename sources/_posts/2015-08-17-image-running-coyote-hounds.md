@@ -9,5 +9,5 @@ tags:
 - Coyote and Dogs
 - Coyote Hunting 
 - Coyote as Art
-img: /sources/img/running-coyote-hounds-california.jpg 
+img: /sources/img/running-coyote-hound-california.jpg
 ---
