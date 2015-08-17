@@ -3,7 +3,7 @@ layout: source
 title: The Kitten and the Coyote
 category: Images
 pubdate: 
-source: Montana Historial Society, Montana Memory Project
+source: Montana Historical Society, Montana Memory Project
 type: image
 tags: 
 - Coyote and Domestication 
