@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Jim McPherson Jr. aiming a rifle into the brush at coyote
+title: Jim McPherson Jr. holding a rifle, standing behind a coyote
 category: Images
 pubdate: c., 1910-1950
 source: Multimedia Archives, Special Collections, J. Willard Marriott Library, University of Utah
