@@ -4,7 +4,7 @@ title: Urruty, Oral History
 category: Oral History
 pubdate: 1978
 source: Library of Congress
-type: text
+type: manuscript
 tags: 
 - Coyote and Cunning
 - Coyote and Trapping
