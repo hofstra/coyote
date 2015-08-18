@@ -1,7 +1,7 @@
 ---
 layout: source
-title: Images
-category: Coyote Caught in Trap
+title: Coyote Caught in Trap
+category: Images
 pubdate: 
 source: Archival Photographs from the University of Montana 
 type: image
