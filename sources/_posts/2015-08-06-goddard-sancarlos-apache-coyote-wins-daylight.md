@@ -11,7 +11,7 @@ tags:
 - Coyote as trickster
 ---
 
-(Goddard, Pliny Earle. *Myths and Tales from the San Carlos Apache. Anthropological Papers of the American Museum of Natural History* 24 1918.] (http://digitallibrary.amnh.org/handle/2246/164)
+[Goddard, Pliny Earle. *Myths and Tales from the San Carlos Apache. Anthropological Papers of the American Museum of Natural History* 24 1918.] (http://digitallibrary.amnh.org/handle/2246/164)
 
 Winning Daylight (Version 1)
 
