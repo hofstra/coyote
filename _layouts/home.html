@@ -16,7 +16,7 @@
 {% endfor %}
     </ul>
 
-    <h3>Output <span class="code">sources/_posts</span> using <span class="code">site.categories.sources</span> and support linked content page</h3>
+    <h3 id="categories">Output <span class="code">sources/_posts</span> using <span class="code">site.categories.sources</span> and support linked content page</h3>
     <p>This is the list of all myth sources posted to the site.</p>
     <ul>
 {% for source in site.categories.sources %}
@@ -36,7 +36,7 @@
     </ul>
 {% endfor %}
 
-    <h3>Output tag index based on files in <span class="code">tags/_posts</span> and support linked content page</h3>
+    <h3 id="tags">Output tag index based on files in <span class="code">tags/_posts</span> and support linked content page</h3>
     <p>This is the curated tag list based on corresponding posts.</p>
     <ul>
 {% for tag in site.categories.tags %}
