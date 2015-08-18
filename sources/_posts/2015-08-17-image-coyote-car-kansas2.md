@@ -1,7 +1,7 @@
 ---
 layout: source
-title: Images
-category: Coyote Hunt (1910-1929)
+title: Coyote Hunt (1910-1929)
+category: Images
 pubdate: 1910-1929
 source: KansasMemory.org, Kansas Historical Society
 type: image
