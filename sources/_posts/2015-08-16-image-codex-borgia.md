@@ -1,7 +1,7 @@
 ---
 layout: source
-title: Images
-category: Codex Borgia
+title: Codex Borgia
+category: Images
 pubdate: 
 source: Loubat collection, Foundation for the Advancement of Mesoamerican Studies (FAMSI)
 type: image
