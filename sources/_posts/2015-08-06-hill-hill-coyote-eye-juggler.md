@@ -13,7 +13,7 @@ tags:
 
 [W. W. Hill and Dorothy W. Hill. “Navaho Coyote Tales and Their Position in the Southern Athabaskan Group.” *The Journal of American Folklore* 58, No. 230 (1945), pp. 317-343.] (http://www.jstor.org/stable/537185)
 
-Coyote Loses His Eyes (Eye Juggler )
+Coyote Loses His Eyes (Eye Juggler)
 
 A long time ago there were some snowbirds, who had a trick. They sat in a piñion tree, took out their eyes, and threw them over the tree. Then they called their eyes, and the eyes came back into their heads.
 Coyote came along and watched the birds. He took out his eyes and threw them upwards, but they stuck in a tree limb.  The eyes did not fall back again and Coyote had to walk around blind. He felt around and found some piñion pitch and put this into his eyes.  That is why Coyote has yellow eyes today.
