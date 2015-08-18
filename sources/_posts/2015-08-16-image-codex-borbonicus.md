@@ -1,7 +1,7 @@
 ---
 layout: source
-title: Images
-category: Codex Borbonicus
+title: Codex Borbonicus
+category: Images
 pubdate: c., 1519
 source: Loubat collection, Foundation for the Advancement of Mesoamerican Studies (FAMSI)
 type: image
