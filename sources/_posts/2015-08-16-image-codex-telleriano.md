@@ -1,7 +1,7 @@
 ---
 layout: source
-title: Images
-category: Codex Telleriano
+title: Codex Telleriano
+category: Images
 pubdate: c., 1500-1600
 source: Loubat collection, Foundation for the Advancement of Mesoamerican Studies (FAMSI)
 type: image
