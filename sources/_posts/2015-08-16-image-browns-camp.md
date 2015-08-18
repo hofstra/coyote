@@ -1,7 +1,7 @@
 ---
 layout: source
-title: Images
-category: Brown’s Camp
+title: Brown’s Camp
+category: Images
 pubdate: 
 source: Montana Historical Society, Cameron, Evelyn, 1868-1928
 type: image
