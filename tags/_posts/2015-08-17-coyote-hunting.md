@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: - Coyote Hunting
+title: Coyote Hunting
 ---
-This is content written about this tag. 
+This is content written about this tag.
