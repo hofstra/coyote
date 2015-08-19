@@ -7,7 +7,7 @@ source: KansasMemory.org, Kansas Historical Society
 type: image
 tags: 
 - Coyote Pelt
-- Coyote and Hunting Tournament 
+- Coyote Hunting
 - Coyote and trophy photo
 img: /sources/img/coyote-hunt-ford-county-kansas.jpg
 ---
