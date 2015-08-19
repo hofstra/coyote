@@ -1,7 +1,7 @@
 ---
 layout: source
 title: Wolf and Coyote Trapping
-category: Trapping and Hunting 
+category: Trapping and Hunting Descriptions
 pubdate: 1909
 source: Internet Archive
 type: text
