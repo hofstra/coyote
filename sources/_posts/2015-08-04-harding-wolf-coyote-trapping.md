@@ -10,6 +10,7 @@ tags:
 - Coyote Pelt
 - Coyote as pest
 - Poison
+- -Coyote and Trapping
 ---
 
 [Harding, A. R. (Arthur Robert). 1909. *Wolf and Coyote Trapping An Up-to-Date Wolf Hunter’s Guide, Giving the Most Successful Methods of Experienced Wolfers for Hunting and Trapping These Animals, Also Gives Their Habits in Detail.* Columbus, OH: A.R. Harding Publishers.] (https://archive.org/details/wolfcoyotetrappi00hard)
