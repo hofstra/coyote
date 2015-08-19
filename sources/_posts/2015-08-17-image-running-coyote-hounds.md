@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Man shows coyote hides
+title: Running Coyote With Hounds
 category: Images
 pubdate: 1935
 source: Western History/Genealogy Dept., Denver Public Library
