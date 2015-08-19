@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote Hunt, Western Kansas
+title: Coyote Hunt, Western Kansas (1)
 category: Images
 pubdate: 1900-1905
 source: KansasMemory.org, Kansas Historical Society 
