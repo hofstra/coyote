@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote and Hounds
+title: Coyote and Hounds (1)
 category: Images
 pubdate: 1904?
 source: Western History/Genealogy Dept., Denver Public Library
