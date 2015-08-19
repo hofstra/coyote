@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote as Eye Juggler
+title: Coyote Marries Daughter
 category: Myths
 pubdate: 1938
 source: Hathi Trust Digital Library 
