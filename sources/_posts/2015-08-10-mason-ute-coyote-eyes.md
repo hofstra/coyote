@@ -8,7 +8,6 @@ type: myth
 tags:
 - Coyote and Native Americans
 - Coyote as trickster
-- Coyote as hero
 - Coyote and eye juggler 
 - Coyote and women
 ---
