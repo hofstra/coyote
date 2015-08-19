@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Historia Naturae Maxime Peregrinae
+title: Historia Naturae Maxime Peregrinae (page)
 category: Images
 pubdate: 1635
 source: Library of Congress
