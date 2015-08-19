@@ -1,6 +1,6 @@
 ---
 layout: source
-title: 
+title: Coyote Marries Under False Pretenses
 category: Myths
 pubdate: 1911
 source: American Museum of Natural History, Research Library
