@@ -9,5 +9,6 @@ tags:
 - Coyote as specimen
 - Coyote and natural history
 - Coyote and Trapping
+- Coyote and Settler-Colonialists
 img: /sources/img/say-canis-latrans-description.jpg
 ---
