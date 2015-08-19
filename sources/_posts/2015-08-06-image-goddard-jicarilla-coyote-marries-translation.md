@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote Marries Under False Pretenses
+title: Coyote Marries Under False Pretenses (phonetic transcription)
 category: Myths
 pubdate: 1911
 source: Internet Archive
