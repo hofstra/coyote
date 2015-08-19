@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Thomas Say, Canis Latrans
+title: Thomas Say, Canis Latrans (page view)
 category: Images
 pubdate: 1823
 source: Internet Archive
