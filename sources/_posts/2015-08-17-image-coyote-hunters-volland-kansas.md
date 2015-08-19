@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote Hunters, Volland, Kansas
+title: Coyote Hunters in Volland, Kansas
 category: Images
 pubdate: 1940-1950
 source: KansasMemory.org, Kansas Historical Society 
