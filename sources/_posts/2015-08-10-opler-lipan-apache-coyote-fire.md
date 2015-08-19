@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote as Eye Juggler
+title: Coyote Steals Fire from the Fireflies
 category: Myths
 pubdate: 1940
 source: Hathi Trust Digital Library 
