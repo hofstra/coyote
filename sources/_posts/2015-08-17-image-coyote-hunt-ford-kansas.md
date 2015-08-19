@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote Hunt Ford County, KS
+title: Coyote Hunt Ford County, Kansas
 category: Images
 pubdate: 1914
 source: KansasMemory.org, Kansas Historical Society 
