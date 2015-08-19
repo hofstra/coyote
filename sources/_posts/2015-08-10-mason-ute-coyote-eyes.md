@@ -7,10 +7,10 @@ source: JSTOR
 type: myth
 tags:
 - Coyote and Native Americans
-- Coyote steals fire
 - Coyote as trickster
 - Coyote as hero
 - Coyote and eye juggler 
+- Coyote and women
 ---
 
 [Mason, J. Alden. Myths of the Uintah Utes. *Journal of American Folk-Lore* 1910, Vol. 23, pp. 299-363.]
