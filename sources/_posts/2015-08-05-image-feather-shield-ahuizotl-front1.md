@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Feather Shield of Ahuizotl
+title: Feather Shield of Ahuizotl (front 1)
 category: Images
 pubdate: 1892
 source: Internet Archive
