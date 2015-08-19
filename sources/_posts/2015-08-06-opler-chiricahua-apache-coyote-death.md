@@ -7,7 +7,6 @@ source: Hathi Trust’ Digital Library
 type: myth
 tags:
 - Coyote and Native Americans
-- Coyote steals fire
 - Coyote as trickster
 - Coyote brings death
 ---
