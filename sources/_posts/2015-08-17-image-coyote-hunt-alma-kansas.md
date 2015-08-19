@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote Hunters, Alma, Kansas
+title: Coyote Hunters in Alma, Kansas
 category: Images
 pubdate:
 source: KansasMemory.org, Kansas Historical Society 
@@ -9,5 +9,4 @@ tags:
 - Coyote and Hunting Tournament 
 - Coyote and trophy photo
 img: /sources/img/coyote-hunters-alma-kansas.jpg 
-
 ---
