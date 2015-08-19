@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Twain, Roughin It
+title: Twain, Roughin It (2)
 category: Images
 pubdate: 1872
 source: Project Gutenberg
