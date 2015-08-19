@@ -8,10 +8,7 @@ type: myth
 tags:
 - Coyote and Native Americans
 - Coyote as trickster
-- Coyote as hero
 - Coyote and eye juggler 
-- Coyote marries daughter 
-- Coyote and women 
 ---
 
 [Opler, Morris Edward. *Myths and Tales of the Jicarilla Apache Indians.* *Memoirs American Folklore Society* 31 New York, 1938.] (http://hdl.handle.net/2027/miun.agy7794.0001.001)
