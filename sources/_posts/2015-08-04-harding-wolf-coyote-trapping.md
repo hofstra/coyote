@@ -9,7 +9,7 @@ tags:
 - Coyote and conflicts with ranching
 - Coyote Pelt
 - Coyote as pest
-- Poison
+- Coyote and Poison 
 - -Coyote and Trapping
 ---
 
