@@ -9,9 +9,9 @@ tags:
 - Coyote and conflicts with ranching
 - Coyote and Dogs
 - Coyote and bounty payments
-- Coyote and Theodore Roosevelt, 
+- Coyote and Theodore Roosevelt
 - Coyote and conflicts with civilization
-- Coyote and Hunting Tournament 
+- Coyote Hunting
 ---
 
 [“Hunting Coyotes Jolly Good Sport.” *Evening Star*. (Washington, D.C.) 1854-1972. May 14, 1905. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn83045462/1905-05-14/ed-1/seq-28/)
