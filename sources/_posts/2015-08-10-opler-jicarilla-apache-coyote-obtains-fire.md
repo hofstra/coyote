@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote as Eye Juggler
+title: Coyote Obtains Fire
 category: Myths
 pubdate: 1938
 source: Hathi Trust Digital Library 
