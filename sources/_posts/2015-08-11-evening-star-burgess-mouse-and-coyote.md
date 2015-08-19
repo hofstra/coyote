@@ -1,7 +1,7 @@
 ---
 layout: source
 title: Danny Meadow Mouse Shivers and Shakes
-category: Newspapers
+category: Literary Works
 pubdate: 1916-11-20
 source: Library of Congress
 type: children's story
