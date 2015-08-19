@@ -1,7 +1,7 @@
 ---
 layout: source
 title: Coyote or Bear?
-category: Texts
+category: Scholarly Works
 pubdate: 1893-09-01
 source: JSTOR
 type: text
