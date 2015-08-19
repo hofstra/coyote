@@ -6,7 +6,7 @@ pubdate: 1904-08-06
 source: Library of Congress
 type: article
 tags:
-- Coyote and Hunting Tournament
+- Coyote Hunting
 - Coyote and conflicts with ranching
 ---
 [“Pariah of the Skyline.” *Holbrook Argus.* Holbrook, Ariz. 1900-1913. August 6, 1904. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn94051342/1904-08-06/ed-1/seq-3/)
