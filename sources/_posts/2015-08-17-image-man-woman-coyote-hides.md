@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Man shows coyote hides
+title: Man shows coyote hides (2)
 category: Images
 pubdate: 1907-1917
 source: Nebraska State Historical Society
