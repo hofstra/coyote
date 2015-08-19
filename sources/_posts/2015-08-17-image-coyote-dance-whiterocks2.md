@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote Dance White Rocks (1)
+title: Coyote Dance White Rocks (2)
 category: Images
 pubdate: 1909
 source: Multimedia Archives, Special Collections, J. Willard Marriott Library, University of Utah
