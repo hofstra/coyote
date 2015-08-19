@@ -8,7 +8,7 @@ type: article
 tags:
 -  Coyote Pelt
 - Coyote as pest
-- Poison
+- Coyote and Poison
 - Coyote and conflicts with ranching
 ---
 [“U.S. Introduces New Coyote Poison To Kill Off Pest.” *Arizona Republican*. March 28, 1920.] (http://chroniclingamerica.loc.gov/lccn/sn84020558/1920-03-28/ed-1/seq-8/#date1=1836&sort=relevance&rows=20&words=coyote+COYOTE+coyotes&searchType=basic&sequence=0&index=10&state=&date2=1922&proxtext=coyote&y=0&x=0&dateFilterType=yearRange&page=5)
