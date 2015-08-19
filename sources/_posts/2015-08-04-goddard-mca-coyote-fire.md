@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Myths and Tales from the San Carlos Apache, Securing Fire
+title: Securing Fire
 category: Myths
 pubdate: 1918
 source: American Museum of Natural History, Research Library 
