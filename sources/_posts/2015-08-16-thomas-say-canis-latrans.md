@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Thomas Say's Description of Canis Latrans
+title: Thomas Say, Canis Latrans
 category: Natural History
 pubdate: 1820
 source: Internet Archive
