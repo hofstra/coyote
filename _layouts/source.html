@@ -17,7 +17,23 @@
             {% if page.caption %}<figcaption>{{ page.caption }}</figcaption>{% endif %}
         </figure>
         {% endif %}
+
+        {% if page.youtube_url %}
+        <div class="video-wrapper" style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube_url | split: "v=" | last }}" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+        </div>
+        {% endif %}
+
+        {% if page.article_url %}
+        <p><img src="{{ site.baseurl }}/ui/img/article.png" width="100" style="vertical-align: middle;" /> <a href="{{ page.article_url }}">Read Article</a></p>
+        {% endif %}
+
         {{ content }}
+
+        {% if page.citation_title %}
+        <p><strong>Source: {% if page.citation_url %}<a href="{{ page.citation_url }}">{% endif %}{{ page.citation_title }}{% if page.citation_url %}</a>{% endif %}</strong>{% if page.citation_biblio %}<br />{{ page.citation_biblio }}{% endif %}</p>
+        {% endif %}
+
         <p><strong>Tagged:</strong>
 {% for tag in page.tags %}
         <a href="{{ site.baseurl }}/tags/{{ tag | downcase | replace: ' ', '-'}}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}

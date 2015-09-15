@@ -6,7 +6,7 @@ pubdate: 2015-04-25
 source: New York Times
 type: article
 tags:
--  Urban Coyote
--  NYC Coyote
+- Urban Coyote
+- NYC Coyote
+article_url: http://www.nytimes.com/2015/04/26/nyregion/police-capture-a-coyote-in-manhattans-battery-park-city.html?_r=0
 ---
-http://www.nytimes.com/2015/04/26/nyregion/police-capture-a-coyote-in-manhattans-battery-park-city.html?_r=0

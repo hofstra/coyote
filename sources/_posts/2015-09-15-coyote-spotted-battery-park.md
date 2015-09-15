@@ -6,7 +6,7 @@ pubdate: 2015-04-27
 source: YouTube
 type: article
 tags:
--  Urban Coyote
--  NYC Coyote
+- Urban Coyote
+- NYC Coyote
+youtube_url: https://www.youtube.com/watch?v=oRxYmk5Zwe8
 ---
-https://www.youtube.com/watch?v=oRxYmk5Zwe8
