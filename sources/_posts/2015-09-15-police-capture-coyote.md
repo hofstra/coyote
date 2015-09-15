@@ -3,8 +3,8 @@ layout: source
 title: Police Capture a Coyote in Manhattan’s Battery Park City
 category: Urban Coyote
 pubdate: 2015-04-25
-source: Library of Congress
-type: New York Times
+source: New York Times
+type: article
 tags:
 -  Urban Coyote
 -  NYC Coyote
