@@ -24,3 +24,5 @@ permalink: /:categories/:title/
 # Compensating for gh-pages project site
 baseurl: /coyote
 # https://github.com/jekyll/jekyll/issues/332
+
+asset_url: http://hofstra.github.io/design-framework
