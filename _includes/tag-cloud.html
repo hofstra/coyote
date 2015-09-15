@@ -7,7 +7,7 @@
 {% for tag_post in site.categories.tags %}
 {% if tag_post.tag == tag | first %} true {% endif %}
 {% endfor %}
-                <a href="{{ site.baseurl }}/tags/{{ tag | first | replace: ' ', '-'}}">{{ tag | first | replace: ' ', '-'}}</a>{% if forloop.last == false %}, {% endif %}
+                <a href="{{ site.baseurl }}/tags/{{ tag | first | downcase | replace: ' ', '-'}}">{{ tag | first }}</a>{% if forloop.last == false %}, {% endif %}
             </span>
 {% endfor %}
             </p>
