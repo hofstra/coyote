@@ -1,10 +1,10 @@
 ---
 layout: source
-title: U.S. Introduces New Coyote Poison To Kill Off Pest
+title: Police Capture a Coyote in Manhattan’s Battery Park City
 category: Urban Coyote
 pubdate: 2015-04-25
 source: Library of Congress
-type: article
+type: New York Times
 tags:
 -  Urban Coyote
 -  NYC Coyote
