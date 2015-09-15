@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{% include head.html %}
+    <title>{{ page.title }}</title>
+</head>
+<body>
+<div class="outer">
+    {% include brand-bar.html %}
+    {% include main-nav.html %}
+    {% include header-img.html %}
+    <div class="wrapper content-wrapper">
+
+        <h1>{{ page.title }}</h1>
+
+        {{ content }}
+
+        <div class="two-col"><div class="col-one">
+            <h2>Posts by Chapter [1st category]</h2>
+            <h3>Pleistocene Coyote</h3>
+            <ul>
+{% assign posts = site.categories.pleistocene-coyote %}
+{% for post in posts %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+            </ul>
+            <h3>Mesoamerican Coyote</h3>
+            <ul>
+{% assign posts = site.categories.mesoamerican-coyote %}
+{% for post in posts | sort: "title" %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+            </ul>
+            <h3>Coyote as Trickster</h3>
+            <ul>
+{% assign posts = site.categories.coyote-as-trickster %}
+{% for post in posts %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+            </ul>
+            <h3>Coyote as Varmint</h3>
+            <ul>
+{% assign posts = site.categories.coyote-as-varmint | sort:'title' %}
+{% for post in posts %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+            </ul>
+            <h3>Urban Coyote</h3>
+            <ul>
+{% assign posts = site.categories.urban-coyote %}
+{% for post in posts %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+            </ul>
+            <h2>All Categories [<span class="code">index</span>]</h2>
+            {% assign groups = site.categories.sources | group_by: "index" | sort: "name" %}
+            {% for group in groups %}
+            <h3>{{ group.name }}</h3>
+            <ul>
+            {% for item in group.items %}
+                <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+            {% endfor %}
+            </ul>
+            {% endfor %}
+        </div>
+        <div class="col-two">
+            <h2>Tags</h2>
+{% include tag-cloud.html %}
+        </div></div>
+
+        <p>Last built: {{site.time}}</p>
+    </div>
+</div>
+{% include footer.html %}
+</body>
+</html>

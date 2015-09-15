@@ -13,41 +13,8 @@
 
         <h1>{{ page.title }}</h1>
 
-        <h3>Output all site tags, including those in <span class="code">sources/_posts</span></h3>
-        <p>This is the non-curated tag list, demonstrating that tags in all posts are outputted.</p>
         <ul>
-        {% for tag in site.tags %}
-        {% comment %}Outputting `tag` without `[0]` outputs all posts!{% endcomment %}
-            <li>{{ tag[0] }}</li>
-        {% endfor %}
-        </ul>
-
-        <h3>Output <span class="code">sources/_posts</span> using <span class="code">site.categories.sources</span> and support linked content page</h3>
-        <p>This is the list of all myth sources posted to the site.</p>
-        <ul>
-        {% for source in site.categories.sources %}
-            <li><a href="{{ site.baseurl }}{{ source.url }}">{{ source.title }}</a></li>
-        {% endfor %}
-        </ul>
-
-        <h3 id="categories">Output <span class="code">source/posts</span> using <span class="code">site.categories.sources</span> and grouping by secondary categories, and support linked content page</h3>
-        <p>This is the list of myth sources posted to the site, grouped by single category in the YAML metadata.</p>
-        {% assign groups = site.categories.sources | group_by: "index" | sort: "name" %}
-        {% for group in groups %}
-        <h4>{{ group.name }}</h4>
-        <ul>
-        {% for item in group.items %}
-            <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-        </ul>
-        {% endfor %}
-
-        <h3 id="tags">Output tag index based on files in <span class="code">tags/_posts</span> and support linked content page</h3>
-        <p>This is the curated tag list based on corresponding posts.</p>
-        <ul>
-        {% for tag in site.categories.tags %}
-            <li><a href="{{ site.baseurl }}{{ tag.url }}">{{ tag.title }}</a></li>
-        {% endfor %}
+            <li><a href="{{ site.baseurl }}/browse">Browse posts</a></li>
         </ul>
 
 

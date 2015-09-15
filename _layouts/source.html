@@ -5,13 +5,24 @@
     <title>{{ page.title }}</title>
 </head>
 <body>
-    <h1>{{ page.title }}</h1>
-    {% if page.type == 'image' %}
-    <img src="{{ site.baseurl }}{{ page.img }}" style="max-width: 50%;" />
-    {% endif %}
-    {{ content }}
-    <hr />
-    <p>File: {{ page.path }}</p>
-    <p>Last built: {{site.time}}</p>
+<div class="outer">
+    {% include brand-bar.html %}
+    {% include main-nav.html %}
+    {% include header-img.html %}
+    <div class="wrapper content-wrapper">
+        <h1>{{ page.title }}</h1>
+        {% if page.type == 'image' %}
+        <figure>
+            <a class="fancybox" href="{{ site.baseurl }}{{ page.img }}"><img src="{{ site.baseurl }}{{ page.img }}" style="max-width: 50%;" /></a>
+            {% if page.caption %}<figcaption>{{ page.caption }}</figcaption>{% endif %}
+        </figure>
+        {% endif %}
+        {{ content }}
+
+        <p>File: {{ page.path }}</p>
+        <p>Last built: {{site.time}}</p>
+    </div>
+</div>
+{% include footer.html %}
 </body>
 </html>
