@@ -2,6 +2,7 @@
         <p class="show-mobile-nav"><a href="#">Menu<!--&#8964;--></a></p>
         <ul>
             <li><a href="{{ site.baseurl }}/">Home</a></li>
+            <li><a href="{{ site.baseurl }}/browse/"{% if page.active == 'browse-posts'%} class="active"{% endif %}>Browse Posts</a></li>
             <li><a href="#"{% if page.active == 'about-the-project'%} class="active"{% endif %}>About the Project</a></li>
             <li><a href="#">About the Team</a></li>
             <li><a href="#">Contact Us</a></li>
