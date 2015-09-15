@@ -26,7 +26,7 @@
 
     <h3 id="categories">Output <span class="code">source/posts</span> using <span class="code">site.categories.sources</span> and grouping by secondary categories, and support linked content page</h3>
     <p>This is the list of myth sources posted to the site, grouped by single category in the YAML metadata.</p>
-{% assign groups = site.categories.sources | group_by: "category" | sort: "name" %}
+{% assign groups = site.categories.sources | group_by: "index" | sort: "name" %}
 {% for group in groups %}
     <h4>{{ group.name }}</h4>
     <ul>

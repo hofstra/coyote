@@ -1,7 +1,10 @@
 ---
 layout: source
 title: Wolf and Coyote Trapping
-category: Trapping and Hunting Descriptions
+categories:
+- coyote-as-varmint
+- trapping-and-hunting-descriptions
+index: Trapping and Hunting Descriptions
 pubdate: 1909
 source: Internet Archive
 type: text
@@ -9,14 +12,14 @@ tags:
 - Coyote and conflicts with ranching
 - Coyote Pelt
 - Coyote as pest
-- Coyote and Poison 
-- -Coyote and Trapping
+- Coyote and Poison
+- Coyote and Trapping
 ---
 
 [Harding, A. R. (Arthur Robert). 1909. *Wolf and Coyote Trapping An Up-to-Date Wolf Hunter’s Guide, Giving the Most Successful Methods of Experienced Wolfers for Hunting and Trapping These Animals, Also Gives Their Habits in Detail.* Columbus, OH: A.R. Harding Publishers.] (https://archive.org/details/wolfcoyotetrappi00hard)
 ***
 Note
-The book cover may be of some interest here, perhaps as a thumbnail: 
+The book cover may be of some interest here, perhaps as a thumbnail:
 /sources/img/harding-wolf-coyote-trapping-cover.jpg
 /sources/img/harding-wolf-coyote-trapping-cover1.jpg
 ***
@@ -33,9 +36,9 @@ Coyotes are intelligent and cunning animals and their habits and general appeara
 
 "The coyote bears the same relation to the wolf family that the Apache Indian does to the human race. It is a belief among some of the Apaches that they turn into coyotes when they depart this life, and nothing will induce one of them to kill a coyote. Like the Indian he is sneaky and treacherous, and full of the devil." <sup>[1](#myfootnote1)</sup>
 
-While there is no doubt that the animal enjoys its wild, free life, it always has a miserable, distressed expression. It carries its tail in a drooping manner and slinks out of sight like a dog that has been doing wrong and has a troubled conscience. The high piercing cry of the animal, which is so different from the deep bass note of the timber wolf, is mournful in the extreme. In the morning before the coyotes retire for the day, they stop on the top of some elevation and  sound their “reveille", which once heard will never be forgotten. It is a shrill, piercing note, combining a howl with a bark and although in all probability there will be only a pair of the animals, one who does not know would be inclined to think that the number is larger, the notes are so commingled. Coyotes live in natural dens in the rocks, also in dens of badgers, in the prairie country. In the "Bad Lands"  of the West and the foot hills of the mountain ranges, wind worn holes in the rim-rock and buttes are quite common and the animals have no trouble in securing a good den. 
+While there is no doubt that the animal enjoys its wild, free life, it always has a miserable, distressed expression. It carries its tail in a drooping manner and slinks out of sight like a dog that has been doing wrong and has a troubled conscience. The high piercing cry of the animal, which is so different from the deep bass note of the timber wolf, is mournful in the extreme. In the morning before the coyotes retire for the day, they stop on the top of some elevation and  sound their “reveille", which once heard will never be forgotten. It is a shrill, piercing note, combining a howl with a bark and although in all probability there will be only a pair of the animals, one who does not know would be inclined to think that the number is larger, the notes are so commingled. Coyotes live in natural dens in the rocks, also in dens of badgers, in the prairie country. In the "Bad Lands"  of the West and the foot hills of the mountain ranges, wind worn holes in the rim-rock and buttes are quite common and the animals have no trouble in securing a good den.
 
-Naturally, they select the most secluded and inaccessible places for their dens. The food of the coyote consists of small game, such as hares and grouse, prairie dogs and any other small animals that they can capture. In the sheep raising districts of the Western States they are very destructive to sheep and in those parts it is probable that their food consists mostly of mutton. They feed on carrion and have a particular liking for horse flesh. They also kill badgers and when conditions are very favorable may kill an occasional deer or antelope. They also sometimes kill calves and hogs. Speaking of conditions in Oregon and other parts of the Northwest, one of our friends writes: 
+Naturally, they select the most secluded and inaccessible places for their dens. The food of the coyote consists of small game, such as hares and grouse, prairie dogs and any other small animals that they can capture. In the sheep raising districts of the Western States they are very destructive to sheep and in those parts it is probable that their food consists mostly of mutton. They feed on carrion and have a particular liking for horse flesh. They also kill badgers and when conditions are very favorable may kill an occasional deer or antelope. They also sometimes kill calves and hogs. Speaking of conditions in Oregon and other parts of the Northwest, one of our friends writes:
 
 "The prairie wolf or coyote in the Western states are becoming so numerous that it looks as though the sheep industry in Idaho and Eastern Oregon would soon be a thing of the past, if something it not done to lesson the number of the destructive coyotes.
 
@@ -47,7 +50,7 @@ The only way to kill coyotes these days is with the gun, the trap or with dogs. 
 
 It is said that when hunting rabbits, two coyotes will join forces and in this way one animal will drive the game to within reach of the other, thus avoiding the fatigue caused by running down game. Naturalists also claim that the adult animals will sometimes drive the game close to the den, so that the young coyotes may have the opportunity of killing it. They frequently pick up scraps about the camps, and if undisturbed, will in a short time, lose much of their timidity. Old camping places are always inspected in the hopes of finding some morsel of food, and one can always find coyote tracks in the ashes of the campfire.
 
-Though the coyote belongs to the flesh-eating class of animals, it is not strictly carnivorous. In late summer when the wild rose tips are red and sweet and berries are plentiful, its flesh eating propensities forsake it in part and it adds fruit to its “bill of fare.” Whether this is caused by hunger or a change of appetite, or whether the fruit acts as a tonic and the animal, instinctively, realizes that it  must tone  up its system in preparation for the long winter, is not known. 
+Though the coyote belongs to the flesh-eating class of animals, it is not strictly carnivorous. In late summer when the wild rose tips are red and sweet and berries are plentiful, its flesh eating propensities forsake it in part and it adds fruit to its “bill of fare.” Whether this is caused by hunger or a change of appetite, or whether the fruit acts as a tonic and the animal, instinctively, realizes that it  must tone  up its system in preparation for the long winter, is not known.
 
 Coyotes have a  more regular breeding season than the timber wolves, for practically all of the young make their appearance in the months of April and May. The number of young varies from five to twelve. The young animals are of a yellowish grey color with brown ears and black tail, muzzle tawny or yellowish brown. As they become older they take on a lighter shade and the tail changes to greyish with a black tip. Both wolves  and coyotes pair for the breeding season and the males stay with the females during the summer and help take care of the young. It is probable that they do not breed until two years of age. As soon as the young are strong enough, and their eyes are open they commence to play about the  mouth of the den and later on the mother leads them to the nearest water and finally allows them to accompany her on hunting excursions. In late summer they start out to shift for themselves.
 
@@ -56,9 +59,9 @@ As before mentioned, the coyote is a wary and cunning animal, especially in the 
 In intelligence and cunning, we, consider the northern coyote the equal of the eastern red fox. While the western trappers make very large catches of coyotes, we believe that if foxes were found in equal numbers the catches of those animals would be fully as large.  The number of coyotes found in  some parts of the  West is almost incredible, and in most parts one will find a hundred coyotes to one grey wolf. The coyote  makes a track similar to that of the timber wolf, but considerably smaller.  The length of step, when walking, is about sixteen inches and the footprints will measure about two or two and a fourth inches in length by one and a half in width.
 ***
 
-<a name="myfootnote1">1</a>: 
-Harding quotes Vasama Brown, a trapper. His words express a sentiment also found in Twain's *Roughin It,* (also included in this collection). 
+<a name="myfootnote1">1</a>:
+Harding quotes Vasama Brown, a trapper. His words express a sentiment also found in Twain's *Roughin It,* (also included in this collection).
 
-"It is considered that the cayote, and the obscene bird, and the Indian of the desert, testify their blood kinship with each other in that they live together in the waste places of the earth on terms of perfect confidence and friendship, while hating all other creature and yearning to assist at their funerals." 
+"It is considered that the cayote, and the obscene bird, and the Indian of the desert, testify their blood kinship with each other in that they live together in the waste places of the earth on terms of perfect confidence and friendship, while hating all other creature and yearning to assist at their funerals."
 
 Twain, *Roughing it*
