@@ -25,4 +25,4 @@ permalink: /:categories/:title/
 baseurl: /coyote
 # https://github.com/jekyll/jekyll/issues/332
 
-asset_url: http://hofstra.github.io/design-framework
+asset_url: https://hofstra.github.io/design-framework
