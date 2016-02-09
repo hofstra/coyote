@@ -18,8 +18,10 @@
             <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
         </ul>
-        <p>File: {{ page.path }}</p>
-        <p>Last built: {{site.time}}</p>
+        <h4>File</h4>
+        <p>{{ page.path }}</p>
+        <h4>Last built</h4>
+        <p>{{site.time}}</p>
     </div>
 </div>
 {% include footer.html %}

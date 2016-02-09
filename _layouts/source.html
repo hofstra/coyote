@@ -29,20 +29,21 @@
         {% endif %}
 
         {{ content }}
-
+    </div>
+    <div class="meta content-wrapper"><div>
         {% if page.citation_title %}
         <p><strong>Source: {% if page.citation_url %}<a href="{{ page.citation_url }}">{% endif %}{{ page.citation_title }}{% if page.citation_url %}</a>{% endif %}</strong>{% if page.citation_biblio %}<br />{{ page.citation_biblio }}{% endif %}</p>
         {% endif %}
 
-        <p><strong>Tagged:</strong>
-{% for tag in page.tags %}
-        <a href="{{ site.baseurl }}/tags/{{ tag | downcase | replace: ' ', '-'}}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}
-{% endfor %}
+        <p class="tag-cloud"><strong>Tagged:</strong>
+    {% for tag in page.tags %}
+        <span><a href="{{ site.baseurl }}/tags/{{ tag | downcase | replace: ' ', '-'}}">{{ tag }}</a></span>{% if forloop.last == false %}, {% endif %}
+    {% endfor %}
         </p>
 
         <p>File: {{ page.path }}</p>
         <p>Last built: {{site.time}}</p>
-    </div>
+    </div></div>
 </div>
 {% include footer.html %}
 </body>

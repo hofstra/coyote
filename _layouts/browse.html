@@ -15,10 +15,10 @@
 
         {{ content }}
 
-        <p><em>Frank: Note that these headings, and the navigation link, can be refined. Presently they include cues as to how you can edit posts to fill them in.</em></p>
+        <!--<p><em>Frank: Note that these headings, and the navigation link, can be refined. Presently they include cues as to how you can edit posts to fill them in.</em></p>-->
 
         <div class="two-col"><div class="col-one">
-            <h2>Posts by Chapter [1st category]</h2>
+            <h2>Posts by Chapter</h2>
             <h3>Pleistocene Coyote</h3>
             <ul>
 {% assign posts = site.categories.pleistocene-coyote %}
@@ -54,7 +54,7 @@
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
             </ul>
-            <h2>All Categories [<span class="code">index</span>]</h2>
+            <h2>All Categories</h2>
             {% assign groups = site.categories.sources | group_by: "index" | sort: "name" %}
             {% for group in groups %}
             <h3>{{ group.name }}</h3>
