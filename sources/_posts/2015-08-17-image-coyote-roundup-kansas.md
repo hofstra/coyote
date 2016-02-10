@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote and Rabbit Round Up
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1917
 source: KansasMemory.org, Kansas Historical Society 
 type: image
