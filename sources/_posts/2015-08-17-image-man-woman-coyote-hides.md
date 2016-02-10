@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Man shows coyote hides (2)
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1907-1917
 source: Nebraska State Historical Society
 type: image
