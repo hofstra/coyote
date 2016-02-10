@@ -70,6 +70,9 @@
                 font-weight: 400;
                 line-height: 2em;
             }
+                .browse li {
+                    line-height: 1.5em;
+                }
                 p em,
                 p i,
                 li em,
