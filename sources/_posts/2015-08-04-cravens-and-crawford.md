@@ -1,7 +1,9 @@
 ---
 layout: source
 title: I was born in Austin, Texas
-category: Oral History
+category: 
+- coyote-as-varmint
+- Oral History
 pubdate: 1938-04-11
 source: Library of Congress
 type: Manuscript 
