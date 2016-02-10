@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Pariah of the Skyline
-category: Newspapers
+category: 
+- coyote-as-varmint 
+- Newspapers
 pubdate: 1904-08-06
 source: Library of Congress
 type: article
