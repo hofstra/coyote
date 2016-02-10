@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Man shows coyote hides
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1935
 source: Uintah County Library, Regional History Center
 type: image
