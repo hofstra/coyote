@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Thomas Say, Canis Latrans (page view)
-category: Images
+category:
+- coyote-as-varmint
+- Images
 pubdate: 1823
 source: Internet Archive
 type: image
