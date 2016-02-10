@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Janet Williams with Coyote
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: c., 1908
 source: Montana Historical Society 
 type: image
