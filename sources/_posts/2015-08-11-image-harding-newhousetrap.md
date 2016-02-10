@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Newhouse Trap, No. 4
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1907
 source: Gutenberg
 type: image
