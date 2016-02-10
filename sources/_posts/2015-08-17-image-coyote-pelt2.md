@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Pelts
-category: Images
+category: 
+- coyote-as-varmint 
+- Images
 pubdate: 1879-1930
 source: Archives and Special Collections at the Maureen and Mike Mansfield Library, University of Montana .
 type: image
