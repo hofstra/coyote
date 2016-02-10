@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Hunters in Volland, Kansas
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1940-1950
 source: KansasMemory.org, Kansas Historical Society 
 type: image
