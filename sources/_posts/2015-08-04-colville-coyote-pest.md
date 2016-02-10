@@ -1,7 +1,9 @@
 ---
 layout: source
 title: The Coyote a Pest But The Pelt Worth Money
-category: Newspapers
+category: 
+coyote-as-varmint
+-Newspapers
 pubdate: 1903
 source: Library of Congress
 type: article
