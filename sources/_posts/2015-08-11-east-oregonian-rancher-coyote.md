@@ -1,7 +1,9 @@
 ---
 layout: source
 title: M’Kay Creek Rancher Has an Exciting Adventure With Mad Coyote
-category: Newspapers
+category: 
+- coyote-as-trickster
+- Newspapers
 pubdate: 1915-02-24
 source: Library of Congress
 type: article
