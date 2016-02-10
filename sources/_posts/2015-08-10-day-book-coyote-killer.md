@@ -1,7 +1,9 @@
 ---
 layout: source
 title: U.S. Ranger is Champion Coyote Killer
-category: Newspapers
+category: 
+- coyote-as-varmint
+- Newspapers
 pubdate: 1914-02-24
 source: Library of Congress
 type: article
