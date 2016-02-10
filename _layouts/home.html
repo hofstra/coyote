@@ -13,15 +13,22 @@
 
         <h1>{{ page.title }}</h1>
 
+        <figure>
+            <a class="fancybox" href="/coyote/sources/img/urban-coyote1.jpg"><img src="/coyote/sources/img/urban-coyote1.jpg" /></a>
+
+        </figure>
+
+        {{ content }}
+
         <ul>
             <li><a href="{{ site.baseurl }}/browse">Browse posts</a></li>
         </ul>
 
-        {{ content }}
-
+    </div>
+    <div class="meta content-wrapper"><div>
         <h4>Last built</h4>
         <p>{{site.time}}</p>
-    </div>
+    </div></div>
 </div>
 {% include footer.html %}
 </body>

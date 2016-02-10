@@ -1,6 +1,9 @@
     body {
         background: #ede0cd;
     }
+        body.video {
+            background: #211913;
+        }
     a {
         color: #625044;
     }
@@ -28,17 +31,26 @@
                 text-align: center;
                 text-transform: uppercase;
             }
+                body.video h1 {
+                    color: #ede0cd;
+                }
             h2,
             .content-wrapper h2 {
+                color: #211913;
                 font-family: 'Oswald', sans-serif;
                 font-size: 32px;
                 font-weight: 700;
+                margin-bottom: 1em;
             }
             h3,
             .content-wrapper h3 {
+                color: #211913;
                 font-family: 'Oswald', sans-serif;
                 font-size: 23px;
                 font-weight: 700;
+
+                margin-bottom: .5em;
+                padding-bottom: 0;
             }
             h4,
             .content-wrapper h4,
@@ -56,6 +68,7 @@
                 font-family: 'Alegreya', serif;
                 font-size: 16px;
                 font-weight: 400;
+                line-height: 2em;
             }
                 p em,
                 p i,
@@ -100,6 +113,9 @@
                     color: rgba(0, 0, 0, .5);
                     text-decoration: none;
                 }
+                    .brand-tagline p a:hover {
+                        text-decoration: underline;
+                    }
                     .brand-tagline p a:first-child {
                         margin-right: 8px;
                     }
@@ -138,22 +154,53 @@
         .content-wrapper {
             background: none;
         }
+        .wrapper {
+            padding-bottom: 46px;
+        }
+            .video-wrapper {
+                margin-bottom: 60px;
+            }
+            figure {
+                max-width: 900px;
+            }
     .meta {
         background: #c2b4a5;
+        padding-top: 36px;
     }
+@media all and (max-width: 940px) {
+    .meta > div {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+        .meta h3 {
+            margin-bottom: 0;
+        }
+        .meta h3 a {
+            color: #211913;
+            text-decoration: none;
+        }
+        .meta p {
+            line-height: 1.5em;
+        }
     .content-wrapper {
         margin-bottom: 0;
     }
 
+    p.tag-cloud {
+        padding-top: 1em;
+    }
     p.tag-cloud span {
         background: #625044;
         color: #FFFFFF;
         display: inline-block;
+        font-family: "Montserrat", sans-serif;
+        font-size: 13px;
         margin: 2px;
         padding-top: 2px;
-        padding-right: 4px;
+        padding-right: 8px;
         padding-bottom: 2px;
-        padding-left: 4px;
+        padding-left: 8px;
     }
         p.tag-cloud span a {
             color: #FFFFFF;

@@ -4,7 +4,7 @@
 {% include head.html %}
     <title>{{ page.title }}</title>
 </head>
-<body>
+<body class="browse">
 <div class="outer">
     {% include brand-bar.html %}
     {% include main-nav.html %}
@@ -21,6 +21,7 @@
             <h2>Posts by Chapter</h2>
             <h3>Pleistocene Coyote</h3>
             <ul>
+                <li>Placeholder</li>
 {% assign posts = site.categories.pleistocene-coyote %}
 {% for post in posts %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -28,6 +29,7 @@
             </ul>
             <h3>Mesoamerican Coyote</h3>
             <ul>
+                <li>Placeholder</li>
 {% assign posts = site.categories.mesoamerican-coyote %}
 {% for post in posts | sort: "title" %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -35,6 +37,7 @@
             </ul>
             <h3>Coyote as Trickster</h3>
             <ul>
+                <li>Placeholder</li>
 {% assign posts = site.categories.coyote-as-trickster %}
 {% for post in posts %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -42,6 +45,7 @@
             </ul>
             <h3>Coyote as Varmint</h3>
             <ul>
+                <li>Placeholder</li>
 {% assign posts = site.categories.coyote-as-varmint | sort:'title' %}
 {% for post in posts %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -49,6 +53,7 @@
             </ul>
             <h3>Urban Coyote</h3>
             <ul>
+                <li>Placeholder</li>
 {% assign posts = site.categories.urban-coyote %}
 {% for post in posts %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -69,9 +74,11 @@
             <h2>Tags</h2>
 {% include tag-cloud.html %}
         </div></div>
-
-        <p>Last built: {{site.time}}</p>
     </div>
+    <div class="meta content-wrapper"><div>
+        <h4>Last built</h4>
+        <p>{{site.time}}</p>
+    </div></div>
 </div>
 {% include footer.html %}
 </body>
