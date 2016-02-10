@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Mark Twain, Roughin It
-category: Literary Works
+category: 
+- coyote-as-varmint
+- Literary Works
 pubdate: 1872
 source: Project Gutenberg
 type: text
