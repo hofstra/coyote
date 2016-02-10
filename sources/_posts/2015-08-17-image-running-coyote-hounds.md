@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Running Coyote With Hounds
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1935
 source: Western History/Genealogy Dept., Denver Public Library
 type: image
