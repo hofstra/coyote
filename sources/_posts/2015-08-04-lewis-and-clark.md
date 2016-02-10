@@ -1,7 +1,9 @@
 ---
 layout: source
 title: The Journals of Lewis and Clark, 1804-1806
-category: Natural History
+category: 
+- coyote-as-varmint
+- Natural History
 pubdate: 2005-07-01
 source: Project Gutenberg
 type: text
