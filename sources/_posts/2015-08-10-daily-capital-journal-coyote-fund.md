@@ -1,7 +1,9 @@
 ---
 layout: source
 title: County Varmint Fund Tapped Twice in a Day
-category: Newspapers
+category: 
+- coyote-as-varmint
+- Newspapers
 pubdate: 1919-09-08
 source: Library of Congress
 type: article
