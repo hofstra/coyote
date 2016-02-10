@@ -1,7 +1,9 @@
 ---
 layout: source
 title: How I Trap Wolves
-category: Trapping and Hunting Descriptions
+category: 
+- coyote-as-varmint 
+- Trapping and Hunting Descriptions
 pubdate: 1912-07-05
 source: Library of Congress
 type: article
