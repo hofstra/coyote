@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Finding Dead Coyote
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1903
 source: Archives and Special Collections at the Maureen and Mike Mansfield Library, University of Montana
 type: image
