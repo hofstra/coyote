@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Hunt, Silkville, Kansas
-category: Images
+category: 
+- coyote-as-varmint 
+- Images
 pubdate: 1916
 source: KansasMemory.org, Kansas Historical Society 
 type: image
