@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Erie Stewart Hunting
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 
 source: Uintah County Library, Regional History Center.
 type: image
