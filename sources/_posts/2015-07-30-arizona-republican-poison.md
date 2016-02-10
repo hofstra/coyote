@@ -1,7 +1,9 @@
 ---
 layout: source
 title: U.S. Introduces New Coyote Poison To Kill Off Pest
-category: coyote-as-varmint Newspapers
+category: 
+- coyote-as-varmint
+- Newspapers
 pubdate: 1920-03-28
 source: Library of Congress
 type: article
