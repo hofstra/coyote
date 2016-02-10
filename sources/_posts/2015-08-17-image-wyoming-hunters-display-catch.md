@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Wyoming Hunters Display Pelts
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1921
 source: Western History/Genealogy Dept., Denver Public Library
 type: image
