@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Prairie Wolf In Distress
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1819-1820
 source: American Philosophical Society, Digital Library 
 type: image
