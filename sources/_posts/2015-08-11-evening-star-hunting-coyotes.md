@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Hunting Coyotes Jolly Good Sport
-category: Newspapers
+category: 
+- coyote-as-varmint
+- Newspapers
 pubdate: 1905-05-14
 source: Library of Congress
 type: article
