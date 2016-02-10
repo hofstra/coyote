@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Pelts, Gray County, Kansas
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1945-1949
 source: KansasMemory.org, Kansas Historical Society 
 type: image
