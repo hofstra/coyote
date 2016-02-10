@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Asa Kempton and a roped coyote
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1902
 source: Montana Historial Society
 type: image
