@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Bounty on Varmints
-category: Newspapers
+category: 
+- coyote-as-varmint
+- Newspapers
 pubdate: 1905-05-06
 source: Library of Congress
 type: article
