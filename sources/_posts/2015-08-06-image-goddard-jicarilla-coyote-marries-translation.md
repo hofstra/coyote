@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Marries Under False Pretenses (phonetic transcription)
-category: Myths
+category: 
+- coyote-as-trickster 
+- Myths
 pubdate: 1911
 source: Internet Archive
 type: image
