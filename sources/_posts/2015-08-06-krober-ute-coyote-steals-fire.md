@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Steals Fire
-category: Myths
+category: 
+- coyote-as-trickster 
+- Myths
 index: Myths
 pubdate: 1901
 source: JSTOR
