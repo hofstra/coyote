@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Marries Under False Pretenses
-category: Myths
+category: 
+- coyote-as-trickster 
+- Myths
 pubdate: 1911
 source: American Museum of Natural History, Research Library
 type: myth
