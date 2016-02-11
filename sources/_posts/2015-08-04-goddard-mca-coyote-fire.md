@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Securing Fire
-category: Myths
+category:  
+- coyote-as-trickster 
+- Myths
 pubdate: 1918
 source: American Museum of Natural History, Research Library 
 type: myth
