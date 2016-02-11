@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Steals Fire from the Fireflies
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 pubdate: 1940
 source: Hathi Trust Digital Library 
 type: myth
