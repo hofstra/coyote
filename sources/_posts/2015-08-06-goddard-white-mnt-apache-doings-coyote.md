@@ -1,7 +1,9 @@
 ---
 layout: source
 title: The Doings of Coyote
-category: Myths
+category: 
+- coyote-as-trickster 
+- Myths
 pubdate: 1919
 source: American Museum of Natural History, Research Library
 type: myth
