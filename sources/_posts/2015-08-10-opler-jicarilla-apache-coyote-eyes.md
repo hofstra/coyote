@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote as Eye Juggler
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 pubdate: 1938
 source: Hathi Trust Digital Library 
 type: myth
