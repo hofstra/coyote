@@ -1,7 +1,9 @@
 ---
 layout: source
 title: "Coyote, in the mean time..."
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 pubdate: 1885
 source: Internet Archive
 type: myth
