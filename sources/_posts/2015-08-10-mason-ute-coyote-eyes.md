@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Juggles His Eyes and Becomes Blind
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 pubdate: 1910
 source: JSTOR
 type: myth
