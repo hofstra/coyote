@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote and Jack Rabbit
-category: Newspapers
+category:
+- coyote-as-varmint
+- Newspapers
 pubdate: 1906-04-15
 source: Library of Congress
 type: article
