@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Old Man Loses His Eyes
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 pubdate: 1908
 source: American Museum of Natural History, Research Library
 type: myth
