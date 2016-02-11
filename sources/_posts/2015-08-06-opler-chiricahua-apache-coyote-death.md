@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Causes Death
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 index: Myths
 pubdate: 1942
 source: Hathi Trust’ Digital Library
