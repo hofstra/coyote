@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Following Old Trails
-category: Newspapers
+category: 
+- coyote-as-trickster
+- Newspapers
 pubdate: 1911-12-17
 source: Library of Congress
 type: article
