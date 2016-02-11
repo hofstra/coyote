@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Loses His Eyes
-category: Myths
+category: 
+- coyote-as-trickster 
+- Myths
 pubdate: 1945
 source: JSTOR
 type: myth
