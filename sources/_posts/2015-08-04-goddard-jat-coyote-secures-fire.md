@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Secures Fire
-category: Myths
+category: 
+- coyote-as-trickster 
+- Myths
 pubdate: 1911
 source: American Museum of Natural History, Reserach Library 
 type: myth
