@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Marries His Own Daughter
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 pubdate: 1942
 source: Hathi Trust Digital Library 
 type: myth
