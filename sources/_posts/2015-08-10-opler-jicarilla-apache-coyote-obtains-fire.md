@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Obtains Fire
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 pubdate: 1938
 source: Hathi Trust Digital Library 
 type: myth
