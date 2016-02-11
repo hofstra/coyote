@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Nih'ancan and Coyote
-category: Myths
+category: 
+- coyote-as-trickster 
+- -Myths
 pubdate: 1903
 source: Internet Archive
 type: text
