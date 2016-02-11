@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Marries Daugther
-category: Myths
+category: 
+- coyote-as-trickster 
+- Myths
 pubdate: 1901
 source: JSTOR
 type: myth
