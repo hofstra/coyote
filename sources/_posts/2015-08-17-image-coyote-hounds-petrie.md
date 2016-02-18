@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Harry Petrie with hounds
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1904?
 source: Western History/Genealogy Dept., Denver Public Library
 type: image
