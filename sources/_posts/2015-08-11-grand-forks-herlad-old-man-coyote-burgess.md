@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Old Man Coyote Gives Up His Home
-category: Literary Works
+category: 
+- coyote-as-trickster
+- Literary Works
 pubdate:
 source: Library of Congress
 type: chidren's story
