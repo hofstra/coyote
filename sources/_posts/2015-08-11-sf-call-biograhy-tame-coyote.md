@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Biograhy of a Tame Coyote
-category: Newspapers
+category:
+- coyote-as-varmint
+- Newspapers
 pubdate: 1902-07-27
 source: Library of Congress
 type: article
