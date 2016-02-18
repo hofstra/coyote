@@ -14,6 +14,7 @@ tags:
 - Coyote and conflicts with ranching
 citation_title: "U.S. Introduces New Coyote Poison To Kill Off Pest"
 citation_url: http://chroniclingamerica.loc.gov/lccn/sn84020558/1920-03-28/ed-1/seq-8/
+citation_biblio: "Meachen JA, Janowicz AC, Avery JE, Sadleir RW (2014) Ecological Changes in Coyotes (Canis latrans) in Response to the Ice Age Megafaunal Extinctions. PLoS ONE 9(12): e116041. doi: 10.1371/journal.pone.0116041
 ---
 
 U.S. INTRODUCES A NEW COYOTE POISON TO KILL OFF PEST
