@@ -1,7 +1,9 @@
 ---
 layout: source
 title: The Ranchmen's War on Varmints
-category: Newspapers
+category: 
+- coyote-as-varmint
+- Newspapers
 pubdate: 1911-12-31
 source: Library of Congress
 type: article
