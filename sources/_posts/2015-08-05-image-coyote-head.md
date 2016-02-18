@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Head
-category: Images
+category: 
+- mesoamerican-coyote
+- Images
 pubdate: 900 - 1200 ce
 source: National Museum of Anthropology, Mexico
 type: image
