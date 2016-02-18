@@ -1,7 +1,9 @@
 ---
 layout: source
 title: The Kitten and the Coyote
-category: Images
+category: 
+- coyote-as-trickster
+- Images
 pubdate: 
 source: Montana Historical Society, Montana Memory Project
 type: image
