@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote spotted in Battery Park City caught on dashcam
-category: Urban Coyote
+category: 
+- urban-coyote
+- video
 pubdate: 2015-04-27
 source: YouTube
 type: article
