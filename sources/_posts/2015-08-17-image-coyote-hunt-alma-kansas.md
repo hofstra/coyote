@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Hunters in Alma, Kansas
-category: Images
+category:
+- coyote-as-varmint
+- Images
 pubdate:
 source: KansasMemory.org, Kansas Historical Society 
 type: image
