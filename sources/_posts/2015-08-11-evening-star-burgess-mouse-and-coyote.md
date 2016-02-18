@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Danny Meadow Mouse Shivers and Shakes
-category: Literary Works
+category: 
+- coyote-as-trickster
+- Literary Works
 pubdate: 1916-11-20
 source: Library of Congress
 type: children's story
