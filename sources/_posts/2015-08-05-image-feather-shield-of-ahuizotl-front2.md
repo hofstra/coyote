@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Feather Shield of Ahuizotl (front 2)
-category: Images
+category: 
+- mesoamerican-coyote
+- Images
 pubdate: 1325-1521
 source: Weltmuseum Wien, Vienna
 type: image
