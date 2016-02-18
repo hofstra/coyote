@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Dance White Rocks (3)
-category: Images
+category: 
+- coyote-as-trickster
+- Images
 pubdate: 1909
 source: Multimedia Archives, Special Collections, J. Willard Marriott Library, University of Utah
 type: image
