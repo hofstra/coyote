@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Old Man Coyote and Theft of Summer
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 pubdate: 1903
 source: JSTOR
 type: myth
