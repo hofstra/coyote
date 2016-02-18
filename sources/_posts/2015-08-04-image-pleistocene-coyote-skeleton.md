@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Skeleton of a coyote from the La Brea Tarpits
-category: Images
+category: 
+- pleistocene-coyote
+- Images
 pubdate: 1912
 source: Internet Archive
 type: image
