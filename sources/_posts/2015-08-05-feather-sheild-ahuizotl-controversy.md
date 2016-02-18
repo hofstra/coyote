@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote or Bear?
-category: Scholarly Works
+category: 
+- mesoamerican-coyote
+- Scholarly Works
 pubdate: 1893-09-01
 source: JSTOR
 type: text
