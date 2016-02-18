@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Old Man Coyote Takes His Time
-category: Literary Works
+category: 
+- coyote-as-trickster
+- Literary Works
 pubdate: 1920-03-26
 source: Library of Congress
 type: children's story
