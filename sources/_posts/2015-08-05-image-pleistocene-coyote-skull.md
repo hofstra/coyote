@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Sketch of a coyote skull from the the La Brea Tarpits
-category: Images
+category: 
+- pleistocene-coyote
+- Images
 pubdate: 1912
 source: Internet Archive
 type: image
