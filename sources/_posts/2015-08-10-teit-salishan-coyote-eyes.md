@@ -1,7 +1,9 @@
 ---
 layout: source
 title: "Coyote was travelling..." 
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 pubdate: 1917
 source: Internet Archive
 type: myth
