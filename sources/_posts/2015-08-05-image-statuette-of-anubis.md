@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Statuette of Annubis
-category: Images
+category: 
+- coyote-as-trickster
+- Images
 pubdate: 1938
 source: Metropolitan Museum of Art
 type: image
