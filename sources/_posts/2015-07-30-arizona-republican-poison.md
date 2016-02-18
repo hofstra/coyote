@@ -13,6 +13,7 @@ tags:
 - Coyote and Poison
 - Coyote and conflicts with ranching
 citation_title: "U.S. Introduces New Coyote Poison To Kill Off Pest"
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn84020558/1920-03-28/ed-1/seq-8/
 ---
 
 U.S. INTRODUCES A NEW COYOTE POISON TO KILL OFF PEST
