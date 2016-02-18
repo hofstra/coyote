@@ -1,7 +1,9 @@
 ---
 layout: source
 title: The Artful Coyote
-category: Newspapers
+category: 
+- coyote-as-trickster
+- Newspapers
 pubdate: 1898-09-15
 source: Library of Congress
 type: article
