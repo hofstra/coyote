@@ -1,7 +1,8 @@
 ---
 layout: source
 title: Ecological Changes in Coyotes (*Canis latrans*) in Response to the Ice Age Megafaunal Extinctions
-category: Pleistocene Coyote
+category: 
+- pleistocene-coyote
 pubdate: 2014-12-31
 source: Plos One
 type: image
