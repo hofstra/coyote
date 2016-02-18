@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote and Hounds 2
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1904?
 source: Western History/Genealogy Dept., Denver Public Library
 type: image
