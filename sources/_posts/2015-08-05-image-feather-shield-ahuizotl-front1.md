@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Feather Shield of Ahuizotl (front 1)
-category: Images
+category: 
+- mesoamerican-coyote
+- Images
 pubdate: 1892
 source: Internet Archive
 type: image
