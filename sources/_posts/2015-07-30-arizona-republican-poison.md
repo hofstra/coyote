@@ -12,7 +12,7 @@ tags:
 - Coyote as pest
 - Coyote and Poison
 - Coyote and conflicts with ranching
-
+citation_title: "U.S. Introduces New Coyote Poison To Kill Off Pest"
 ---
 
 U.S. INTRODUCES A NEW COYOTE POISON TO KILL OFF PEST
