@@ -12,9 +12,7 @@ tags:
 - Coyote as pest
 - Coyote and Poison
 - Coyote and conflicts with ranching
-citation_title: U.S. Introduces New Coyote Poison To Kill Off Pest.
-citation_url: http://chroniclingamerica.loc.gov/lccn/sn84020558/1920-03-28/ed-1/seq-8/
-citation_biblio: Arizona republican. (Phoenix, Ariz.), 28 March 1920. Chronicling America: Historic American Newspapers. Lib. of Congress.
+
 ---
 
 U.S. INTRODUCES A NEW COYOTE POISON TO KILL OFF PEST
