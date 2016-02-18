@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote and Holxolī’p
-category: Myths
+category: 
+- coyote-as-trickster
+- Myths
 pubdate: 1909
 source: American Museum of Natural History, Research Library
 type: myth
