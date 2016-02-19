@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Brown’s Camp
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 
 source: Montana Historical Society, Cameron, Evelyn, 1868-1928
 type: image
