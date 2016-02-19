@@ -14,15 +14,10 @@ tags:
 - Coyote as pest
 - Coyote and Poison
 - Coyote and Trapping
----
-
-[Harding, A. R. (Arthur Robert). 1909. *Wolf and Coyote Trapping An Up-to-Date Wolf Hunter’s Guide, Giving the Most Successful Methods of Experienced Wolfers for Hunting and Trapping These Animals, Also Gives Their Habits in Detail.* Columbus, OH: A.R. Harding Publishers.] (https://archive.org/details/wolfcoyotetrappi00hard)
-***
-Note
-The book cover may be of some interest here, perhaps as a thumbnail:
-/sources/img/harding-wolf-coyote-trapping-cover.jpg
-/sources/img/harding-wolf-coyote-trapping-cover1.jpg
-***
+citation_title: *Wolf and Coyote Trapping An Up-to-Date Wolf Hunter’s Guide, Giving the Most Successful Methods of Experienced Wolfers for Hunting and Trapping These Animals, Also Gives Their Habits in Detail.*
+citation_url: https://archive.org/details/wolfcoyotetrappi00hard
+citation_biblio: Harding, A. R. (Arthur Robert). 1909. *Wolf and Coyote Trapping An Up-to-Date Wolf Hunter’s Guide, Giving the Most Successful Methods of Experienced Wolfers for Hunting and Trapping These Animals, Also Gives Their Habits in Detail.* Columbus, OH: A.R. Harding Publishers.
+ ---
 
 **Chapter 3**
 
