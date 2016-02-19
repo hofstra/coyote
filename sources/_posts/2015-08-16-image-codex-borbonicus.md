@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Codex Borbonicus
-category: Images
+category: 
+- mesoamerican-coyote
+- Images
 pubdate: c., 1519
 source: Loubat collection, Foundation for the Advancement of Mesoamerican Studies (FAMSI)
 type: image
