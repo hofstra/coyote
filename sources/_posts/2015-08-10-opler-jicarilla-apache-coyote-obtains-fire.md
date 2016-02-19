@@ -13,11 +13,10 @@ tags:
 - Coyote steals fire
 - Coyote as trickster
 - Coyote as hero
+citation_title: Coyote Obtains Fire
+citation_url: http://hdl.handle.net/2027/miun.agy7794.0001.001
+citation_biblio: Opler, Morris Edward. *Myths and Tales of the Jicarilla Apache Indians.* *Memoirs American Folklore Society* 31 New York, 1938.
 ---
-
-[Opler, Morris Edward. *Myths and Tales of the Jicarilla Apache Indians.* *Memoirs American Folklore Society* 31 New York, 1938.] (http://hdl.handle.net/2027/miun.agy7794.0001.001)
-
-**Coyote Obtains Fire**
 
 When the people came up on earth, Coyote was the very last one of the animals to emerge.  When this world was made, the trees wouldn't burn. The people were living without fire.  The coyote was running all over. No one knew where he would be the next day. He was running from place to place. One time he found a place with great rock cliffs all around. In the bottom was a hollow place. A great spruce tree was standing there. The people who lived there were the fireflies. They came up in the cliffs by means of rock steps, so that no one could see their footprints and know the way to enter. The stones were laid one ahead of the other, so that the people, when they came out, could step on these rocks.
 
