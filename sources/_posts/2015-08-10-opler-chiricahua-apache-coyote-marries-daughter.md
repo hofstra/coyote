@@ -11,13 +11,11 @@ tags:
 - Coyote as trickster
 - Coyote and Native Americans
 - Coyote and women 
-- Coyote marries daughter 
+- Coyote marries daughter
+citation_title: Coyote Marries His Own Daughter
+citation_url: http://catalog.hathitrust.org/Record/001631384
+citation_biblio: Opler, Morris Edward. *Myths and Tales of the Chiricahua Apache Indians, with an Appendix of Apache and Navaho.* Comparative References by David French. *Memoirs American Folklore Society* 37 New York, 1942. 
 ---
-
-[Opler, Morris Edward. *Myths and Tales of the Chiricahua Apache Indians, with an Appendix of Apache and Navaho.* Comparative References by David French. *Memoirs American Folklore Society* 37 New York, 1942.] (http://catalog.hathitrust.org/Record/001631384)
-
-Coyote Marries His Own Daughter
-
 Coyote had a family; I don't know how many children he did have. The oldest daughter was a very pretty girl. Coyote and his family were in a camp in one place, and he was figuring out how he was going to get a chance to marry his own daughter. Finally he had it planned, the way he was going to work it. He told his wife and children, "I've got lung trouble." But he wasn't sick. Nothing was wrong with him. He said, "This is a very contagious disease, and I don't want to spread it among my children. You see that tree over there. You make me a bed up in that tree and feed me, and I'll stay there."
 
 So right away his wife got busy and made that bed up there, and when the bed was ready she told him. He managed some way to get hold of a piece of spoiled liver, and one time when they weren't looking he carried it up there. Now he was up there on his bed. And his wife came under the tree once in a while. Then he told his wife and children to sweep under the tree very thoroughly.
