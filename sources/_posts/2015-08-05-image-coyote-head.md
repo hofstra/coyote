@@ -11,7 +11,9 @@ tags:
 - Coyote as Art
 - Coyote and Mesoamerica
 img: /sources/img/coyote-head.jpg
-
+citation_title: Coyote Head
+citation_url: http://www.mna.inah.gob.mx/coleccion/pieza-209/ficha-ampliada.html
+citation_biblio: Museo Nacional Antropologiía, Mexico. 
 ---
 
 The Coyote Head is an example of plumbate pottery in the form of a coyote/human effigy. It features the head of a man emerging from the jaws of a coyote. The jaws are open wide, and the eyes of the coyote are cast upward.  As if summoned by the coyote’s howl, the man emerges from the animal’s gaping jaws.  The beard of the man is one with the lower mandible of the coyote.  Both figures share a mother of pearl covering, and their teeth are made of bone. Consistent with the customs of many Mesoamerican civilizations, coyotes--along with jaguars, serpants, and eagles--are often used to represent warriors and warrior culture. 
