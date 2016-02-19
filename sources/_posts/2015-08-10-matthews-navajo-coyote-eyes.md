@@ -1,6 +1,6 @@
 ---
 layout: source
-title: "Coyote, in the mean time..."
+title: Coyote, in the mean time...
 category: 
 - coyote-as-trickster
 - Myths
@@ -10,10 +10,12 @@ type: myth
 tags:
 - Coyote and Native Americans
 - Coyote as trickster
-- Coyote and eye juggler 
-
+- Coyote and eye juggler
+citation_title: Coyote, in the mean time...
+citation_url: http://archive.org/details/navaholegends00mattrich
+citation_biblio: Matthews, Washington. *Navaho Legends.* American folk-lore society. Internet Archive. 1897. 
 ---
-[Matthews, Washington. *Navaho Legends.* American folk-lore society. 1897.] (http://archive.org/details/navaholegends00mattrich)
+
 
 Coyote, in the mean time, had gone to seek the bad neighbors. He untied his brand at the place where the hunters had seen the line of fire cease, and wandered off in a different direction. After a while he came to two great trees, a spruce and a pine, growing close together, and filled with chattering birds of two kinds. The spruce-tree was filled with birds called *Tsĭ’di Bése*, and the pine tree with birds called *Tsĭ’di Sási*. They were all busily engaged in playing a game which Coyote had never seen before. They would pull out their eyes, toss these up to the top of the tree, cry, "Drop back, my eyes! Drop back!" and catch the eyes as they descended in their proper sockets.
 
