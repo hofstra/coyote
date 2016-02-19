@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Historia Naturae
-category: Natural History
+category: 
+- mesoamerican-coyote
+- Natural History
 pubdate: 1635
 source: Library of Congress
 type: text
