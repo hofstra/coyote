@@ -11,11 +11,10 @@ tags:
 - Coyote as trickster
 - Coyote marries daughter 
 - Coyote and women 
+citation_title: The Doings of Coyote
+citation_url: http://digitallibrary.amnh.org/handle/2246/169 
+citation_biblio: Earle Goddard.  *Myths and Tales from the White Mountain Apache. Anthropological Papers of the Museum of Natural History* Vol. XXIV, Part 2. The American Museum of Natural History. 1919.
 ---
-
-[ Earle Goddard.  *Myths and Tales from the White Mountain Apache. Anthropological Papers of the Museum of Natural History* Vol. XXIV, Part 2. The American Museum of Natural History. 1919.] (http://digitallibrary.amnh.org/handle/2246/169)
-
-The Doings of Coyote. 
 
 Long ago. Coyote was told that the people were dying. He tied together a hairbrush, a wooden skin-dresser, and a stone pestle, and threw them in the water. "If these float let them come back to life," he said. They sank and, therefore, the dead did not come back..
 
