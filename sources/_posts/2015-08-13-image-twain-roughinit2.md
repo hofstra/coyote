@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Twain, Roughin It (2)
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1872
 source: Project Gutenberg
 type: image
