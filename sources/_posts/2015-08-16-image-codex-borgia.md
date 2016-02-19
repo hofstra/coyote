@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Codex Borgia
-category: Images
+category: 
+- mesoamerican-coyote
+- Images
 pubdate: 
 source: Loubat collection, Foundation for the Advancement of Mesoamerican Studies (FAMSI)
 type: image
