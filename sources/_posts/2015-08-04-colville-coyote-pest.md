@@ -11,9 +11,7 @@ tags:
 - Coyote and conflicts with ranching
 - Coyote Pelt
 - Coyote as pest
-citation_title: "Ecological Changes in Coyotes (Canis latrans) in Response to the Ice Age Megafaunal Extinctions"
-citation_url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0116041
-citation_biblio: "Meachen JA, Janowicz AC, Avery JE, Sadleir RW (2014) Ecological Changes in Coyotes (Canis latrans) in Response to the Ice Age Megafaunal Extinctions. PLoS ONE 9(12): e116041. doi: 10.1371/journal.pone.0116041
+citation_title:
 ---
 
 [“The Coyote a Pest But The Pelt Worth Money.” *The Colville Examiner.* February 01, 1919.] (http://chroniclingamerica.loc.gov/search/pages/results/?state&date1=1836&date2=1922&proxtext=The+Coyote+a+Pest+But+The+Pelt+Worth+Money&x=0&y=0&dateFilterType=yearRange&rows=20&searchType=basic)
