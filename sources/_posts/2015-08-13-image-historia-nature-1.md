@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Historia Naturae Maxime Peregrinae (Detail)
-category: Images
+category: 
+- mesoamerican-coyote
+- Images
 pubdate: 1635
 source: Library of Congress
 type: image
