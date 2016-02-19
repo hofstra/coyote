@@ -1,6 +1,6 @@
 ---
 layout: source
-title: "Coyote was travelling..." 
+title: Coyote was travelling 
 category: 
 - coyote-as-trickster
 - Myths
@@ -11,10 +11,11 @@ tags:
 - Coyote and Native Americans
 - Coyote as trickster
 - Coyote and eye juggler
-- Coyote and women 
+- Coyote and women
+citation_title: Coyote was travelling 
+citation_url: https://archive.org/details/folktalesofsalis00boas
+citation_biblio: Teit, James Alexander, Livingston Farrand, Marian K. Gould, and Herbert Joseph Spinden. *Folk-Tales of Salishan and Sahaptin Tribes. American Folk-Lore Society* 1917.
 ---
-
-[Teit, James Alexander, Livingston Farrand, Marian K. Gould, and Herbert Joseph Spinden. *Folk-Tales of Salishan and Sahaptin Tribes. American Folk-Lore Society* 1917.] (https://archive.org/details/folktalesofsalis00boas)
 
 Coyote was travelling, and heard someone singing, "Come back, my eyes!" (in silutsaal). Soon he saw Wildcat (kahap) playing ball with his eyes. He said, "I wish I could do that! If I could do that and do it at Qualp (a place in Washington), I should do great things." Coyote decided to try. He went into the woods. When he tried to take out his eye, it hurt so that he screamed. Finally he succeeded in removing it. He threw it up into the air and called to it to come back, and it dropped back into its socket. "Now I can do it," he said to himself. Wildcat heard him, and, knowing it was Coyote, took his horn (kapatkd'x), and, when Coyote threw his eye up again, he knocked it out of the way, so that it did not return. Coyote called several times, but the eye did not come back. Coyote now said, "My eye must be near. If I take out the other one, they will both come back to me." So he took it out and threw it up. Both came back. 
 
