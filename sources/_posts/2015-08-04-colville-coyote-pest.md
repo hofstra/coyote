@@ -13,7 +13,6 @@ tags:
 - Coyote as pest
 citation_title: The Coyote a Pest But The Pelt Worth Money
 citation_url: http://chroniclingamerica.loc.gov/lccn/sn88085318/1919-02-01/ed-1/seq-2/
-citation_biblio: The Colville examiner. (Colville, Wash.), 01 Feb. 1919. Chronicling America: Historic American Newspapers. Lib. of Congress.
 ---
 
 
