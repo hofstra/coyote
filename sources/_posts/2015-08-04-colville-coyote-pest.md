@@ -14,7 +14,7 @@ tags:
 citation_title: 
 citation_url: 
 citation_biblio: 
- ---
+---
 
 [“The Coyote a Pest But The Pelt Worth Money.” *The Colville Examiner.* February 01, 1919.] (http://chroniclingamerica.loc.gov/search/pages/results/?state&date1=1836&date2=1922&proxtext=The+Coyote+a+Pest+But+The+Pelt+Worth+Money&x=0&y=0&dateFilterType=yearRange&rows=20&searchType=basic)
 ***
