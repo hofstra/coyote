@@ -11,11 +11,11 @@ tags:
 - Coyote as trickster
 - Coyote marries daughter 
 - Coyote and women 
+citation_title: 
+citation_url: http://www.jstor.org/stable/533352
+citation_biblio:  A. L. Kroeber. "Ute Tales." *The Journal of American Folklore* Vol. 14 No. 55 (1901). pp. 252-285.
 ---
-[A. L. Kroeber. "Ute Tales." *The Journal of American Folklore* Vol. 14 No. 55 (1901). pp. 252-285.] (http://www.jstor.org/stable/533352)
- ***
-*Note:* The convention was to translate explicit sexual content into Latin. I offer in the footnotes a rough rendering of that content, suggestions for improvement are most welcome. 
- ***
+
 
 Coyote had a wife, several pretty daughters, and a young son. He went away out of sight. Then he scratched himself and put gum on the wounds to make them look worse. Going home, he said [to his family] that he had been shot by enemies. He pretended to become very sick. Soon he pretended to be about to die. His family placed him in a brush shelter. He said, "When I die, go to such and such a camp. There will be a man with a white horse. He is better than others. Marry your daughter to him." Now he seemed to be nearly dead. He kept his eyes nearly closed; but under his clothes he looked out at his daughters. *Unae erant magna genitalia. Eam conspexit concupiscens.* "*Delectabilis erit,*" *secum dixit.*<sup>[1](#myfootnote1)</sup>
 
@@ -28,7 +28,8 @@ Then he put his stick into the hole, and shook it so that it rattled. He ran hom
 *Est ille," mater sua dixit." Ita et mihi faciebat, canis ille turpis."* <sup>[4](#myfootnote4)</sup> 
 They deliberated how to flee. They went underground a little distance. Then they rose to the sky and became stars. Meanwhile Coyote, standing before the hole, said, "Shake harder! " He was talking to nobody. At last he discovered this. "You cannot escape from me," he said; and he followed the tracks of his family. At last the tracks stopped. He was at a loss. Then the boy thought, "I wish my father would look at me!" Coyote looked up. He saw them above. He said, "You are in the sky. You are stars. You will be called Coyote's family." The woman answered him, contending with him, "You will be below there. People on the earth will call you Coyote. Early in the morning, or when there is fire in the grass, you will stand and watch for mice and will seize them. At night you will howl. You will be Coyote."
 
-<a name="myfootnote1">1</a>: Translation 
+<a name="myfootnote1">1</a>: Translation forthcoming. 
+The convention was to translate explicit sexual content into Latin. I offer in the footnotes a rough rendering of that content, suggestions for improvement are most welcome.
 
 <a name="myfootnote2">2</a>: Translation 
 
