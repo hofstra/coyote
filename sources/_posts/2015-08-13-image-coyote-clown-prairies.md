@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote, Clown of the Prairies
-category: Images
+category: 
+- coyote-as-trickster
+- Images
 pubdate: 1922
 source: Cabinet of American illustration, Library of Congress
 type: image
