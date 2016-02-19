@@ -14,12 +14,11 @@ tags:
 - Coyote as pest
 - Coyote and Poison
 - Coyote and Trapping
-- citation_title: Wolf and Coyote Trapping An Up-to-Date Wolf Hunter’s Guide, Giving the Most Successful Methods of Experienced Wolfers for Hunting and Trapping These Animals, Also Gives Their Habits in Detail.
+citation_title: Wolf and Coyote Trapping An Up-to-Date Wolf Hunter’s Guide
 citation_url: https://archive.org/details/wolfcoyotetrappi00hard
 citation_biblio: Harding, A. R. (Arthur Robert). 1909. *Wolf and Coyote Trapping An Up-to-Date Wolf Hunter’s Guide, Giving the Most Successful Methods of Experienced Wolfers for Hunting and Trapping These Animals, Also Gives Their Habits in Detail.* Columbus, OH. A.R. Harding Publishers.
 ---
-
-**Chapter 3**
+###Chapter 3
 
 In the western parts of the United States, the coyote is far more abundant than the grey, or timber wolf, but its range is more limited as it is found only in those parts lying west of the Mississippi River and in the western portion of the  Dominion of Canada. As there are a  number of varieties of the timber wolf, so it is with the coyote, but naturalists have never yet been able to agree on the  number of types and their distribution. In the Southwest, it appears there are several distinct varieties, showing considerable difference in size and color. Mr. Vasma Brown, a noted coyote trapper of Texas has the following to say on the subject:
 
