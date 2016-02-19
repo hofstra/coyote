@@ -12,10 +12,10 @@ tags:
 - Coyote and Native Americans
 - Coyote as trickster
 - Coyote brings death
+citation_title: Coyote Causes Death
+citation_url: http://babel.hathitrust.org/cgi/pt?id=miun.agy7799.0001.001;view=1up;seq=3
+citation_biblio: Opler, Morris Edward. *Myths and Tales of the Chiricahua Apache Indians, with an Appendix of Apache and Navaho.* Comparative References by David French. *Memoirs American Folklore Society* 37 New York, 1942.
 ---
-
-[Opler, Morris Edward. *Myths and Tales of the Chiricahua Apache Indians, with an Appendix of Apache and Navaho.* Comparative References by David French. *Memoirs American Folklore Society* 37 New York, 1942.] (http://babel.hathitrust.org/cgi/pt?id=miun.agy7799.0001.001;view=1up;seq=3)
-
 
 Raven said that he didn’t want death in this world. “I’ll throw a stick in the river. If it sinks there is going to be death, but if not, everything will be all right,” he said.
 
