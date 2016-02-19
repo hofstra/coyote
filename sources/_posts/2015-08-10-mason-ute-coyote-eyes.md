@@ -12,13 +12,10 @@ tags:
 - Coyote as trickster
 - Coyote and eye juggler 
 - Coyote and women
+citation_title: Coyote Juggles His Eyes and Becomes Blind
+citation_url: http://www.jstor.org/stable/534545
+citation_biblio: Mason, J. Alden. Myths of the Uintah Utes. *Journal of American Folk-Lore* 1910, Vol. 23, pp. 299-363.
 ---
-
-[Mason, J. Alden. Myths of the Uintah Utes. *Journal of American Folk-Lore* 1910, Vol. 23, pp. 299-363.]
- (http://www.jstor.org/stable/534545)
-
-Coyote Juggles His Eyes and Becomes Blind
-(Told by Jim Duncan; translated by John.)
 
 One day while out walking, Coyote came to a lake where there were many ducks and geese swimming around. He went close to the water and sat down. "They look good to eat," thought he; "I wonder how I can catch them!" At last he decided to try walking on the bottom of the lake. He walked a long way out until he saw the birds' feet, and then he seized them and walked ashore. He did this until he had three or four big ones. Then he packed them home, and met his Indian friend. "What do you call them?" he asked him. The Indian called the ducks "*tciqutc*," and the geese "*uwénunq*." "What are they good for?" asked Coyote. 
 
@@ -64,3 +61,5 @@ One of the girls had a purse with jingles on it. These made a great noise, and C
 
 "No," said they, "you are eating your own leg-grease. Shame!"'
 
+Coyote Juggles His Eyes and Becomes Blind
+Told by Jim Duncan; translated by John.
