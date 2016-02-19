@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Slaughter of buffalos on the plains
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1872
 source: KansasMemory.org, Kansas Historical Society 
 type: image
