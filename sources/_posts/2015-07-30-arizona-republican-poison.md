@@ -14,10 +14,8 @@ tags:
 - Coyote and conflicts with ranching
 citation_title: "U.S. Introduces New Coyote Poison To Kill Off Pest"
 citation_url: http://chroniclingamerica.loc.gov/lccn/sn84020558/1920-03-28/ed-1/seq-8/
-citation_biblio: Arizona Republican. Phoenix, Ariz. 1890-1930, March 28, 1920.
+citation_biblio: Arizona Republican. Phoenix, Ariz. 1890-1930, March 28, 1920. Chronicling America. Historic American Newspapers. Library of Congress
 ---
-
-U.S. INTRODUCES A NEW COYOTE POISON TO KILL OFF PEST
 
 Since coyote pelts are bringing record breaking prices in the domestic fur market and the extermination of this beast of prey is being sought by practically all the cattlemen in Arizona, especial interest is being attached to the government's introduction of a new poison tablet which has almost exterminated this animal in some sections of the state.
 
