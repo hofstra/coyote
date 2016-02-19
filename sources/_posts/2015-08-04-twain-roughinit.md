@@ -11,16 +11,11 @@ tags:
 - Coyote and Dogs
 - Coyote and Cunning
 - Coyote and Native Americans
+citation_title: Roughin It
+citation_url: http://www.gutenberg.org/files/3177/3177-h/3177-h.htm
+citation_biblio: Mark Twain. *Roughing It, Complete.* 1872. Project Gutenberg Ebook. Produced by David Widger.
+
 ---
-[Mark Twain. *Roughing It, Complete.* 1872. Project Gutenberg.] (http://www.gutenberg.org/files/3177/3177-h/3177-h.htm.) 
-
-***
-There are 3 associated images from the Gutenberg edition:
-* /sources/img/twain-roughinit1.jpg
-* /sources/img/twain-roughinit2.jpg
-* /sources/img/twain-roughinit3.jpg
-
-***
 
  Along about an hour after breakfast we saw the first prairie-dog villages, the first antelope, and the first wolf. If I remember rightly, this latter was the regular cayote (pronounced ky-o-te) of the farther deserts. And if it was, he was not a pretty creature or respectable either, for I got well acquainted with his race afterward, and can speak with confidence. The cayote is a long, slim, sick and sorry-looking skeleton, with a gray wolf-skin stretched over it, a tolerably bushy tail that forever sags down with a despairing expression of forsakenness and misery, a furtive and evil eye, and a long, sharp face, with slightly lifted lip and exposed teeth. He has a general slinking expression all over. The cayote is a living, breathing allegory of Want. He is always hungry.
 
