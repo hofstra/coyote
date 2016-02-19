@@ -12,5 +12,8 @@ tags:
 - Coyote and Mesoamerica
 - Coyote and Settler-Colonialists
 img: /sources/img/feather-shield-ahuizotl-front.jpg
+citation_title: Feather Shield of Ahuizotl (back view)
+citation_url:  http://www.weltmuseumwien.at/en/
+citation_biblio: Museum fur Volkerkunde, Neu Hofburg, Vienna, Austria
 ---
 
