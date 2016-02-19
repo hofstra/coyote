@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Rindinger Interview 
-category: Oral History
+category:
+- coyote-as-varmint
+- Oral History
 pubdate: 1938
 source: Library of Congress
 type: manuscript
