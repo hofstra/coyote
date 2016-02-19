@@ -8,15 +8,10 @@ pubdate: 1919-09-08
 source: Library of Congress
 type: article
 tags: Coyote and bounty payments
+citation_title: County Varmint Fund Tapped Twice in a Day
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn99063957/1919-09-08/ed-1/seq-9/
+citation_biblio: Daily Capital Journal. Salem, OR 1903-1919, September 08, 1919. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
-
-[“County Varmint Fund Tapped Twice in a Day.” *Daily Capital Journal.* (Salem, Or.) 1903-1919, September 08, 1919. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn99063957/1919-09-08/ed-1/seq-9/)
-***
-View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HUGUwcFp3UGI0RlE
-***
-
-COUNTY VARMINT FUND TAPPED TWICE IN DAY
-Silverton Man Claims Reward On Coyote And Bobcat This Week.
 
 The whole skin of one bobcat, including head and claws, and the entire skin of one coyotte [sic], also including head and claws were laid on the counter of the county clerk’s office yesterday by J. H. Maulding of Silverton. He claimed under the bounty act, which was changed by the last legislature, $4.00 for the coyote and $2.00 for the bobcat and this amount was paid, to be charged up to the bounty fund.
 
