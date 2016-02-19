@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Caught in Trap
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 
 source: Archival Photographs from the University of Montana 
 type: image
