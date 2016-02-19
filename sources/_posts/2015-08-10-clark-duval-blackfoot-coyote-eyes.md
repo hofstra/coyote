@@ -9,11 +9,11 @@ source: American Museum of Natural History, Research Library
 type: myth
 tags:
 - Coyote and Native Americans
-- Coyote and eye juggler 
+- Coyote and eye juggler
+citation_title: Old Man Loses His Eyes
+citation_url: http://digitallibrary.amnh.org/handle/2246/206
+citation_biblio: Wissler, Clark and Duvall, D.C. *Blackfoot  Mythology. Anthropological Papers, American Museum of Natural History.* Vol.  2, Part 1. New York, 1908.
 ---
-[Wissler, Clark and Duvall, D.C. *Blackfoot  Mythology. Anthropological Papers, American Museum of Natural History.* Vol.  2, Part 1. New York, 1908.] (http://digitallibrary.amnh.org/handle/2246/206)
-
-**Old Man Loses His Eyes**
 
 Once there was a bird that had power to throw its eyes into a tree and call them back again. Now, Old Man came along one day and saw the bird throw its eyes up into a tree and call them back again. He said, "I should like to do this." So he began to cry, and asked the bird for some of its power. At last the bird took pity on him. It told him that, when he came to straight standing trees, all he had to do was to wish his eyes to go up, and then to wish them down again. However, he was warned not to wish it when among crooked trees. Then Old Man went on and came to some nice straight trees. Then he wished his eyes up in the tree, and at once they were up there. Then he wished they were back again, and at once they were back again. Now, Old Man was greatly pleased. Then he came to some thick brush, and he said to himself, "Now I wonder how it will work if I try it on this brush. I wonder why the bird told me not to send my eyes into crooked trees." So out of curiosity he wished his eyes in the brush, and as he did so they went down into the brush and disappeared. All his wishing would not bring them back again. Now Old Man could not see, and he went along making signs for some one to come to his aid. Finally a coyote who was passing that way came up and looked at Old Man. The coyote saw that his eyes were gone. Now this coyote had a festered foot, and he held this up to Old Man's nose. "My," said Old Man, "that smells like a buffalo drive. I must be near a camp." Then the coyote stole away, leaving Old Man hurrying on. After a while, as Old Man was walking along, a girl saw him, and, as he was making queer signs, she went toward him. "What do you want?" she said. When Old Man heard the voice, he said, "I want you to come over here." Now Old Man tied up his eyes, and, when the girl came over, he said, "I wish you to lead me, for my eyes are sore." They went on until they came to some thick brush. 
 
