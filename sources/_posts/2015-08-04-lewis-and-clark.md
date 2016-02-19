@@ -11,10 +11,11 @@ tags:
 - Coyote as specimen
 - Coyote and natural history
 - Coyote and Settler-Colonialists
+citation_title: The Journals of Lewis and Clark
+citation_url: http://www.gutenberg.org/files/8419/8419-h/8419-h.htm
+citation_biblio: The Journals of Lewis and Clark, by Meriwether Lewis and William Clark. A Project Gutenberg EBook.
 ---
-[*The Journals of Lewis and Clark, by Meriwether Lewis and William Clark.* A Project Gutenberg EBook.] (http://www.gutenberg.org/files/8419/8419-h/8419-h.htm.)
 
-***
 **Notes**
 
 * The entries excerpted below are those in which the coyote plays a role. 
@@ -22,12 +23,12 @@ tags:
 * At the time of Lewis and Clark’s expedition, the word “coyote” was not in English usage. Lewis and Clark refer variously to the animal as a “prarie wolf,” a “brush wolf,” or a “burrowing wolf of the Praries.”  The coyote is initially mistaken for a fox (see entry, 18 September 1804). Later in the journey, Lewis and Clark sent a pelt of a coyote along with other animals to President Jefferson (see entry, 3 April 1805).
 
 * The Journals are well known for creative spelling and sentence construction.  Gutenberg edition, used here, of the text is failthful to the original manuscripts. 
-***
 
-**Clark, August 12, 1804**
+
+###Clark, August 12, 1804
 12th August Sunday 1804 Set out early under a gentle Breeze from the South the river wider than usial and Shallow (1) at 12 oClock we halted to take a meridian altd. of the Sun & Sent a man back or I may Say across to the Bind of the river where Capt. Lewis took the Mdn. altitude yesterday, to Step off the distance, he made it 974 yards across, the Distance arround the bend is 183/4 miles—about 4 miles above the bend on the L. S. is the Commencement of a Bluff which is about 4 miles extending on the river, of yellow and brown Clay in Some parts in it near the river a Soft Sand Stone is inbeded on the top (which is from 20 to 150 feet above the water, & rises back) is Covered with timber, a fiew red Ceider is on this Bluff, the wind Comes round to the S. E. a Prarie Wolf Come near the bank and Barked at us this evening, we made an attempt but could not git him, this Animale Barkes like a large feste Dog. Beever is verry Plenty on this part of the river. I prepare Some presents for to give the Indians of the Mahars nation. Wiser apt. Cook & Supentdt. of the Provisions of Sergt. Floyds Squad. we Camped on a Sand Island in a bend to the S. S. Musquitors verry troublesom untile the wind rose. at one or 2 oClock
 
-**Clark, September 18, 1804**
+###Clark, September 18, 1804
 September 18th Tuesday 1804 Wind from the N W. we Set out early the boat much lightened, the wind a head proceed on verry Slowly (1) Passed an Island about the middle of the river at 1 Mile this Island is about a mile long, and has a great perpotion of red Cedir on it, a Small Creek comes in on the S. S. opposit the head of the Island, proceeded on passed many Sand bars and Camped on the L. S. before night the wind being verry hard & a head all Day. the hunters Killed 10 Deer to day and a Prarie wolf, had it all jurked & Skins Stretchd after Camping I walked on Shore Saw Goats, Elk, Buffalow, Black tail Deer, & the Common Deer, I Killed a Prarie Wollf, about the Size of a gray fox bushey tail head & ear like a wolf, Some fur Burrows in the ground and barks like a Small Dog. what has been taken heretofore for the Fox was those wolves, and no Foxes has been Seen; The large wolves are verry numourous, they are of a light Colr. large & has long hair with Corrs fur. Some Goats of a Different Kind Wer Seen yesterday Great many Porcupin rabits & Barking Squirils in this quarter. Plumbs & grapes.
 
 **Clark, October 5, 1804**
