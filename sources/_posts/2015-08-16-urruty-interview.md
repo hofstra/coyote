@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Urruty, Oral History 
-category: Oral History
+category: 
+- coyote-as-varmint
+- Oral History
 pubdate: 1978
 source: Library of Congress
 type: manuscript
