@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote-Proof Pasture
-category: Newspapers
+category: 
+- coyote-as-varmint
+- Newspapers
 pubdate: 1910-08-06
 source: Library of Congress
 type: article
