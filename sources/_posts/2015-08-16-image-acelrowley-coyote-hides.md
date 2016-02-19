@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Acel Rowley and Dog with Coyote Hides
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1939
 source: Uintah County Library
 type: image
