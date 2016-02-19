@@ -10,13 +10,11 @@ type: myth
 tags:
 - Coyote and Native Americans
 - Coyote as trickster
-- Coyote and eye juggler 
+- Coyote and eye juggler
+citation_title: Coyote as Eye Juggler
+citation_url: http://hdl.handle.net/2027/uc1.32106000764370
+citation_biblio: Opler, Morris Edward. *Myths and Legends of the Lipan Apache Indians.* *Memoirs American Folklore Society* 36 New York, 1940.
 ---
-
-[Opler, Morris Edward. *Myths and Legends of the Lipan Apache Indians.* *Memoirs American Folklore Society* 36 New York, 1940.] (http://hdl.handle.net/2027/uc1.32106000764370) 
-
-Coyote as Eye-Juggler (version 1)
-
 Coyote went on. He saw that someone was walking around in an open place. When he got nearer he saw that it was Jack-rabbit. Jack-rabbit was throwing up his eyes, one after the other, juggling them. He was out where there were no trees and had his eyes out of their sockets.
 
 Coyote wanted to know how this was done. He came to the rabbit. He had the rabbit teach him how. He learned how all right. He started to play that way. But Jack-rabbit told him, "You are foolish, so I will tell you that you must be careful not to do this under trees or you will lose your eyes. You must do it only where there are no trees."
