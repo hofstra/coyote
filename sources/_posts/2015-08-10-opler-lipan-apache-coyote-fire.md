@@ -12,11 +12,10 @@ tags:
 - Coyote as trickster
 - Coyote steals fire
 - Coyote as hero
+citation_title: Coyote Steals Fire from the Fireflies
+citation_url: http://hdl.handle.net/2027/uc1.32106000764370
+citation_biblio: Opler, Morris Edward. *Myths and Legends of the Lipan Apache Indians.* *Memoirs American Folklore Society* 36 New York, 1940.
 ---
-
-[Opler, Morris Edward. *Myths and Legends of the Lipan Apache Indians.* *Memoirs American Folklore Society* 36 New York, 1940.] (http://hdl.handle.net/2027/uc1.32106000764370) 
-
-Coyote Steals Fire from the Fireflies
 
 Coyote walked around. He saw the fire down below at the foot of the rocks. He was right down in the hollow with those people. There was a high stone wall that extended all around. These rock walls were very smooth. He saw no way to get out. He went among the children and asked them where the road out was. They refused to tell him. These people had warned the children not to tell Coyote about the road.
 
@@ -119,4 +118,4 @@ The fireflies told him, "From now on all you four-footed animals and wild beasts
 The fireflies gave them a rule that way.
 
 ***
-<a name="myfootnote1">1</a>: Opler’s Footnote, from Informant: This story shows why some people, when they are told not to reveal a secret, do it in spite of orders not to. They act just as this disobedient child did in the beginning; they take something for telling. 
+<a name="myfootnote1">1</a>: Opler’s Footnote, from Informant: "This story shows why some people, when they are told not to reveal a secret, do it in spite of orders not to. They act just as this disobedient child did in the beginning; they take something for telling."
