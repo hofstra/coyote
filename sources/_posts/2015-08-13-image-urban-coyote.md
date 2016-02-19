@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Urban Coyote
-category: Images
+category: 
+- urban-coyote
+- Images
 pubdate: 2013
 source: Alison Perry
 type: image
