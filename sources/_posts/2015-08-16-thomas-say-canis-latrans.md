@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Thomas Say, Canis Latrans
-category: Natural History
+category: 
+- coyote-as-varmint
+- Natural History
 pubdate: 1820
 source: Internet Archive
 type: text
