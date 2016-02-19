@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Burns, Reminiscings of a cattleman
-category: Oral History
+category: 
+- coyote-as-varmint
+- Oral History
 pubdate: 1936
 source: Library of Congress
 type: Manuscript 
