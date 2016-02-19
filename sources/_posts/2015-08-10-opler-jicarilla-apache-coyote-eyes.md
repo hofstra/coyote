@@ -10,12 +10,11 @@ type: myth
 tags:
 - Coyote and Native Americans
 - Coyote as trickster
-- Coyote and eye juggler 
+- Coyote and eye juggler
+citation_title: Coyote as Eye Juggler 
+citation_url: http://hdl.handle.net/2027/miun.agy7794.0001.001
+citation_biblio: Opler, Morris Edward. *Myths and Tales of the Jicarilla Apache Indians.* *Memoirs American Folklore Society* 31 New York, 1938.
 ---
-
-[Opler, Morris Edward. *Myths and Tales of the Jicarilla Apache Indians.* *Memoirs American Folklore Society* 31 New York, 1938.] (http://hdl.handle.net/2027/miun.agy7794.0001.001)
-
-Coyote as Eye Juggler 
 
 Then Coyote started out again. He met some Jicarilla Apaches who had power too. These Apaches were throwing up their eyes into the air, and the eyes would come back in place every time.
 
