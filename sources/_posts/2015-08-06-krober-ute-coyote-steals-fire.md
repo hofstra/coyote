@@ -13,8 +13,10 @@ tags:
 - Coyote steals fire
 - Coyote as trickster
 - Coyote as hero
+citation_title: Coyote Steals Fire
+citation_url: http://www.jstor.org/stable/533352
+citation_biblio: A. L. Kroeber.  Ute Tales. *The Journal of American Folklore* Vol. 14, No. 55. 1901
 ---
-[A. L. Kroeber.  Ute Tales. *The Journal of American Folklore* Vol. 14, No. 55. 1901] (http://www.jstor.org/stable/533352)
 
 Coyote lived with the people of whom he was chief. They had no fire. They gathered large flat rocks and piled them together. Toward evening the rocks used to begin to be hot. In the morning Coyote threw water on them; then they steamed, and that made them still hotter. The other people did the same with their heaps. They all used these rocks instead of fire.
 
@@ -85,4 +87,5 @@ Before he reached it, he saw a Black-tailed Rabbit sitting right in the water. C
 "Yes," said Coyote. When he reached the cave, he found some dry sagebrush and dry cedar lying there. Standing by the brush, he thought, "I will make a fire out of this." So he heaped it, and placed the fire under it, and blew. Then it began to burn. Then he spoke to the dry cedar, "I shall use you. I shall make a large fire out of you. You will be burned." So he piled the cedar on the sagebrush. He had been shivering, but soon the fire made him feel good. When the rain was over, the snowstorm and West wind were to come, the people had intended, and they should freeze him dead. Now they began. It became very cold. Coyote was in the cave. There was deep water on the ground. This began to become ice. Coyote felt good from the fire. He did not think that he would freeze to death. He began to sleep. During the night he dreamed that it was clear; that everything was gone from the sky, and that there were no clouds. In the morning he awoke. He looked up and saw that the sky was clear; everywhere was ice. Then the South wind came, and the ice all melted. Then Coyote looked for the Rabbit. He was sitting where he had sat last. Then Coyote shot him and killed him. Then he went back to the cave. He took a piece of old dry sage­ brush; he bored a hole through it. Then he filled it with coals of fire, and closed it up. He thought that he could carry the fire safely thus. A Rock Squirrel with big ears was there. Coyote said to him, " I have killed your friend [the Rabbit], but you will eat him." Then the Squirrel went away.
 
 Then Coyote put the fire under his belt and went away with it. He went away without looking around, and without watching, just as if he were at home. Then he got back home. He laid down his tube of sagebrush containing the fire. He called together the few men who were left home with the women and children. After they came, he took the fire. It looked only like a stick. He took an arrow point and bored a small hole into the stick. Then he whittled hard greasewood. " Now look, you people," he said. He told two men to hold the sagebrush firmly to the ground. Then he bored it with the greasewood, and picked up the borings, and put them into dry grass. Blowing upon this, he soon had a fire. "This dry pine-nut will be burned hereafter. Dry cedar will also be burned. Take fire into all the tents. I shall throw away the rocks. There will be fire in every house." Thus said Coyote.
+
 Now all the birds that had become tired and had hidden arrived. Then they all flew back to the places from which they had come ; and from that time on they were birds.
