@@ -2,7 +2,7 @@
 layout: source
 title: Abernathy holding coyote by jaw 
 category: 
-- coyote-as-trickster
+- coyote-as-varmint
 - Images
 pubdate: 1905
 source: Library of Congress
