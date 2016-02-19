@@ -10,16 +10,10 @@ type: article
 tags: 
 - Coyote and Native Americans
 - Coyote as hero
+citation_title: Following Old Trails
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn83025316/1911-12-17/ed-1/seq-27/
+citation_biblio: The Daily Missoulian. Missoula, MT 1904-1961, December 17, 1911. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
-
-[A.L.S."Following Old Trails." *The Daily Missoulian.* (Missoula, Mont.) 1904-1961, December 17, 1911. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn83025316/1911-12-17/ed-1/seq-27/)
-
-***
-PDF of original newspaper image can be found here: https://drive.google.com/drive/folders/0B3jjm_N_Qi2HfjFoak1QaUZVdWtlN2lCRjJlck9vcmFYWGEzTEFXRkpsM1M2a1pwdG53REE
-***
-
-Following Old Trails
-XXVII.—The Dragon of the Selish.
 
 One summer afternoon, a good many years ago, while the Flathead reservation was yet a national reserve, I lay in the shade of the grove along the bank of the Jocko river, opposite Ravalli station, waiting for a train which was six hours late. It was an ideal Montana summer day. There were birds in the trees above me and the Jocko's ripple made music at my feet. The drone of insects furnished the accompaniment in subdued chords, while the rustle of the leaves in the summer breeze—lazily stirring—set the tempo quite in accord with the afternoon and its mood. I had been several days upon the reservation, visiting with friends, Indian and white, and had heard some pleasant tales of the days when the reservation was primitive, when the white man was just finding the way over the wall back of the Jocko which shuts out the Mission valley from the view of the casual traveler along the overland trail. It was a day for dreams and I indulged in the contemplation of scenes based upon the stories which had been told to me. The quiet of the summer lent its magic to my day-visions and the red men who moved in my little dramas seemed real warriors and hunters. I had harked back to the days before the Black Robes came. It was as if I were a spectator at a drama designed for me alone.
 
