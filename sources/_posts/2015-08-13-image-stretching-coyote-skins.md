@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Stretching Coyote Skins
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1979-10-00
 source: American Folklife Center, Library of Congress, Kenny Klaumann,Depicted, William Smock, Photographer 
 type: image
