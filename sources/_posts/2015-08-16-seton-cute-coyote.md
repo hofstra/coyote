@@ -1,7 +1,9 @@
 ---
 layout: source
 title: The Cute Coyote
-category: Literary Works
+category: 
+- coyote-as-trickster
+- Literary Works
 pubdate: 1913
 source: Project Gutenberg
 type: text
