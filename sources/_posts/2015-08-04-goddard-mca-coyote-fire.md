@@ -11,10 +11,10 @@ tags:
 - Coyote steals fire
 - Coyote as trickster
 - Coyote as hero
+citation_title: "Securing Fire"
+citation_url: http://digitallibrary.amnh.org/handle/2246/164
+citation_biblio: Goddard, Pliny Earle. *Myths and Tales from the San Carlos Apache. Anthropological Papers of the American Museum of Natural History* 1918.
 ---
-[Goddard, Pliny Earle. *Myths and Tales from the San Carlos Apache. Anthropological Papers of the American Museum of Natural History* 1918.] (http://digitallibrary.amnh.org/handle/2246/164)
-
-Securing Fire
 
 There were people living here on the earth. Coyote, birds, or hawks were all people. There was no fire. The only ones who had fire would not give it away. The others, many people, were without fire. Martens, living in the tops of tall pine trees, were the only ones who had fire but they would not give any of it away. Those who were living below them consulted as to how they should get fire. They decided to play hide the ball and sent out invitations for everybody to come to the game. They gathered under the trees and shouted to the martens to come down and bring some fire. They said they were going to play hide the ball. They came down bringing the fire with them. They put wood on the fire at the camping place and stood around it in four lines so that there was no way anyone could run off with the fire. None of the people who didn't have fire were in the center of the
 circle. 
