@@ -13,12 +13,10 @@ tags:
 - Coyote and eye juggler
 - Coyote and Native Americans
 - Coyote and women
+citation_title: Coyote as Eye Juggler
+citation_url: http://catalog.hathitrust.org/Record/001631384
+citation_biblio: Opler, Morris Edward. *Myths and Tales of the Chiricahua Apache Indians, with an Appendix of Apache and Navaho.* Comparative References by David French. *Memoirs American Folklore Society* 37 New York, 1942.
 ---
-
-[Opler, Morris Edward. *Myths and Tales of the Chiricahua Apache Indians, with an Appendix of Apache and Navaho.* Comparative References by David French. *Memoirs American Folklore Society* 37 New York, 1942.] (http://catalog.hathitrust.org/Record/001631384)
-
-**Coyote as Eye Juggler**
-
 The coyote was going along and he came to some rabbits playing. This was under a very high bluff, this place where those rabbits were. And the rabbits were looking up there and throwing their eyes up. The eyes would go up and then come back into place.
   Coyote said, "Oh, friends! What a pretty thing you are doing! Let me try it."
 
@@ -28,11 +26,11 @@ And he said, "No, let me try it once more."
 
 And they tried it again. They threw his eyes up again. Then the rabbits began to yell, "Let the eyes get stuck on something up there and not come back." And his eyes did not come back.
 
-**Coyote Dances with the Reeds**
+###Coyote Dances with the Reeds
 
 So this coyote was blind, and he went to a swampy place. He came to some reeds at night. Reeds grow in bunches and when the wind blows they sway together. Coyote was walking along and he got in these reeds. The wind was blowing. He yelled and danced in the reeds. He danced with them all night. And in the morning he felt his way out and somehow came to a big camp of coyotes.
 
-**Coyote Gets a Girl but Loses Her because of His Blindness**
+###Coyote Gets a Girl but Loses Her because of His Blindness
 
 Coyote came to a camp and he was telling those people stories of what a time he had been having with those Reed girls down at the black water. He said, "Those people surely had a good time last night! Those girls certainly had a lot of fun with me. Why, I never slept a wink last night! I'd better take a nap." He held his head down so they couldn't see that he was blind.
 And when he woke up from his nap he asked for a drink of water. "Give me a drink of water." And they handed him water.
