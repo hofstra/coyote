@@ -11,9 +11,11 @@ tags:
 - Coyote and Mesoamerica
 - Coyote and women
 - Coyote and Settler-Colonialists
-
+citation_title: Coyote or Bear?
+citation_url: http://www.jstor.org/stable/1765828
+citation_biblio: Crane, Agnes. “Coyote or Bear?” *Science* 22, no. 552 (September 1, 1893). 124–25 
 ---
-[Crane, Agnes. “Coyote or Bear?” *Science* 22, no. 552 (September 1, 1893): 124–25] (http://www.jstor.org/stable/1765828)
+
 
 Coyote? or bear? "that is ,the question" which has apparently agitated Dr. Franz Heger, Curator of the Ethnographical museum at Vienna, ever since Mrs. Zelia Nuttall, Special Assistant in Mexican Archeology of the Peabody Museum, Cambridge, Mass., described and figured an ancient Mexican shield inlaid with feather-work and gold and bearing an animal device of a blue "monster" on a red field. (Internationales Archiv für Ethnographie, Vol. V., Part l, 1892). 
 
