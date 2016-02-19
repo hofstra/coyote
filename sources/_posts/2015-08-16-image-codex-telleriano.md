@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Codex Telleriano
-category: Images
+category: 
+- mesoamerican-coyote
+- Images
 pubdate: c., 1500-1600
 source: Loubat collection, Foundation for the Advancement of Mesoamerican Studies (FAMSI)
 type: image
