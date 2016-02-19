@@ -11,8 +11,10 @@ tags:
 - Coyote steals fire
 - Coyote as trickster
 - Coyote as hero
+citation_title: "Coyote Secures Fire"
+citation_url:  http://digitallibrary.amnh.org/handle/2246/5752
+citation_biblio: Goddard, Pliny Earle. Jicarilla Apache Texts. *Anthropological Papers of the American Museum of Natural History* 8 1911.
 ---
-[Goddard, Pliny Earle. Jicarilla Apache Texts. *Anthropological Papers of the American Museum of Natural History* 8 1911.] (http://digitallibrary.amnh.org/handle/2246/5752)
 
 COYOTE SECURES FIRE
 
