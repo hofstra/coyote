@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Coyote Hunter Advance Agent of  Civilization
-category: Newspapers
+category: 
+- coyote-as-varmint
+- Newspapers
 pubdate: 1907-08-24
 source: Library of Congress
 type: article
