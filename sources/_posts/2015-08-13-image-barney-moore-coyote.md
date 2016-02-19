@@ -1,7 +1,9 @@
 ---
 layout: source
 title: Barney Moore holding coyote
-category: Images
+category: 
+- coyote-as-varmint
+- Images
 pubdate: 1905
 source: Library of Congress
 type: image
