@@ -10,10 +10,10 @@ type: myth
 tags:
 - Coyote and Native Americans
 - Coyote as trickster
+citation_title: Tar Baby
+citation_url: http://digitallibrary.amnh.org/handle/2246/164
+citation_biblio: Goddard, Pliny Earle. *Myths and Tales from the San Carlos Apache. Anthropological Papers of the American Museum of Natural History.* 1918.
 ---
-
-[Goddard, Pliny Earle. *Myths and Tales from the San Carlos Apache. Anthropological Papers of the American Museum of Natural History.* 1918.] (http://digitallibrary.amnh.org/handle/2246/164)
-
 Tar Baby<sup>[1](#myfootnote1)</sup>
 
 Long ago Fox was stealing. He was crawling through a small hole in the bottom of the fence. The farmer put a figure made of pitch in the hole. Fox was walking around in the night and saw this figure of pitch. "Get out of the way and let me pass," he said. "There are many watermelon's." The figure moved from side to side. He went up closer to it. "Go on," he told it. It did not go. When Fox started through, the figure slid from one side to the other. "It is not a person," he said and started to go in. Move away he told it. It did not move away. He struck the pitch. His hand stuck there. "I will strike you with my left hand," he said. His left hand stuck to the figure. "I will kick you with my right foot," he threatened. When his foot stuck he said he would kick him with his left foot. When his left foot was fast he said he would switch him hard with his tail. His tail stuck fast. "I will bite your head off," he said. He bit him and his teeth stuck fast.
