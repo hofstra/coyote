@@ -11,11 +11,10 @@ tags:
 - Coyote and Native Americans
 - Coyote as trickster
 - Coyote as hero
+citation_title: Old Man Coyote and Theft of Summer
+citation_url: http://www.jstor.org/stable/2978202
+citation_biblio: S. C. Simms. "Traditions of the Crows." *Publications of the Field Columbian Museum. Anthropological Series* Vol. 2, No. 6 October, 1903.
 ---
-
-[S. C. Simms. "Traditions of the Crows." *Publications of the Field Columbian Museum. Anthropological Series* Vol. 2, No. 6 October, 1903.] (http://www.jstor.org/stable/29782022)
-
-**Old Man Coyote and Theft of Summer**
 
 A long time ago it was always winter, and towards the south always summer and all the beautiful birds lived there. The Maker of all things appeared in the form of a Coyote, all powerful, and at certain times he got into predicaments that a child could have gotten out of, so silly and weak was Old Man Coyote at times. Old Man Coyote approached a youth who was blowing on his hands to warm them, and said, "What is the matter with you?" and pointing to the south, said, "Down that way, all is summer, and young boys like you run after young buffalo calves; and when the birds have their young ones in the spring the boys catch them and have a good time; what are you doing out here, where it is all so cold?"  
 
