@@ -11,12 +11,10 @@ tags:
 - Coyote and Native Americans
 - Coyote as trickster
 - Coyote as hero
+citation_title: Coyote and Grisly Bear make the Seasons, and Night and Day
+citation_url: http://digitallibrary.amnh.org/dspace/handle/2246/38
+citation_biblio: Teit, James. *The Shushwap.*  *Memoirs, American Museum of Natural History* Vol  2 part 7. 1909.
 ---
-
-[Teit, James. *The Shushwap.*  *Memoirs, American Museum of Natural History* Vol  2 part 7. 1909.] (http://digitallibrary.amnh.org/dspace/handle/2246/38)
-
-**Coyote and Grisly Bear make the Seasons, and Night and Day**
-
 Grisly Bear met Coyote and said, "I am greatest in magic of all the people. When I wish a thing to be, it has to be so. Now I am displeased with the short time that it is dark. I think it will be better if it is dark all the time. I intend to make it so." 
 
 Coyote answered, "No. That would inconvenience the people too much." 
