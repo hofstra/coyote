@@ -11,13 +11,10 @@ tags:
 - Coyote and conflicts with ranching
 - Coyote and bounty payments
 - Coyote and Trapping
+citation_title: How I Trap Wolves
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn83045487/1912-07-05/ed-1/seq-9/
+citation_biblio: Fred Feller. “How I Trap Wolves.” *The Day Book.* Chicago, IL 1911-1917, July 05, 1912. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
-
-[Fred Feller. “How I Trap Wolves.” *The Day Book.* Chicago, IL 1911-1917, July 05, 1912. Chronicling America: Historic American Newspapers. Lib. of Congress.]  (http://chroniclingamerica.loc.gov/lccn/sn83045487/1912-07-05/ed-1/seq-9/)
-***
-View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HcFMwOGI1cnMzWGs
-***
-HOW I TRAP WOLVES—BY CHAMPION BOY TRAPPER
 
 Fred Feller, Aged 16, of Northeastern Utah, Tells *The Day Book* Readers, Including Old Boys, How He Catches Dangerous Wolf and Cowardly Coyote—His Rule for the Trapping Game.
 
