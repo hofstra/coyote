@@ -9,5 +9,9 @@ source: Multimedia Archives, Special Collections, J. Willard Marriott Library, U
 type: image
 tags: 
 - Coyote Hunting 
-img: /sources/img/jmcphersonjr-coyote1.jpg 
+img: /sources/img/jmcphersonjr-coyote1.jpg
+citation_title: Jim McPherson Jr. aiming a rifle into the brush at coyote
+citation_url: http://content.lib.utah.edu/cdm/singleitem/collection/UU_Photo_Archives/id/4132/rec/1
+citation_biblio: Jim McPherson Jr. aiming a rifle into the brush at coyote. Photograph. 1935. Multimedia Archives, Special Collections, J. Willard Marriott Library, University of Utah.
 ---
+
