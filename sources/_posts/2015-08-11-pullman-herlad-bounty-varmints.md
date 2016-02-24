@@ -11,7 +11,7 @@ tags:
 - Coyote and bounty payments
 citation_title: Bounty on Varmints
 citation_url: http://chroniclingamerica.loc.gov/lccn/sn88085488/1905-05-06/ed-1/seq-7/
-citation_biblio: *Pullman Herald.* Pullman, WA 1888-1989, May 6, 1905. Chronicling America. Historic American Newspapers. Lib. of Congress.
+citation_biblio: Pullman Herald. Pullman, WA 1888-1989, May 6, 1905. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
 
 
