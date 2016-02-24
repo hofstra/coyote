@@ -11,18 +11,12 @@ tags:
 - Coyote and children's stories
 - Coyote and Burgess
 - Coyote as predator
+citation_title: Old Man Coyote Takes His Time
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn83045462/1920-03-26/ed-1/seq-15/
+citation_biblio: Burgess, Thornton. "Old Man Coyote Takes His Time." *Evening Star*. 
+Washington, D.C. 1854-1972, March 26, 1920. Chronicling America: Historic American Newspapers. Lib. of Congress. 
 ---
 
-[Burgess, Thornton. "Old Man Coyote Takes His Time." *Evening Star*. 
-Washington, D.C. 1854-1972, March 26, 1920. Chronicling America: Historic American Newspapers. Lib. of Congress.] (<http://chroniclingamerica.loc.gov/lccn/sn83045462/1920-03-26/ed-1/seq-15/)
-
-***
-View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HOG5mUWJZd1V1LWc
-***
-Little Stories for Bedtime
-By Thornton W. Burgess.
-
-Old Man Coyote Takes His Time.
 
 A dinner is not yours ‘til eaten,
 Nor have you lost a race ‘til beaten.
@@ -43,5 +37,5 @@ Still Johnny Chuck said nothing, but he had stopped shaking with fear. He was gr
 
 But Old Man Coyote wasn't in a hurry. You know there is a lot of pleasure in thinking about something you are presently going to enjoy. Old Man Coyote felt absolutely sure of a good breakfast, and he enjoyed thinking about it. He couldn't see a possible way of escape for Johnny Chuck and so he wasn't in any hurry to put an end to Johnny and his troubles. He made two or three short rushes at Johnny as if to seize him, and then backed away, pretending that he was afraid. It was very hard on Johnny Chuck, but it was fun for Old Man Coyote. But at last there was a change in Old Man Coyote. A fierce glare crept into his eyes. The hair on his shoulders rose ever so little. Johnny Chuck knew that Old Man Coyote was about to end his fooling, and just then, for the first time. Johnny remembered Jimmy Skunk and wondered what had become of him. "A nice sort of friend he is," thought Johnny Chuck, bitterly.
 
-(Copyright, 1920, by T. W. Burgess.)
+Copyright, 1920, by T. W. Burgess.
 
