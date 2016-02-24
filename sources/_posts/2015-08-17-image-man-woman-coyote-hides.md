@@ -10,5 +10,10 @@ type: image
 tags: 
 - Coyote Hunting 
 - Coyote Pelt
-img: /sources/img/man-woman-coyote-hides.jpg 
+img: /sources/img/man-woman-coyote-hides.jpg
+citation_title: Man shows coyote hides
+citation_url: 
+citation_biblio:
+
+
 ---
