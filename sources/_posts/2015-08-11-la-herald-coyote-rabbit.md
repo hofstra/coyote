@@ -9,17 +9,10 @@ source: Library of Congress
 type: article
 tags:
 - Coyote as predator
+citation_title: Coyote and Jack Rabbit
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn85042462/1906-04-15/ed-1/seq-35/
+citation_biblio:  Elverson, James. "Coyote and Jack Rabbit."  *Los Angeles Herald.* Los Angeles, CA. 1900-1911, April 15, 1906. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
-
-[“Coyote and Jack Rabbit.” *Los Angeles Herald.* Los Angeles, CA. 1900-1911, April 15, 1906. Chronicling America: Historic American Newspapers. Lib. of Congress.] (<http://chroniclingamerica.loc.gov/lccn/sn85042462/1906-04-15/ed-1/seq-35/)
-
-***
-View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HVFhqd1lFZ3FrX1E
-***
-COYOTE AND JACK-RABBIT
-
-Copyright by James Elverson.
-
 The "ky-o-tey," as he is called in Texas, is the pest of all new prairie settlements in the West; and his lean, grizzled figure and his nightly yelps are almost as familiar local characteristics, in the natural-history attainments of the Western boy, as are the dapper form and shrill cry of the blue jay in those of the boy who lives further East.
 
 In regard to latitude, the coyote has probably the widest range of any of our North American animals. From the head waters of the Mackenzie River to the plains of Central America, he inhabits all the prairie country, and prowls among the foothills and passes of nearly the whole Rocky Mountain system.
