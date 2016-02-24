@@ -13,4 +13,7 @@ tags:
 - Coyote and natural history
 - Coyote and Trapping
 img: /sources/img/prairie-wolf-distress.jpg
+citation_title: Prairie Wolf In Distress
+citation_url: http://diglib.amphilsoc.org/islandora/object/graphics:119
+citation_biblio: Peale, Titian Ramsay."Prairie Wolf in Distress." 1819-1820. Watercolor.  American Philosophical Society, Digital Library. 
 ---
