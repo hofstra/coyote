@@ -13,10 +13,8 @@ tags:
 - Coyote as predator
 citation_title: Old Man Coyote Gives Up His Home
 citation_url: http://chroniclingamerica.loc.gov/lccn/sn89074405/1914-11-09/ed-1/seq-10/
-citation_biblio: Burgess, Thornton. “Old Man Coyote Gives Up His Home.” *Grand Forks Daily Herald* Grand Forks, N.D. 1914-1916, November 09, 1914. Chronicling America: Historic American Newspapers. Lib. of Congress.
+citation_biblio: Burgess, Thornton. “Old Man Coyote Gives Up His Home.” *Grand Forks Daily Herald* Grand Forks, N.D. 1914-1916, November 09, 1914. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
-
-
 
 For most people moving is considerable of a job. There is a lot of packing up, and when the new home is reached everything has to be unpacked and put in just the right place. Most people dread moving. With the little people of the Green Forest and the Green Meadows changing from one home to another is different. They have nothing to carry but the clothes on their backs, so there is no packing or unpacking. Just the same, it usually means a whole lot of work. You see, most of them build their own houses. That means that if they have to move from where they have been living they cannot go out and find another house already for them to move into as you and I can. They have got to build that new house. There are a few, just a few, who are not particular or at all fussy and are willing to live in old houses left by other people, but even these have to be fixed up a little usually. So most of them won't move, particularly in the middle of the season, unless they feel that they must.
 
