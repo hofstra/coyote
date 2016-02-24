@@ -8,9 +8,9 @@ source: website
 type: website
 tags:
 - Urban Coyote
-- NYC Coyote
-article_url: http://www.gothamcoyote.com/
+article_url: http://urbancoyoteresearch.com/
 citation_title: Gotham Coyote Project
-citation_url: http://www.gothamcoyote.com/
-citation_biblio:  Gotham Coyote Project. 
+citation_url: http://urbancoyoteresearch.com/
+citation_biblio: Urban Coyote Research. Urban coyote ecology and management, Cook County, Illinois.
+
 ---
