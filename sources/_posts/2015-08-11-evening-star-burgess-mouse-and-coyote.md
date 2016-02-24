@@ -11,13 +11,10 @@ tags:
 - Coyote and children's stories
 - Coyote and Burgess
 - Coyote as predator
+citation_title: Danny Meadow Mouse Shivers and Shakes
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn83045462/1916-11-20/ed-1/seq-12/
+citation_biblio: Thornton W. Burgess. “Danny Meadow Mouse Shivers and Shakes.” Little Stories of Bedtime. *Evening Star*. Washington, D.C. 1854-1972. November 20, 1916. Chronicling America. Historic American Newspapers.
 ---
-
-[Thornton W. Burgess. “Danny Meadow Mouse Shivers and Shakes.” Little Stories of Bedtime. *Evening Star*. Washington, D.C. 1854-1972. November 20, 1916. Chronicling America: Historic American Newspapers.] (http://chroniclingamerica.loc.gov/lccn/sn83045462/1916-11-20/ed-1/seq-12/)
-
-View PDF Here: https://drive.google.com/open?id=0B3jjm_N_Qi2HZmFJOGctVGlheWc
-
-"Danny Meadow Mouse Shivers and Shakes"
 
 "A-H-H-H!" exclaimed Old Man Coyote as he sniffed along the edge of the pile of brush under which Danny Meadow Mouse had stopped to rest on his way to see the Great World.
 
