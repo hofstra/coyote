@@ -10,14 +10,12 @@ type: article
 tags:
 - Coyote and conflicts with ranching
 - Coyote Attack 
+citation_title: M’Kay Creek Rancher Has an Exciting Adventure With Mad Coyote
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn88086023/1915-02-24/ed-1/seq-1/
+citation_biblio:  *East Oregonian, Daily Evening Edition.* February 24, 1915. Chronicling America: Historic American Newspapers. Lib. of Congress.
 ---
 
-[“M’Kay Creek Rancher Has an Exciting Adventure With Mad Coyote; Brute Finally Killed.” *East Oregonian, Daily Evening Edition.* February 24, 1915. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn88086023/1915-02-24/ed-1/seq-1/)
 
-***
-View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HcDB4dDdrbnRDY2c
-***
-M’KAY CREEK RANCHER HAS AN EXCITING ADVENTURE WITH MAD COYOTE; BRUTE FINALLY KILLED
 
 George Adams, well known McKay creek sheepman, is here today and relates how he had an experience with a rabid coyote such as he will never forget. The coyote did nothing more nor less than terrify the whole neighborhood and it is a miracle that several people were not bitten. Mr. Adams himself was held at bay on a side hill for a half hour by the brute and only saved himself by striking at the coyote with a club too large for effective use. The coyote was finally killed and the carcass burned.
 
