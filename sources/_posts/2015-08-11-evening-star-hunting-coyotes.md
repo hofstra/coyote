@@ -16,7 +16,7 @@ tags:
 - Coyote Hunting
 citation_title: Hunting Coyotes Jolly Good Sport
 citation_url: http://chroniclingamerica.loc.gov/lccn/sn83045462/1905-05-14/ed-1/seq-28/
-citation_biblio: *Evening Star*. Washington, D.C. 1854-1972. May 14, 1905. Chronicling America. Historic American Newspapers. Lib. of Congress.
+citation_biblio: Evening Star. Washington, D.C. 1854-1972. May 14, 1905. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
 
 
