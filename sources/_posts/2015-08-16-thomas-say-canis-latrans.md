@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Thomas Say, Canis Latrans
+title: Canis Latrans, Description by Thomas Say
 category: 
 - coyote-as-varmint
 - Natural History
@@ -13,16 +13,15 @@ tags:
 - Coyote and Trapping
 - Coyote as specimen
 - Coyote and natural history
+citation_title:  Canis Latrans, Description by Thomas Say
+citation_url: https://archive.org/details/accountofexpedit01jame
+citation_biblio: Account of an Expedition from Pittsburgh to the Rocky Mountains, Performed in the Years 1819 and ‘20.  By Order of the Hon. J.C. Calhoun, Sec’y of War: Under the Command of Major Stephen H. Long. From the Notes of Major Long, Mr. T. Say, and Other Gentlemen of the Exploring Party. James, Edwin, 1797-1861. Internet Archive.
 ---
 
-[“Account of an Expedition from Pittsburgh to the Rocky Mountains, Performed in the Years 1819 and ‘20 : By Order of the Hon. J.C. Calhoun, Sec’y of War: Under the Command of Major Stephen H. Long. From the Notes of Major Long, Mr. T. Say, and Other Gentlemen of the Exploring Party : James, Edwin, 1797-1861. Internet Archive.] (https://archive.org/details/accountofexpedit01jame)
-***
 **Note**
-
 The excerpted material is from Chapter IX of the account, which notes that the information is taken from the journal of Thomas Say and that the events transpired in the vicinity of Council Bluffs. Say served as zoologist on this expedition. His account of the coyote is the first to place the animal within the Linnaean taxonomy as *canis latrans*.
 
 Say's narrative complemented by the drawing "Prarire Wolf In Distress" by Titian Ramsay Peale, who worked as an assistant naturalist on the exhibition: /img/prairie-wolf-distress.jpg
-
 ***
 
 The prairie wolves roam over the plains in considerable numbers, and during the night, the principal season of their hunts, they venture very near to the encampment of the traveller. They are by far the most numerous of our wolves, and often unite in packs for the purpose of chasing deer, which they very frequently succeed in running down, and killing. This, however, is an achievement attended with much difficulty to them, and in which the exertion of their utmost swiftness and cunning, are so often unavailing, that they are sometimes reduced to the necessity of eating wild plums, and other fruits, to them almost indigestible, in order to distend the stomach, and appease in a degree the cravings of hunger.
@@ -38,11 +37,10 @@ In no respect disheartened by these futile attempts, many times repeated, and va
 The latrans does not diffuse the offensive odour, so remarkable in the two species of jackalls, (*C. aureus* and *C.anthus*) though in many respects it resembles those animals. Like the *Mexicanus*, the hair on the vertebral line is elongated; and we should be disposed to regard it as the same animal, but it differs from the description of that species, both in colour and physiognomy. The ears are proportionally longer than those of *C. cancrivorus*, and, as well as the tail, shorter than the corresponding parts of *C. mesomelas*. This animal, which does not seem to be known to naturalists, unless it should prove to be the *mexicanus*, is most probably the original of the domestic dog, so common in the villages of the Indians of this region, some of the varieties of which, still retain much of the habit, and manners of this species.
 
 
-*Canis latrans.*
+###Canis latrans
 ***
 *Note*
-[The image from the original text may be of interest.] (https://s3.amazonaws.com/omeka-net/12543/archive/files/233855beaeb0069f8e534bac08c23c94.jpg?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1439381976&Signature=FAtanbpm2yXViL9EjVqvu0onQ%2FA%3D)
-***
+
 Cinereous or gray, varied with black above, and dull fulvous, or cinnamon; hair at base dusky plumbeous, in the middle of its length dull cinnamon, and at tip gray or black, longer on the vertebral line; ears erect, rounded at tip, cinnamon behind, the hair dark plumbeous
 at base, inside lined with gray hair; eyelids edged with black, superior eyelashes black beneath, and at tip above; supplemental lid margined with black-brown before, and edged with black brown behind; iris yellow; pupil black-blue; spot upon the lachrymal sac black-brown; rostrum
 cinnamon, tinctured with grayish on the nose; lips white, edged with black, three series of black seta; head between the ears intermixed with gray, and dull cinnamon, hairs dusky plumbeous at 
