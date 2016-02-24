@@ -14,13 +14,12 @@ tags:
 - Coyote and Theodore Roosevelt
 - Coyote and conflicts with civilization
 - Coyote Hunting
+citation_title: Hunting Coyotes Jolly Good Sport
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn83045462/1905-05-14/ed-1/seq-28/
+citation_biblio: *Evening Star*. Washington, D.C. 1854-1972. May 14, 1905. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
 
-[“Hunting Coyotes Jolly Good Sport.” *Evening Star*. (Washington, D.C.) 1854-1972. May 14, 1905. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn83045462/1905-05-14/ed-1/seq-28/)
 
-View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HMlBKNGQ0YzY3MXc
-
-HUNTING COYOTES JOLLY GOOD SPORT
 
 "President Roosevelt has had great sport hunting bears, and Secretary Loeb has had a thrilling experience with a jack rabbit, but neither can compare as a sport with the coyote roundups we frequently have on the plains," said a man from Montana to a Star man the other day.
 
