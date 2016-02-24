@@ -11,16 +11,12 @@ tags:
 - Coyote and children's stories
 - Coyote and Burgess
 - Coyote as predator
+citation_title: Old Man Coyote Gives Up His Home
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn89074405/1914-11-09/ed-1/seq-10/
+citation_biblio: Burgess, Thornton. “Old Man Coyote Gives Up His Home.” *Grand Forks Daily Herald* Grand Forks, N.D. 1914-1916, November 09, 1914. Chronicling America: Historic American Newspapers. Lib. of Congress.
 ---
 
-[Burgess, Thornton. “Old Man Coyote Gives Up His Home.” *Grand Forks Daily Herald* Grand Forks, N.D. 1914-1916, November 09, 1914. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn89074405/1914-11-09/ed-1/seq-10/)
-***
-PDF Version Here: https://drive.google.com/open?id=0B3jjm_N_Qi2HLV9FalpEaDRSblE
-***
-Little Bedtime Stories
-OLD MAN COYOTE GIVES UP HIS HOME.
-By Thornton W. Burgess.
-(Copyright, 1914, by J. G. Lloyd.)
+
 
 For most people moving is considerable of a job. There is a lot of packing up, and when the new home is reached everything has to be unpacked and put in just the right place. Most people dread moving. With the little people of the Green Forest and the Green Meadows changing from one home to another is different. They have nothing to carry but the clothes on their backs, so there is no packing or unpacking. Just the same, it usually means a whole lot of work. You see, most of them build their own houses. That means that if they have to move from where they have been living they cannot go out and find another house already for them to move into as you and I can. They have got to build that new house. There are a few, just a few, who are not particular or at all fussy and are willing to live in old houses left by other people, but even these have to be fixed up a little usually. So most of them won't move, particularly in the middle of the season, unless they feel that they must.
 
@@ -101,4 +97,7 @@ Now, it is a funny thing how some people feel when they have done something fool
 Now, on the Green Meadows there was no place so lonely and which had so few visitors as the far corner where he had had his home, so right away he decided that as this had been found he would have to leave the Green Meadows and look for a place close to them. He went straight to the Green Forest and all through it, looking for a place to make a new home. But there he could find no place to please him. Besides, he didn't care to live in the Green Forest if he could help it. He wanted a more open place, a place that was more like the open country of the great wide west, where he had been born. So he left the Green Forest and went over to the Old Pasture. This was better. To be sure, it was much overgrown with bushes and tangles of vines, but there were open places, and it was not at all like the dark depths of the Green Forest, where the trees were so tall and shut out the sunlight. Then, too, those tangled vines and briars made splendid hiding places.
 
 So Old Man Coyote made up his mind that if he could find just the right spot in the Old Pasture that was the place for a new home. Very carefully he went all over it, and at last he found just what he was looking for. In the middle of a great tangle of bushes and vines were some great rocks which formed a very tiny cave. In this Old Man Coyote began to dig, and to his great delight he found that he could dig down and under the rocks. It wasn’t easy digging, but it could be done. So he went to work with might and main, and that is where he was and what he was doing all the time Sammy Jay had been looking for him. He had finished his new house the very afternoon that Sammy spread the news that he had gone away.
+
+By Thornton W. Burgess.
+(Copyright, 1914, by J. G. Lloyd.)
 
