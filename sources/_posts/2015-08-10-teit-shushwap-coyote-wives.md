@@ -10,13 +10,14 @@ type: myth
 tags:
 - Coyote and Native Americans
 - Coyote as trickster
-- Coyote and women 
-
+- Coyote and women
+citation_title: Coyote was travelling 
+citation_url: https://archive.org/details/folktalesofsalis00boas
+citation_biblio: Teit, James Alexander, Livingston Farrand, Marian K. Gould, and Herbert Joseph Spinden. *Folk-Tales of Salishan and Sahaptin Tribes. American Folk-Lore Society* 1917.
+citation_title: Coyote and His Wives
+citation_url: http://digitallibrary.amnh.org/dspace/handle/2246/38
+citation_biblio: Teit, James. *The Shushwap.*  *Memoirs, American Museum of Natural History* Vol  2 part 7. 1909.
 ---
-
-[Teit, James. *The Shushwap.*  *Memoirs, American Museum of Natural History* Vol  2 part 7. 1909.] (http://digitallibrary.amnh.org/dspace/handle/2246/38)
-
-**Coyote and His Wives**
 
 Coyote was living with a friend, who had a very pretty wife. He became enamored of her, and killed his friend, so that he might gain possession of her. When the woman refused to go with him, he said to her, 'I have even killed my friend to gain you, then why should I spare you if you do not obey my wishes?" She became afraid and went with him. He said, "To-morrow I will hunt, that you may have fresh meat to eat." 
 
