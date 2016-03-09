@@ -21,7 +21,6 @@
             <h2>Posts by Chapter</h2>
             <h3>Pleistocene Coyote</h3>
             <ul>
-                <li>Placeholder</li>
 {% assign posts = site.categories.pleistocene-coyote %}
 {% for post in posts %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -29,7 +28,6 @@
             </ul>
             <h3>Mesoamerican Coyote</h3>
             <ul>
-                <li>Placeholder</li>
 {% assign posts = site.categories.mesoamerican-coyote %}
 {% for post in posts | sort: "title" %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -37,7 +35,6 @@
             </ul>
             <h3>Coyote as Trickster</h3>
             <ul>
-                <li>Placeholder</li>
 {% assign posts = site.categories.coyote-as-trickster %}
 {% for post in posts %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -45,7 +42,6 @@
             </ul>
             <h3>Coyote as Varmint</h3>
             <ul>
-                <li>Placeholder</li>
 {% assign posts = site.categories.coyote-as-varmint | sort:'title' %}
 {% for post in posts %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -53,12 +49,12 @@
             </ul>
             <h3>Urban Coyote</h3>
             <ul>
-                <li>Placeholder</li>
 {% assign posts = site.categories.urban-coyote %}
 {% for post in posts %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
             </ul>
+            {% comment %}
             <h2>All Categories</h2>
             {% assign groups = site.categories.sources | group_by: "index" | sort: "name" %}
             {% for group in groups %}
@@ -69,6 +65,7 @@
             {% endfor %}
             </ul>
             {% endfor %}
+            {% endcomment %}
         </div>
         <div class="col-two">
             <h2>Tags</h2>
