@@ -14,14 +14,10 @@ tags:
 - Coyote and Dogs
 - Coyote and Cunning
 - Coyote and bounty payments
+citation_title: The Ranchmen's War on Varmints
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn85066387/1911-12-31/ed-1/seq-3/
+citation_biblio: Marion Pearson. "The Ranchmen's War on Varmints." The San Francisco Call. San Francisco, CA 1895-1913 December 31, 1911. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
-
-[Marion Pearson. The San Francisco Call. San Francisco, CA 1895-1913 December 31, 1911. Chronicling America: Historic American Newspapers. Lib. of Congress.] (<http://chroniclingamerica.loc.gov/lccn/sn85066387/1911-12-31/ed-1/seq-3/)
-
-***
-View PDF: https://drive.google.com/file/d/0B3jjm_N_Qi2HU3VvLWRaVVRXVEE/view?usp=sharing
-
-***
 
 The  ranchmen's war on varmints where California's cattle, sheep and poultry are raised. Every owner must know the habits and signs of mountain lions, coyotes and bob cats, and join with his gun and trained dogs in the determined slaughter
 
@@ -89,5 +85,3 @@ A particularly pertinacious foxhound has been known to keep a huge wild cat tree
 an important event in ranch life, and while they are still in their sporting and romping days, the most careful plans are being laid for their training so that they will not prove to be a smirch on the family escutcheon. 
 When a puppy is old enough he is taken out on the chase with the other dogs, one of which, a particularly sagacious hound, is selected as hi» tutor. To this one he is coupled, reaming so throughout the chase. Should the game be one of the smaller varmints such as a wildcat, the puppy is given his first chance to run alone. When the quarry is treed by the older hounds it is shot in the leg or otherwise slightly wounded —just enough to give
 it only half a chance to escape after it drops to the ground. The young dog is then uncoupled and, of course, has the time of his life in following up the cat. This part of the training is gone through again and again until he can be trusted to keep his head from start to finish. When that time comes he takes his place among the other dogs and at the end of the hunt his merits and demerits are discussed by the men of the ranch and his reputation spreads from one end of the county to the other. 
-
-
