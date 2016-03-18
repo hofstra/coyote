@@ -10,12 +10,12 @@ type: Manuscript
 tags: 
 - Coyote and Cunning
 - Coyote as predator
+citation_title: Burns, Reminiscings of a cattleman
+citation_url: http://www.loc.gov/item/wpalh002606/
+citation_biblio: Burns, Rollie C, and Ivey G. Warren. Library of Congress, Manuscript Division, WPA Federal Writers' Project Collection. 1936.
 ---
 
-
-[Burns, Rollie C, and Ivey G. Warren. Library of Congress, Manuscript Division, WPA Federal Writers' Project Collection. 1936.] (http://www.loc.gov/item/wpalh002606/)
-
-Personal Interview R.C. Burns “Rollie Burns” by Dr. W.C.Holden. REMINISCINGS OF A CATTLEMAN
+Personal Interview R.C. Burns “Rollie Burns” by Dr. W.C.Holden. 
 
 This is a story, which involves life and death among the wild animals on the South Plains, one which [indicator?], that after all animals do not differ very much from people, both having one and the same incentive, that of self-preservation.
 
