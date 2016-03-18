@@ -13,8 +13,9 @@ tags:
 - Coyote and conflicts with civilization
 citation_title: Coyote Hunter Advance Agent of  Civilization
 citation_url: http://chroniclingamerica.loc.gov/lccn/sn83016810/1907-08-24/ed-1/seq-1/
-citation_biblio: "Coyote Hunter Advance Agent ofCivilization." *he Appeal. Saint Paul, MN 1889-19??, August 24, 1907. Chronicling America. Historic American Newspapers. Lib. of Congress.
+citation_biblio: "Coyote Hunter Advance Agent ofCivilization." The Appeal. Saint Paul, MN 1889-19??, August 24, 1907. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
+
 "Coyote Hunter Advance Agent of  Civilization: How the Trapper Works Ahead of the Settler in the Undeveloped Parts of the Great West"
 
 If advocates of the simple life wish to see their doctrines followed to the letter, they should arrange to spend a few days with one of the coyote hunters who can be found in the remote portions of the Rocky mountain states, far from the railroads.
