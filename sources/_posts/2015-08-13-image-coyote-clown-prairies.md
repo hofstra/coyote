@@ -10,4 +10,12 @@ type: image
 tags:
 - Coyote as Art
 img: /sources/img/coyote-clown-prairies.jpg
+citation_title: Coyote-Clown of the Prairies
+citation_url: http://www.loc.gov/pictures/item/2010716932/
+citation_biblio: James, Will.  Still image, 1921. Library of Congress Prints and Photographs Division Washington, D.C.
 ---
+
+
+
+
+
