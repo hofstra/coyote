@@ -11,14 +11,11 @@ tags:
 - Coyote and conflicts with civilization
 - Coyote and Trapping
 - Coyote and bounty payments
+citation_title: Biography of a Tame Coyote
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn85066387/1902-07-27/ed-1/seq-8/
+citation_biblio: Madge Morris. "Biography of a Tame Coyote." The San Francisco Call. (San Francisco, CA) 1895-1913, July 27, 1902. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
 
-[Madge Morris. "Biography of a Tame Coyote."  *The San Francisco Call.* (San Francisco, CA) 1895-1913, July 27, 1902   Chronicling America: Historic American Newspapers. Lib. of Congress.] (<http://chroniclingamerica.loc.gov/lccn/sn85066387/1902-07-27/ed-1/seq-8/)
-
-***
-PDF Version available here: https://drive.google.com/open?id=0B3jjm_N_Qi2HOE5hZGhpdzFBTWc
-***
-BIOGRAPHY OF A TAME COYOTE.
 By Madge Morris
 
 The shadowy gray coyote, born afraid,
