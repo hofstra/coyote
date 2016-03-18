@@ -14,6 +14,6 @@ tags:
 img: /sources/img/twain-roughinit1.jpg 
 citation_title: Roughin It
 citation_url: http://www.gutenberg.org/files/3177/3177-h/3177-h.htm.
-citation_biblio: Twain, Mark. Roughin It. Hartford, CT: American Publishing Company, 1872.  A Project Gutenberg Ebook. 
+citation_biblio: Twain, Mark. Roughin It. Hartford, CT. American Publishing Company, 1872.  A Project Gutenberg Ebook. 
 ---
 
