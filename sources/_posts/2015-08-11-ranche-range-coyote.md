@@ -11,14 +11,10 @@ tags:
 - Coyote and Cunning
 - Coyote as predator
 - Coyote, descriptions of howl
+citation_title: The Artful Coyote.
+citation_url: http://chroniclingamerica.loc.gov/lccn/2007252185/1898-09-15/ed-1/seq-13/
+citation_biblio: Ranche and Range. North Yakima, WA 1897-1902. September 15, 1898. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
-
-["The Artful Coyote." *Ranche and Range*. North Yakima, WA 1897-1902. September 15, 1898. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/2007252185/1898-09-15/ed-1/seq-13/)
-***
-View PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HN3JwV0VQX01SbUE
-***
-THE ARTFUL COYOTE.
-
 What is a coyote? A coyote is a little animal of the wolf species that inhabits the foothills of the Rocky Mountains. He is about 18 inches high and long in proportion, and is the embodiment of duplicity. His color is indescribable. He is neither white nor black nor yellow, nor any other well-defined color; but a sort of blending of all, producing a hue that can best be described as coyote. He is not beautiful either in appearance or character. There is nothing attractive about him. He is not troubled with conscientious scruples; neither is he brave, and he won't fight unless he is compelled to. He is a scrub wolf in every sense of the word.
 
 His physical beauty is about on a par with his moral aspect. He has a little, peak-shaped head, in front of which, very close together, is a pair of the brightest, wickedest little eyes that ever shone in the moonlight. He does not appear possessed of any great amount of brains; but there is more unadulterated cunning wrapped up in his hide than can be found in the same amount of space anywhere else in creation. The man who imagines that a coyote does not understand his business, just because he has not a high forehead will soon learn that the principles of phrenology do not apply to this epitome of everything that is smart, rascally, tricky and impudent.
