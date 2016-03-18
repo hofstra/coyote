@@ -9,13 +9,10 @@ source: Library of Congress
 type: article
 tags:
 - Coyote and conflicts with ranching
+citation_title: Coyote-Proof Pasture Succeeds in Colorado
+citation_url: http://chroniclingamerica.loc.gov/lccn/sn85032933/1910-08-06/ed-1/seq-11/
+citation_biblio: The Oasis. Arizola, AZ 1893-1920, August 06, 1910. Chronicling America. Historic American Newspapers. Lib. of Congress.
 ---
-["Coyote-Proof Pasture." *The Oasis*. Arizola, AZ 1893-1920, August 06, 1910. Chronicling America: Historic American Newspapers. Lib. of Congress.] (http://chroniclingamerica.loc.gov/lccn/sn85032933/1910-08-06/ed-1/seq-11/)
-
-***
-View as PDF: https://drive.google.com/open?id=0B3jjm_N_Qi2HeElBdktNS2VoYkU
-***
-Coyote-Proof Pasture Succeeds in Colorado.
 
 The enclosure of sheep range within a coyote-proof fence has been tried in Colorado by F. H. Taylor, of Mancos, with highly satisfactory results. An experiment begun by U. S. Department of Agriculture on the Wallowa National Forest, in Oregon, to discover whether sheep could be advantageously pastured within such an enclosure, led Mr. Taylor to give the new method a trial. The outcome is set forth in a letter to the Department, as follows:
 
