@@ -17,4 +17,4 @@ Mark provides web development support for Digital Humanities initiatives through
 
 ### Aaron Taylor-Waldman
 
-Aaron Taylor-Waldman provided branding &amp; and visual design support for the Coyote project site, along with Hofstra's <a href="http://hofstradrc.org">DRC</a>. Aaron can be reached at atw (at) essentialco.com.
+Aaron Taylor-Waldman created the visual design for the Coyote Project site, as well as original branding for Hofstra University’s Digital Research Center (DRC). Aaron can be reached at atw (at) essentialco.com.
