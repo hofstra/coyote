@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tracking Coyote: From Trickster to Varmint and Back Again 
+title: Tracking Coyote, From Trickster to Varmint and Back Again 
 ---
 
 Use this site to trace coyote's journey across time and history. 
