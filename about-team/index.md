@@ -14,3 +14,7 @@ About Jamie Folsom.
 ### Mark Reeves
 
 Mark provides web development support for Digital Humanities initiatives through Hofstra's <a href="http://hofstradrc.org">Digital Research Center</a>. Contact Mark at mjr (at) essentialco.com.
+
+### Aaron Taylor-Waldman
+
+About Aaron Taylor-Waldman.
