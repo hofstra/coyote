@@ -11,7 +11,7 @@ tags:
 - Coyote as Art
 - Coyote and Mesoamerica
 img: /sources/img/codex-borbonicus.jpg
-citation_title: Codex Borbonicus. 
+citation_title: Codex Borbonicus
 citation_url: http://www.famsi.org/research/loubat/Borbonicus/thumbs0.html
 citation_biblio: Facsimilies of the Codex Borbonicus. Graz :Akadem. Druck- u. Verlagsanst. 1974. FAMSI. http://www.famsi.org/research/graz/borbonicus/index.html
 ---
