@@ -9,9 +9,12 @@ source: Library of Congress
 type: manuscript
 tags: 
 - Coyote and bounty payments
+citation_title: Rindinger, Henry. Interviewed by Ruby E. Wilson
+citation_url: http://www.loc.gov/item/wpalh001059/
+citation_biblio: Rindinger, Henry. Interviewed by Ruby E. Wilson. 1938. Library of Congress, Manuscript Division, WPA Federal Writers' Project Collection. 
+
 ---
 
-[Rindinger, Henry. Interviewed by Ruby E. Wilson. 1938. Library of Congress, Manuscript Division, WPA Federal Writers' Project Collection.] (http://www.loc.gov/item/wpalh001059/)
 
 
 I was born in 1851 Council Bluffs, Iowa. I swam the Mo. river when I was a boy when it was half mile wide and I went to Kans. I left home when I was 11 and took care of myself after that. My first wife was part Indian, well educated and one of the best singers I have ever heard. I worked for her father when I was a kid in Iowa and when I went back he sent for me to work. Her name was Canon, her father was a cousin to old Joe Canon, the political man.
