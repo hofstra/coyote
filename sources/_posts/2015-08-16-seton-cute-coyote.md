@@ -14,7 +14,7 @@ tags:
 - Coyote and Dogs
 citation_title: Wild Animals At Home
 citation_url: http://www.gutenberg.org/files/27887/27887-h/27887-h.htm
-citation_biblio: Seton, Ernest Thompson. _Wild Animals At Home._ 1913. A The Project Gutenberg eBook. 
+citation_biblio: Seton, Ernest Thompson. <i>Wild Animals At Home.</i> 1913. A The Project Gutenberg eBook. 
 ---
 
 ### An Exemplary Little Beast, My Friend the Coyote
