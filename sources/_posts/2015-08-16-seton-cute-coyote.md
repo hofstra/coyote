@@ -12,10 +12,10 @@ tags:
 - Coyote, descriptions of howl
 - Coyote as predator
 - Coyote and Dogs
+citation_title: Wild Animals At Home
+citation_url: http://www.gutenberg.org/files/27887/27887-h/27887-h.htm
+citation_biblio: Seton, Ernest Thompson. _Wild Animals At Home._ 1913. A The Project Gutenberg eBook. 
 ---
-
-
-[Ernest Thompson Seton. *Wild Animals At Home.* 1913. A The Project Gutenberg eBook.] (http://www.gutenberg.org/files/27887/27887-h/27887-h.htm)
 
 The Cute Coyote
 
@@ -36,7 +36,7 @@ The naturalist finds the Coyote interesting for other reasons. When you see that
 
 Furthermore, remember there is a squealing brood of little Coyotes in the home den up on a hillside a mile or two away. Father and mother must hunt continually and successfully to furnish their daily food. The dog-towns are their game preserves, but how are they to catch a Prairie-dog! Every one knows that though these little yapping Ground-squirrels will sit up and bark at an express train but twenty feet away, they scuttle down out of sight the moment a man, dog or Coyote enters into the far distant precincts of their town; and downstairs they stay in the cyclone cellar until after a long interval of quiet that probably proves the storm to be past. Then they poke their prominent eyes above the level, and, if all is still, will softly hop out and in due course, resume their feeding.
 
-THE PRAIRIE-DOG OUTWITTED
+###THE PRAIRIE-DOG OUTWITTED
 
 This is how the clever Coyote utilizes these habits. He and his wife approach the dog-town unseen. One Coyote hides, then the other walks forward openly into the town. There is a great barking of all the Prairie-dogs as they see their enemy approach, but they dive down when he is amongst them. As soon as they are out of sight the second Coyote rushes forward and hides near any promising hole that happens to have some sort of cover close by. Meanwhile, Coyote number one strolls on. The Prairie-dogs that he scared below come up again. At first each puts up the top of his head merely, with his eyes on bumps, much like those of a hippopotamus, prominent and peculiarly suited for this observation work from below, as they are the first things above ground. After a brief inspection, if all be quiet, he comes out an inch more. Now he can look around, the coast is clear, so he sits up on the mound and scans his surroundings.
 
@@ -44,8 +44,7 @@ Yes! Ho! Ho! he sees his enemy, that hated Coyote, strolling away off beyond the
 
 Among the herbage he sits up high to take a final look around, then burying his nose in the fodder, he begins his meal. This is the chance that the waiting, watching, she-Coyote counted on. There is a flash of gray fur from behind that little grease bush; in three hops she is upon him. He takes alarm at the first sound and tries to reach the haven hole, but she snaps him up. With a shake she ends his troubles. He hardly knows the pain of death, then she bounds away on her back track to the home den on the distant hillside. She does not come near it openly and rashly. There is always the possibility of such an approach betraying the family to some strong enemy on watch. She circles around a little, scrutinizes the landscape, studies the tracks and the wind, then comes to the door by more or less devious hidden ways. The sound of a foot outside is enough to make the little ones cower in absolute silence, but mother reassures them with a whining call much like that of a dog mother. They rush out, tumbling over each other in their glee, six or seven in number usually, but sometimes as high as ten or twelve. Eagerly they come, and that fat Prairie-dog lasts perhaps three minutes, at the end of which time nothing is left but the larger bones with a little Coyote busy polishing each of them. Strewn about the door of the den are many other kindred souvenirs, the bones of Ground-squirrels, Chipmunks, Rabbits, Grouse, Sheep, and Fawns, with many kinds of feathers, fur, and hair, to show the great diversity of Coyote diet.
 
-***
-THE COYOTE'S SENSE OF HUMOUR
+###THE COYOTE'S SENSE OF HUMOUR
 
 To understand the Coyote fully one must remember that he is simply a wild dog, getting his living by his wits, and saving his life by the tireless serviceability of his legs; so has developed both these gifts to an admirable pitch of perfection. He is blessed further with a gift of music and a sense of humour.
 
@@ -69,8 +68,7 @@ The Coyote, however, had discovered a new amusement. From that day he simply "la
 
 At first it was funny, and then it became tedious, and at last it was deeply resented by Chink's master. A man feels for his dog; he wasn't going to stand still and see his dog abused. He began to grumble vaguely about "If something didn't happen pretty soon, something else would." Just what he meant I didn't ask, but I know that the Coyote disappeared one day, and never was seen or heard of again. I'm not supposed to know any thing about it, but I have my suspicions, although in those days the Coyote was a protected animal.
 
-***
-HIS DISTINGUISHING GIFT
+###HIS DISTINGUISHING GIFT
 
 The scientific name of the Coyote (Canis latrans), literally "Barking Dog," is given for the wonderful yapping chorus with which they seldom fail to announce their presence in the evening, as they gather at a safe distance from the campfire. Those not accustomed to the sound are very ready to think that they are surrounded by a great pack of ravening Wolves, and get a sufficiently satisfactory thrill of mingled emotions at the sound. But the guide will reassure you by saying that that great pack of howling Wolves is nothing more than a harmless little Coyote, perhaps two, singing their customary vesper song, demonstrating their wonderful vocal powers. Their usual music begins with a few growling, gurgling yaps which are rapidly increased in volume and heightened in pitch, until they rise into a long squall or scream, which again, as it dies away, breaks up into a succession of yaps and gurgles. Usually one Coyote begins it, and the others join in with something like agreement on the scream.
 
