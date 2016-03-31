@@ -17,7 +17,7 @@ citation_url: http://www.gutenberg.org/files/27887/27887-h/27887-h.htm
 citation_biblio: Seton, Ernest Thompson. _Wild Animals At Home._ 1913. A The Project Gutenberg eBook. 
 ---
 
-###AN Exemplary Little Beast, My Friend the Coyote
+###An Exemplary Little Beast, My Friend the Coyote
 
 If you draw a line around the region that is, or was, known as the Wild West, you will find that you have exactly outlined the kingdom of the Coyote. He is even yet found in every part of it, but, unlike his big brother the Wolf, he never frequented the region known as Eastern America.
 
