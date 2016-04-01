@@ -11,4 +11,7 @@ tags:
 - Coyote Hunting
 - Coyote and trophy photo
 img: /sources/img/coyote-hunt-silkville-kansas.jpg 
+citation_title: Coyote Hunt at Silkville
+citation_url: http://www.kansasmemory.org/item/220046
+citation_biblio: <i>Coyote Hunt at Silkville </i> Photograph, 1914. Kansas Memory. http://www.kansasmemory.org/item/220046
 ---
