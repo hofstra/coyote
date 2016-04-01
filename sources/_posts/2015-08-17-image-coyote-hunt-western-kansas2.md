@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyote Hunt in Western Kansas (2)
+title: Coyote hunt, Thomas County, Kansas
 category: 
 - coyote-as-varmint
 - Images
@@ -11,5 +11,8 @@ tags:
 - Coyote Pelt
 - Coyote Hunting
 - Coyote and trophy photo
-img: /sources/img/coyote-hunt-kansas.jpg 
+img: /sources/img/coyote-hunt-kansas.jpg
+citation_title: Coyote hunt, Thomas County, Kansas
+citation_url: http://www.kansasmemory.org/item/215099
+citation_biblio: <i>Coyote hunt, Thomas County, Kansas</i> Photograph, 1908. Kansas Memory. http://www.kansasmemory.org/item/215099
 ---
