@@ -11,4 +11,8 @@ tags:
 - Coyote and Native Americans
 - Coyote as Art
 img: /sources/img/coyote-dance3.jpg
+citation_title: Coyote’ Dance, White Rocks - Summer 1909
+citation_url: http://content.lib.utah.edu:81/cdm4/item_viewer.php?CISOROOT=/uaida&CISOPTR=44435&CISOBOX=1&REC=5
+citation_biblio: Sapir, Edward. <i>‘Coyote’ Dance, White Rocks - Summer 1909.</i> Photograph, 1909. http://content.lib.utah.edu:81/cdm4/item_viewer.php?CISOROOT=/uaida&CISOPTR=44435&CISOBOX=1&REC=5
+
 ---
