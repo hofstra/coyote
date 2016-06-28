@@ -16,3 +16,4 @@ citation_biblio: Gill, Don. "The Coyote and the Sequential Occupants of the Los 
 ---
 
 
+Gill surveys the role of the coyote acorss time: in the Pleistocene, among Southern California Indians, during and after the Spanish conquest, among American settler-colonialists, and in urban settings. Gill quotes extensively from primary soruces and, as indicated in the title, focuses most of his attention on the Los Angeles Basis
