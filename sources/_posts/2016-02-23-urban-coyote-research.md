@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Gotham Coyote Project
+title: Urban Coyote Reserach: Urban Coyote Ecology and Management, Cook County, IL
 category: 
 - urban-coyote
 pubdate: 2015-04-25
@@ -8,8 +8,8 @@ source: website
 type: website
 tags:
 - Urban Coyote
-article_url: http://urbancoyoteresearch.com/
-citation_title: Gotham Coyote Project
+article_url: Urban Coyote Reserach: Urban Coyote Ecology and Management, Cook County, IL
+citation_title: Urban Coyote Reserach
 citation_url: http://urbancoyoteresearch.com/
 citation_biblio: Urban Coyote Research. Urban coyote ecology and management, Cook County, Illinois.
 ---
