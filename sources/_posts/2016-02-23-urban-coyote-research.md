@@ -11,7 +11,7 @@ tags:
 article_url: Urban Coyote Reserach. Urban Coyote Ecology and Management, Cook County, IL
 citation_title: Urban Coyote Reserach
 citation_url: http://urbancoyoteresearch.com/
-citation_biblio: Urban Coyote Research. Urban coyote ecology and management, Cook County, Illinois.
+citation_biblio: 
 ---
 
 ###Project Overview: Ghosts of the city
