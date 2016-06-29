@@ -4,7 +4,7 @@ title: The Coyote and the Sequential Occupants of the Los Angeles Basin
 category: 
 - pleistocene-coyote
 pubdate: 1970
-source: Plos One
+source: website
 type: article
 tags:
 - Coyote Evolution
