@@ -3,6 +3,7 @@ layout: source
 title: The Coyote and the Sequential Occupants of the Los Angeles Basin
 category: 
 - pleistocene-coyote
+- urban-coyote
 pubdate: 1970
 source: website
 type: website
