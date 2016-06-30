@@ -3,18 +3,20 @@ layout: source
 title: Urban Coyote Reserach. Urban Coyote Ecology and Management, Cook County, IL
 category: 
 - urban-coyote
-pubdate: 2015-04-25
+pubdate: 2016
 source: website
 type: website
 tags:
 - Urban Coyote
-article_url: Urban Coyote Reserach. Urban Coyote Ecology and Management, Cook County, IL
-citation_title: Urban Coyote Reserach
+article_url: http://urbancoyoteresearch.com/
+citation_title: Urban Coyote Reserach. Urban Coyote Ecology and Management, Cook County, IL
 citation_url: http://urbancoyoteresearch.com/
 citation_biblio: Urban Coyote Research. Urban coyote ecology and management, Cook County, Illinois.
 ---
 
-### Project Overview: Ghosts of the city
 
-"Originally known as ghosts of the plains, coyotes have now become ghosts of the cities, occasionally heard but less often seen. With the exception of a few individuals, coyotes have largely learned to avoid us. Though a relatively recent phenomenon, coyotes are the top carnivores in an increasing number of metropolitan areas across North America. This includes one of the largest urban centers in the Midwest — the Chicago metropolitan region."
-- Urban Coyote Research
+### WEBSITE SUMMMARY 
+
+"The Cook County Coyote Project is a comprehensive study of coyotes in Chicago metropolitan areas. Also known as the Urban Coyote Research Program, the study was initiated in 2000 as a non-biased attempt to address shortcomings in urban coyote ecology information and management; the Coyote Project is still underway. With the help of many key agencies, a continuous subset of coyotes is live-captured, collared, and released at their capture site. Coyotes are monitored to understand how they live in urban areas and how they interact with other wildlife, domestic animals, and humans. 
+
+This website provides details on the study, information about urban coyotes, how to avoid conflicts, and a snapshot of the lives of some of the animals being tracked."
