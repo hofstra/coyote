@@ -11,8 +11,6 @@ tags:
 - NYC Coyote
 - article_url: http://digitalcommons.lmu.edu/cate/vol8/iss1/5
 - citation_title: Coyotes Go “Bridge and Tunnel” A Narrow Opportunity to Study the Socio-ecological Impacts of Coyote Range Expansion on Long Island, NY Pre- and Post-Arrival
-- on Long Island, NY Pre- and Post-Arrival
-on Long Island, NY Pre- and Post-Arrival
 ---
 
 ### Abstract
