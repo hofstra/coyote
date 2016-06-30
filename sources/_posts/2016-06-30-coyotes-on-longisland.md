@@ -9,6 +9,7 @@ type: article
 tags:
 - Urban Coyote
 - NYC Coyote
+- article_url: http://digitalcommons.lmu.edu/cate/vol8/iss1/5
 ---
 
 ### Abstract
