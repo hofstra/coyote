@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Urban Conservation. The Northeastern Coyote as a Flagship Specie
+title: Urban Conservation. The Northeastern Coyote as a Flagship Species
 category: 
 - urban-coyote
 pubdate: 2016
