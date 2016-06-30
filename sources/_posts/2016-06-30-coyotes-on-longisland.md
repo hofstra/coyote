@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Coyotes Go “Bridge and Tunnel”: A Narrow Opportunity to Study the Socio-ecological Impacts of Coyote Range Expansion
+title: Coyotes Go “Bridge and Tunnel” A Narrow Opportunity to Study the Socio-ecological Impacts of Coyote Range Expansion
 on Long Island, NY Pre- and Post-Arrival
 category: 
 - urban-coyote
