@@ -13,7 +13,7 @@ tags:
 - citation_title: Coyotes Go “Bridge and Tunnel” A Narrow Opportunity to Study the Socio-ecological Impacts of Coyote Range Expansion on Long Island, NY Pre- and Post-Arrival
 - on Long Island, NY Pre- and Post-Arrival
 on Long Island, NY Pre- and Post-Arrival
-citation_url: http://digitalcommons.lmu.edu/cate/vol8/iss1/5
+citation_biblio: Weckel, Mark, Bogan, Daniel A., Burke, Russel L., Nagy, Christopher, Siemer, William F., Green, Timothy, and Mitchell, Numi (2015). "Coyotes Go “Bridge and Tunnel” A Narrow Opportunity to Study the Socio-ecological Impacts of Coyote Range Expansion on Long Island, NY Pre- and Post-Arrival," Cities and the Environment (CATE) Vol. 8: Iss. 1, Article 5. Available at http://digitalcommons.lmu.edu/cate/vol8/iss1/5
 ---
 
 ### Abstract
