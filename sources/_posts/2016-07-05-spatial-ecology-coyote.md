@@ -5,7 +5,7 @@ category:
 - urban-coyote
 pubdate: 2004
 source: website
-type: article
+type: image
 tags:
 - Urban Coyote
 - NYC Coyote
