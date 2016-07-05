@@ -1,7 +1,3 @@
-
-
-
-
 ---
 layout: source
 title: Spatial Ecology of Coyotes along a Suburban-to-Rural Gradient
