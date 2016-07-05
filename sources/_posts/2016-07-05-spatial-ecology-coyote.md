@@ -13,7 +13,6 @@ type: article
 tags:
 - Urban Coyote
 - NYC Coyote
-img: /sources/img/Image-SpatialEcologyCoyote-2004.jpg
 article_url: http://www.jstor.org/stable/3803656
 citation_title: Spatial Ecology of Coyotes along a Suburban-to-Rural Gradient
 citation_biblio: Atwood, Todd C., Weeks Harmon P., and Gehring Thomas M. "Spatial Ecology of Coyotes along a Suburban-to-Rural Gradient." The Journal of Wildlife Management 68, no. 4 (2004) 1000-009. http://www.jstor.org/stable/3803656.
