@@ -8,7 +8,6 @@ source: website
 type: image
 tags:
 - Urban Coyote
-- NYC Coyote
 img: /sources/img/Cove-UseofCameraTrapsTable1.jpeg
 article_url: http://connection.ebscohost.com/c/articles/82825837/use-camera-traps-examine-mesopredator-release-hypothesis-fragmented-midwestern-landscape
 citation_title: Use of camera traps to examine the mesopredator release hypothesis in a fragmented midwestern landscape
