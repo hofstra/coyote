@@ -1,6 +1,6 @@
 ---
 layout: source
-title: The ecology of northeast coyotes: Current knowledge and priorities for future research
+title: The Ecology of Northeast Coyotes - Current knowledge and priorities for future research
 category: 
 - urban-coyote
 pubdate: 2002
@@ -11,7 +11,7 @@ tags:
 - Northeast Coyote
 img: /sources/img/GompperNECoyote.jpg
 article_url: http://programs.wcs.org/data/doi/ctl/view/mid/33065/pubid/DMX3097000000.aspx
-citation_title: The ecology of northeast coyotes: Current knowledge and priorities for future research
+citation_title: The ecology of northeast coyotes - Current knowledge and priorities for future research
 citation_biblio: Gompper, Matthew E. (2002). The ecology of northeast coyotes: Current knowledge and priorities for future research. Wildlife Conservation Society. Working Paper no. 17.
 ---
 
