@@ -14,5 +14,5 @@ tags:
 img: /sources/img/coyote-hunt-ford-county-kansas.jpg
 citation_title: Coyote Hunt in Ford County
 citation_url: http://www.kansasmemory.org/item/208989
-citation_biblio: <i>Coyote Hunt in Ford County </i> Photograph, 1914. Kansas Memory. http://www.kansasmemory.org/item/208989
+citation_biblio: <i>Coyote Hunt in Ford County </i> Photograph, 1914. Kansas Memory. http://www.kansasmemory.org/item/208989 Copy and Reuse Restrictions Apply. Permission Pending. 
 ---
