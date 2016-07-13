@@ -10,9 +10,9 @@ type: image
 tags: 
 - Coyote as Art
 img: /sources/img/nuevo-coyote.jpg
-citation_title: 
+citation_title: El Nuevo Coyote
 citation_url: https://www.loc.gov/item/99615880
-citation_biblio: Guadalupe Posada, José. “El Nuevo Coyote.” Print. 1930-1950. Library of Congress, Washington, D.C. 
+citation_biblio: Guadalupe Posada, José. “El Nuevo Coyote.” Print. 1930-1950. Library of Congress, Washington, D.C. https://www.loc.gov/item/99615880
 ---
 This game board illustration depicts a moment of predation. In the center of the image, a coyote is attacking a sheep. There are also chickens depicted in the squares.
 
