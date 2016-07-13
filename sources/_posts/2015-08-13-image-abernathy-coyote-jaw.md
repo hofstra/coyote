@@ -13,5 +13,5 @@ tags:
 img: /sources/img/abernathy-coyote-jaw.jpg
 citation_title: Abernathy holding coyote by jaw 
 citation_url: http://hdl.loc.gov/loc.pnp/stereo.1s02318
-citation_biblio: Lambert, Alexander. Photograph, 1905.  Library of Congress Prints and Photographs Division.
+citation_biblio: Lambert, Alexander. Photograph, 1905.  Library of Congress Prints and Photographs Division. No known restrictions on publication. 
 ---
