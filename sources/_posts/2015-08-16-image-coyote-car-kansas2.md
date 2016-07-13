@@ -12,6 +12,5 @@ tags:
 img: /sources/img/coyote-car2-kansas.jpg
 citation_title: Coyote Hunt
 citation_url: http://www.kansasmemory.org/item/209004
-citation_biblio: Coyote Hunt.  Photograph, 1910-1929. Kansas Historical Society.  http://www.kansasmemory.org/item/209004.
-
+citation_biblio: Coyote Hunt.  Photograph, 1910-1929. Kansas Historical Society.  http://www.kansasmemory.org/item/209004. Permissions Pending. 
 ---
