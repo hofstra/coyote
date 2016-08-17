@@ -17,3 +17,5 @@ citation_title: Prairie Wolf In Distress
 citation_url: http://diglib.amphilsoc.org/islandora/object/graphics:119
 citation_biblio: Peale, Titian Ramsay."Prairie Wolf in Distress." 1819-1820. Watercolor.  American Philosophical Society, Digital Library. 
 ---
+
+Permission pending. All rights reserved by American Philosophical Society, Digital Library. 
