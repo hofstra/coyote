@@ -9,5 +9,4 @@ type: article
 tags:
 - Urban Coyote
 - Northeast Coyote
-article_url: http://www.nydailynews.com/new-york/queens/coyote-family-raising-litter-pups-queens-article-1.2766744
 ---
