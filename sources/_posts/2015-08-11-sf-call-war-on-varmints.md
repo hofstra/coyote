@@ -14,6 +14,7 @@ tags:
 - Coyote and Dogs
 - Coyote and Cunning
 - Coyote and bounty payments
+img: /sources/img/RancherWaronVarmints.pdf
 citation_title: The Ranchmen's War on Varmints
 citation_url: http://chroniclingamerica.loc.gov/lccn/sn85066387/1911-12-31/ed-1/seq-3/
 citation_biblio: Marion Pearson. "The Ranchmen's War on Varmints." The San Francisco Call. San Francisco, CA 1895-1913 December 31, 1911. Chronicling America. Historic American Newspapers. Lib. of Congress.
