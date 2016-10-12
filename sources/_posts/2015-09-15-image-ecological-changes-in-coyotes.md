@@ -5,7 +5,7 @@ category:
 - pleistocene-coyote
 pubdate: 2014-12-31
 source: Plos One
-type: article image and abstract
+type: image
 tags:
 - Coyote Evolution
 - Pleistocene Epoch
