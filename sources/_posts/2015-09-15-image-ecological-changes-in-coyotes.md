@@ -9,7 +9,6 @@ type: image
 tags:
 - Coyote Evolution
 - Pleistocene Epoch
-- Coyote Mandible
 img: /sources/img/ecological-changes-in-coyotes.jpg
 citation_title: "Ecological Changes in Coyotes (Canis latrans) in Response to the Ice Age Megafaunal Extinctions"
 citation_url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0116041
