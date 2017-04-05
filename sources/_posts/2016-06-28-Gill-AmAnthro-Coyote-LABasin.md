@@ -9,7 +9,6 @@ source: website
 type: website
 tags:
 - Coyote and natural history
-- Urban Coyote
 - Coyote and Native Americans
 article_url: http://www.jstor.org/stable/671658
 citation_title: "The Coyote and the Sequential Occupants of the Los Angeles Basin"
