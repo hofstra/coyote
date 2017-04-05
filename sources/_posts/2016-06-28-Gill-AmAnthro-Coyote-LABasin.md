@@ -8,8 +8,7 @@ pubdate: 1970
 source: website
 type: website
 tags:
-- Coyote Evolution
-- Pleistocene Epoch
+- Coyote and natural history
 - Urban Coyote
 - Coyote and Native Americans
 article_url: http://www.jstor.org/stable/671658
