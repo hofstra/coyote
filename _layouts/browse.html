@@ -29,7 +29,7 @@
             <h3>Mesoamerican Coyote</h3>
             <ul>
 {% assign posts = site.categories.mesoamerican-coyote %}
-{% for post in posts | sort: "title" %}
+{% for post in posts | sort: 'title' %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
             </ul>
@@ -42,7 +42,7 @@
             </ul>
             <h3>Coyote as Varmint</h3>
             <ul>
-{% assign posts = site.categories.coyote-as-varmint | sort:'title' %}
+{% assign posts = site.categories.coyote-as-varmint | sort: 'title' %}
 {% for post in posts %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}

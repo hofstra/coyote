@@ -9,12 +9,12 @@ Frank conducts research on the role of coyote in myth and history.  Primary sour
 
 ### Jamie Folsom
 
-About Jamie Folsom.
+Jamie leads software development and technology strategy for Hofstra DRC.
 
 ### Mark Reeves
 
-Mark provides web development support for Digital Humanities initiatives through Hofstra's <a href="http://hofstradrc.org">Digital Research Center</a>. Contact Mark at mjr (at) essentialco.com.
+Mark provides web development support for Digital Humanities initiatives through Hofstra's <a href="http://hofstradrc.org">Digital Research Center</a>.
 
 ### Aaron Taylor-Waldman
 
-Aaron Taylor-Waldman provided branding &amp; and visual design support for the Coyote project site, along with Hofstra's <a href="http://hofstradrc.org">DRC</a>. Aaron can be reached at atw (at) essentialco.com.
+Aaron Taylor-Waldman provided branding &amp; and visual design support for the Coyote project site, along with Hofstra's <a href="http://hofstradrc.org">DRC</a>.
