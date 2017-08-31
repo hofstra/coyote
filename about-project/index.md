@@ -1,6 +1,6 @@
 ---
-title: About the Project
 layout: page
+title: About the Project
 active: about-project
 ---
 

@@ -1,0 +1,19 @@
+---
+layout: source
+title: Twain, Roughin It (1)
+category: 
+- coyote-as-varmint
+- Images
+pubdate: 1872
+source: Project Gutenberg
+type: image
+tags:
+- Coyote and Native Americans
+- Coyote and Dogs
+- Coyote and Native Americans 
+img: /sources/img/twain-roughinit1.jpg 
+citation_title: Roughin It
+citation_url: http://www.gutenberg.org/files/3177/3177-h/3177-h.htm.
+citation_biblio: Twain, Mark. Roughin It. Hartford, CT. American Publishing Company, 1872.  A Project Gutenberg Ebook. 
+---
+

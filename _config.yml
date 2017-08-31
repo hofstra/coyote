@@ -1,27 +1,28 @@
----
+# Site settings
 title: Coyote
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 email: drc@hofstra.edu
-description: Informational website for the Myths of Coyote project
-baseurl: "/coyote"
-url: http://hofstradrc.org
-twitter_username: 
-github_username: hofstra
+description: "Informational website for the Myths of Coyote project"
+baseurl: ""
+url: "http://hofstradrc.org"
+twitter_username:
+github_username:  hofstra
 google_analytics: false
-destination: "./_site"
-exclude:
-- templates
-- Gemfile
-- Gemfile.lock
-- README.md
-- ".gitignore"
-markdown: kramdown
-permalink: "/:categories/:title/"
+
+# Where things are
+destination:      ./_site
+# source:           ./_build
+
+# Handling Reading
+exclude:          ["templates", "Gemfile", "Gemfile.lock", "README.md", ".gitignore"]
+
+# Conversion
+markdown:         kramdown
+
+# Outputting
+permalink: /:categories/:title/
+
+# Compensating for gh-pages project site
+baseurl: /coyote
+# https://github.com/jekyll/jekyll/issues/332
+
 asset_url: https://hofstra.github.io/design-framework

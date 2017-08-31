@@ -1,6 +1,6 @@
 ---
-title: Contact Us
 layout: page
+title: Contact Us
 active: contact-us
 ---
 
