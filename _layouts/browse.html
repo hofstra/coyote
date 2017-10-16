@@ -17,41 +17,42 @@
 
         <!--<p><em>Frank: Note that these headings, and the navigation link, can be refined. Presently they include cues as to how you can edit posts to fill them in.</em></p>-->
 
-        <div class="two-col"><div class="col-one">
+        <div class="two-col listOfLinks"><div class="col-one">
             <h2>Posts by Chapter</h2>
             <h3>Pleistocene Coyote</h3>
             <ul>
 {% assign posts = site.categories.pleistocene-coyote %}
 {% for post in posts %}
-                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <div class="fa fa-arrow-right" aria-hidden="true"></div></a></li>
 {% endfor %}
             </ul>
             <h3>Mesoamerican Coyote</h3>
             <ul>
 {% assign posts = site.categories.mesoamerican-coyote %}
-{% for post in posts | sort: 'title' %}
-                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% assign sortedPosts = posts | sort: 'title' %}
+{% for post in sortedPosts %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <div class="fa fa-arrow-right" aria-hidden="true"></div></a></li>
 {% endfor %}
             </ul>
             <h3>Coyote as Trickster</h3>
             <ul>
 {% assign posts = site.categories.coyote-as-trickster %}
 {% for post in posts %}
-                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <div class="fa fa-arrow-right" aria-hidden="true"></div></a></li>
 {% endfor %}
             </ul>
             <h3>Coyote as Varmint</h3>
             <ul>
-{% assign posts = site.categories.coyote-as-varmint | sort: 'title' %}
-{% for post in posts %}
-                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% assign sortedPosts = site.categories.coyote-as-varmint | sort: 'title' %}
+{% for post in sortedPosts %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <div class="fa fa-arrow-right" aria-hidden="true"></div></a></li>
 {% endfor %}
             </ul>
             <h3>Urban Coyote</h3>
             <ul>
 {% assign posts = site.categories.urban-coyote %}
 {% for post in posts %}
-                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <div class="fa fa-arrow-right" aria-hidden="true"></div></a></li>
 {% endfor %}
             </ul>
             {% comment %}
@@ -60,8 +61,9 @@
             {% for group in groups %}
             <h3>{{ group.name }}</h3>
             <ul>
-            {% for item in group.items | sort: "title" %}
-                <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+			{% assign sortedItems = group.items | sort: "title" %}
+            {% for item in sortedItems %}
+                <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }} <div class="fa fa-arrow-right" aria-hidden="true"></div></a></li>
             {% endfor %}
             </ul>
             {% endfor %}
