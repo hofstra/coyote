@@ -13,12 +13,14 @@
 
         <h1>{{ page.title }}</h1>
 
-        <figure>
+		{% include searchbox placeholder="What coyote are you looking for?"%}
+
+		<figure>
             <a class="fancybox" href="/coyote/sources/img/urban-coyote1.jpg"><img src="/coyote/sources/img/urban-coyote1.jpg" /></a>
 
         </figure>
 
-        {{ content }}
+		{{ content }}
 
         <ul>
             <li><a href="{{ site.baseurl }}/browse">Browse posts</a></li>

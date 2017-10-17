@@ -1,0 +1,10 @@
+<form action="{{ site.baseurl }}/search.html" method="get">
+<div class="searchbox">
+   <div class="search">
+      <input type="text" name="query" class="searchTerm" placeholder="{{ include.placeholder }}">
+      <button type="submit" value="search" class="searchButton">
+        <span class="fa fa-search" aria-hidden="true"></span>
+     </button>
+   </div>
+</div>
+</form>

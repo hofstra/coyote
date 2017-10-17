@@ -17,7 +17,7 @@ https://hofstra.github.io/design-framework/ui/css/styles.css
 /* FontAwesome icon font http://fontawesome.io/ */
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css");
 
-/* Variables */
+/* Sitewide */
 $font-brand: 'Montserrat', sans-serif;
 $font-header: 'Oswald', sans-serif;
 $font-bodyCopy: 'Alegreya', serif;
@@ -31,9 +31,17 @@ $color-tagBackground: #625044;
 
 $color-linkHover: rgb(50, 91, 130);
 
+/* Search */
+$color-search: #c2b4a5;
+$color-searchBackground: #625044;
+$color-searchFocus: #00B4CC;
+$color-searchPlaceholder: #DDDDDD;
+$size-searchBox: 2rem;
+
 /* Includes */
 @import "sitewide";
 @import "branding";
 @import "navigation";
 @import "tagging";
 @import "listOfLinks";
+@import "search";
