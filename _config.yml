@@ -11,6 +11,7 @@ google_analytics: false
 # Where things are
 destination:      ./_site
 # source:           ./_build
+include: ['_pages']
 
 # Handling Reading
 exclude:          ["templates", "Gemfile", "Gemfile.lock", "README.md", ".gitignore"]
