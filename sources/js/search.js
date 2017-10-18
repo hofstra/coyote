@@ -10,11 +10,13 @@ document.addEventListener('DOMContentLoaded', function() {
 	if (searchTerm) {
 
 		// Set the search boxes on the page to have the searchterm
+		/*
 		var testElements = document.getElementsByClassName('searchTerm');
 		for (var i = 0; i < testElements.length; i++) {
 			testElements.item(i).setAttribute("value", searchTerm);
 		}
-
+		*/
+		document.getElementById('largeSearch').setAttribute("value", searchTerm);
 
 		// Initalize lunr with the fields it will be searching on.
 		var idx = lunr(function() {
@@ -59,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			}
 			searchResults.innerHTML = appendString;
 		} else {
-			searchsResults.innerHTML = '<div class="searchMsgWrapper"><div class="searchMsg">No results found for "' + searchTerm + '"</div></div>';
+			searchResults.innerHTML = '<div class="searchMsgWrapper"><div class="searchMsg">No results found for "' + searchTerm + '"</div></div>';
 		}
 	}
 
