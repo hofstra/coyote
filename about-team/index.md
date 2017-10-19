@@ -1,8 +1,9 @@
 ---
-layout: page
 title: About the Team
+layout: page
 active: about-team
 ---
+
 ### Frank Gaughan
 
 Frank conducts research on the role of coyote in myth and history.  Primary source documents are archived on this site, with the help of Jamie, Mark, and Aaron below. Over time, we'd like to add to the site and include audio, interviews, and commentary. If you know of an interesting coyote-related artifact and would like to contribute to the site, please contact Frank.P.Gaughan (at) hofstra.edu

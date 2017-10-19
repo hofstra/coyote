@@ -1,7 +1,8 @@
 ---
-layout: home
 title: Tracking Coyote, From Trickster to Varmint and Back Again
+layout: home
 ---
+
 Use this site to trace coyote's journey across time and history.
 
 Our story begins in the La Brea Tarpits. While the Tarpits and the corresponding museum are best known for compelling fossils of saber-tooth cats, mastodons, and ground sloths, researchers have also found coyote skeletons and the partial remains of one woman. In this sense, human association with the animal we know today as <i>Canis latrans</i> (or barking dog) dates back over 10,000 years.
