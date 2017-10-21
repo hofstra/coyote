@@ -1,0 +1,7 @@
+{
+	"home": "http://127.0.0.1:4000/coyote/",
+	"browse posts": "http://127.0.0.1:4000/coyote/browse/",
+	"about the project": "http://127.0.0.1:4000/coyote/about-project/",
+	"about the team": "http://127.0.0.1:4000/coyote/about-team/",
+	"contact us": "http://127.0.0.1:4000/coyote/contact-us/"
+}

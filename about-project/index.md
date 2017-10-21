@@ -5,7 +5,8 @@ active: about-project
 ---
 
 This site explores Coyote as an animal and a character in the histories and cultures of North America. Users can browse primary documents, set up collections, and contribute to the growing base of knowledge about this fascinating figure.
-Coyote has a long history on the North American continent. Researchers have found evidence of coyote fossils in the La Brea Tarpits. The presence of these fossils suggests indicate that canis latrans (or “barking dog”) and Paleolithic humans shared the landscape with mastodons, saber toothed tigers, and dire wolves. 
+
+Coyote has a long history on the North American continent. Researchers have found evidence of coyote fossils in the La Brea Tarpits. The presence of these fossils suggests indicate that canis latrans (or “barking dog”) and Paleolithic humans shared the landscape with mastodons, saber toothed tigers, and dire wolves.
 
 Coyote’s role as a character in human societies is most often associated with trickster myths, common to Native American tribal nations across the Western United States. However, mesoamerican cultures such as the Toletcs and the Aztecs also viewed Coyote as a potent figure. For example, Pyramid B at Tula, the capital of the Toltec Empire (c. 900-1200 CE), features Coyote alongside jaguar and eagle in bas-relief. These animals helped to define the warrior class in Toltec society. The “Coyote head,” a pottery creation that depicts a man’s head emerging from the jaws of a coyote, also dates from this period and suggests a deep identification with the animal.
 
