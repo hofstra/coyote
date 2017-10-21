@@ -3,7 +3,9 @@
 <head>
 	<title>{{ page.title }}</title>
 	{% include head.html %}
+	{% include search_support_head.html %}
 
+	<!-- Build a store for lunr -->
 	<script>
 	  window.store = {
 	    {% for post in site.posts %}
@@ -18,31 +20,31 @@
 	    {% endfor %}
 	  };
 	</script>
-	<script src="https://unpkg.com/lunr/lunr.js"></script>
-	<script src="sources/js/search.js"></script>
-
 </head>
+
 <body>
-<div class="outer">
-    {% include brand-bar.html %}
-    {% include main-nav.html %}
-    {% include header-img.html %}
-    <div class="wrapper content-wrapper">
+	<div class="outer">
+		{% include brand-bar.html %}
+		{% include main-nav.html %}
+		{% include header-img.html %}
+		<div class="wrapper content-wrapper">
 
-        <h1>{{ page.title }}</h1>
+			<br><br>
 
-		{% include searchbox placeholder="Loading..."%}
+			{% include searchbox placeholder=""%}
 
-		{{ content }}
+			{{ content }}
 
-		<div id="search-results">
-			<div class="searchMsgWrapper">
-				<div class="searchMsg">Searching...</div>
+			<div id="search-results">
+				<div class="searchMsgWrapper">
+					<div class="searchMsg">Searching...</div>
+				</div>
 			</div>
-		</div>
 
-    </div>
-</div>
-{% include footer.html %}
+		</div>
+	</div>
+
+	{% include footer.html %}
+
 </body>
 </html>

@@ -31,12 +31,6 @@ $color-tagBackground: #625044;
 
 $color-linkHover: rgb(50, 91, 130);
 
-/* Search */
-$color-search: #c2b4a5;
-$color-searchBackground: #625044;
-$color-searchFocus: #00B4CC;
-$color-searchPlaceholder: #DDDDDD;
-$size-searchBox: 2rem;
 
 /* Includes */
 @import "sitewide";
@@ -45,3 +39,4 @@ $size-searchBox: 2rem;
 @import "tagging";
 @import "listOfLinks";
 @import "search";
+@import "typeahead";
