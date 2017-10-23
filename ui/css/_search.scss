@@ -6,8 +6,8 @@ $color-searchPlaceholder: #DDDDDD;
 $size-searchBox: 2rem;
 
 mark {
-    background-color: yellow;
-    color: black;
+	background-color: yellow;
+	color: black;
 }
 
 .search {
@@ -20,7 +20,7 @@ mark {
 	float: left;
 	width: 100%;
 	border: 0;
-	padding: .4rem .5rem .5rem 3.5rem;
+	padding: 0.4rem 0.5rem 0.5rem 3.5rem;
 	border-radius: 1rem 0 0 1rem;
 	outline: none;
 	color: $color-searchPlaceholder;
@@ -35,17 +35,18 @@ input::placeholder {
 }
 
 .searchButton {
-	width: 3.2rem;
-    left: -.1rem;
-    margin: 0;
-    font-size: 2.68rem;
 	position: absolute;
+	top: 0;
+	width: 3.2rem;
+	left: -.1rem;
+	margin: 0;
+	font-size: 2.82rem;
 	right: 0.1rem;
 	border: 1px solid $color-search;
 	background: $color-search;
 	text-align: center;
 	color: white;
-	border-radius: .3rem 0 0 .3rem;
+	border-radius: 0.3rem 0 0 0.3rem;
 	cursor: pointer;
 }
 
@@ -61,47 +62,51 @@ input::placeholder {
 }
 
 #search-results .searchMsg {
-	background:rgba(255, 255, 255, 0.25);
-    padding:5rem;
-    border-radius:1rem;
-    width:100%;
-    font-size: 1.2em;
+	background: rgba(255, 255, 255, 0.25);
+	padding: 5rem;
+	border-radius: 1rem;
+	width: 100%;
+	font-size: 1.2em;
 }
 /*
 	Small search overrides
 */
 @media all and (max-width: 940px) {
-  .smallSearch{
-    display:none;
-  }
+	.smallSearch {
+		display: none;
+	}
 }
+
+.smallSearch {
+	margin: 0 0 0 1rem;
+}
+
 .smallSearch input::placeholder {
 	content: '';
 }
 
 .smallSearch .searchButton {
-  width:2rem;
-  margin: 0 0 0;
-  font-size: 0.8rem;
-  top:0;
-  border-radius: 0.3rem 0 0 0.3rem;
-  background-color: #625044; }
+	width: 2rem;
+	margin: 0;
+	font-size: 1.6rem;
+	top: 0;
+	border-radius: 0.3rem 0 0 0.3rem;
+	background-color: #625044;
+}
 
 .smallSearch .searchbox {
-  width:10rem;
-  position: relative;
-  top: 0.8rem;
-  padding: 0;
-  margin: 0;
-  height: 0;
-  }
+	width: 10rem;
+	position: relative;
+	top: 0.8rem;
+	padding: 0;
+	margin: 0;
+	height: 0;
+}
 
 .smallSearch .searchTerm {
-  font-size: 1rem;
-  border-radius: 0.3rem;
-
-  }
-
+	font-size: 1rem;
+	border-radius: 0.3rem;
+}
 /*
 	Search results listing
 */
@@ -127,7 +132,6 @@ input::placeholder {
 	text-decoration: none;
 	border-bottom: 1px solid rgba(98, 80, 68, 0.14);
 }
-
 /*
 	Typeahead
 */

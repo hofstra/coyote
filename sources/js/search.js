@@ -1,157 +1,109 @@
-body {
-	background: #ede0cd;
-}
+// search.js
+// Search handler for lunr search (http://lunrjs.com)
+//////////////////////////////////////////////////////
 
-body.video {
-	background: #211913;
-}
+// After DOM is loaded
+document.addEventListener('DOMContentLoaded', function() {
 
-a {
-	color: #625044;
-}
+	// Parse keyword from GET vars
+	var searchTerm = getQueryVariable('query');
+	if (!searchTerm) {
+		displayFailureMessage('');
+	}else{
 
-.footer-wrapper {
-	background: #ffffff;
-}
+		// Set the search boxes on the page to have the searchterm
+		/*
+		var testElements = document.getElementsByClassName('searchTerm');
+		for (var i = 0; i < testElements.length; i++) {
+			testElements.item(i).setAttribute("value", searchTerm);
+		}
+		*/
+		document.getElementById('largeSearch').setAttribute("value", searchTerm);
 
-.footer {
-	color: #211913;
-}
+		// Initalize lunr with the fields it will be searching on.
+		var idx = lunr(function() {
+			this.field('id');
+			this.field('title');
+			this.field('author');
+			this.field('category');
+			this.field('content');
 
-.footer p {
-	text-align: left;
-}
+			// Build index
+			for (var key in window.store) {
+				this.add({
+					'id': key,
+					'title': window.store[key].title,
+					'author': window.store[key].author,
+					'category': window.store[key].category,
+					'content': window.store[key].content
+				});
+			}
+		});
 
-.content-wrapper h1,
-h1 {
-	background: none;
-	color: #211913;
-	font-family: $font-header;
-	font-size: 45px;
-	font-weight: 700;
-	line-height: 1.5em;
-	margin-bottom: 0;
-	padding-top: 60px;
-	padding-bottom: 60px;
-	text-align: center;
-	text-transform: uppercase;
-}
+		// Run the search
+		for (var key in window.store) {
+			//NOTE: Any boost should go here, IE idx.search('title:foo^10')
+			try {
+    			var results = idx.search(searchTerm);
 
-body.video h1 {
-	color: #ede0cd;
-}
+			// Search supports things like category: title:
+			}catch(error) {
+				displayFailureMessage(error.message);
+				return;
+			}
 
-.content-wrapper h2,
-h2 {
-	color: #211913;
-	font-family: $font-header;
-	font-size: 32px;
-	font-weight: 700;
-	margin-bottom: 1em;
-}
+			displaySearchResults(results, window.store);
+		}
 
-.content-wrapper h3,
-h3 {
-	color: #211913;
-	font-family: $font-header;
-	font-size: 23px;
-	font-weight: 700;
-	margin-bottom: 0.5em;
-	padding-bottom: 0;
-}
 
-.content-wrapper h4,
-.footer p,
-h4 {
-	font-family: $font-brand;
-	font-size: 12px;
-	font-weight: 400;
-	margin-bottom: 0;
-	text-transform: uppercase;
-}
-
-.content-wrapper li,
-.content-wrapper p,
-li,
-p {
-	font-family: $font-bodyCopy;
-	font-size: 16px;
-	font-weight: 400;
-	line-height: 2em;
-}
-
-.browse li {
-	line-height: 1.5em;
-}
-
-.content-wrapper li em,
-.content-wrapper li i,
-.content-wrapper p em,
-.content-wrapper p i,
-li em,
-li i,
-p em,
-p i {
-	font-style: italic;
-	font-weight: 400;
-}
-
-.content-wrapper li b,
-.content-wrapper li strong,
-.content-wrapper p b,
-.content-wrapper p strong,
-li b,
-li strong,
-p b,
-p strong {
-	font-weight: 400;
-}
-
-.content-wrapper {
-	background: none;
-}
-
-.wrapper {
-	padding-bottom: 46px;
-}
-
-.video-wrapper {
-	margin-bottom: 60px;
-}
-
-figure {
-	max-width: 900px;
-}
-
-.meta {
-	background: $color-navBackground;
-	padding-top: 36px;
-}
-@media all and (max-width: 940px) {
-	.meta > div {
-		padding-right: 20px;
-		padding-left: 20px;
 	}
-}
 
-.meta h3 {
-	margin-bottom: 0;
-}
 
-.meta h3 a {
-	color: #211913;
-	text-decoration: none;
-}
 
-.meta p {
-	line-height: 1.5em;
-}
 
-.content-wrapper {
-	margin-bottom: 0;
-}
-@media all and (min-width: 940px) {
-	.wrapper {
-		min-height: 600px;
+
+	// Display the search results on the page
+	function displaySearchResults(results, store) {
+		var searchResults = document.getElementById('search-results');
+		if (results.length) { // Are there any results?
+			var appendString = '';
+
+			for (var i = 0; i < results.length; i++) { // Iterate over the results
+				var item = store[results[i].ref];
+				appendString += '<h3><a href=".' + item.url + '">' + item.title + ' <div class="fa fa-arrow-right" aria-hidden="true"></div></a></h3>';
+				appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+			}
+			searchResults.innerHTML = appendString;
+		} else {
+			displayFailureMessage('No results found for "' + searchTerm+'"');
+		}
+
+
 	}
-}
+
+
+	// Inject a failure message onto the screen (into #search-results)
+	function displayFailureMessage(message){
+		var searchResults = document.getElementById('search-results');
+		if(searchResults == null){return;}
+		if($.trim(message) == ''){
+			searchResults.innerHTML = '';
+		}else{
+			searchResults.innerHTML = '<div class="searchMsgWrapper"><div class="searchMsg">'+message+'</div></div>';
+		}
+	}
+
+
+	// Helper: Parse GET vars
+	function getQueryVariable(variable) {
+		var query = window.location.search.substring(1);
+		var vars = query.split('&');
+		for (var i = 0; i < vars.length; i++) {
+			var pair = vars[i].split('=');
+			if (pair[0] === variable) {
+				return decodeURIComponent(pair[1].replace(/\+/g, '%20'));
+			}
+		}
+	}
+
+}, false);
