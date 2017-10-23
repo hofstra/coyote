@@ -12,7 +12,7 @@ email: drc@hofstra.edu
 description: Informational website for the Myths of Coyote project
 baseurl: "/coyote"
 url: http://hofstradrc.org
-twitter_username: 
+twitter_username:
 github_username: hofstra
 google_analytics: false
 destination: "./_site"
@@ -24,6 +24,8 @@ exclude:
 - Gemfile.lock
 - README.md
 - ".gitignore"
+- preflightSupport
+- preflight.sh
 markdown: kramdown
 permalink: "/:categories/:title/"
 asset_url: https://hofstra.github.io/design-framework
