@@ -16,8 +16,8 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: sources/img
+public_path: "/sources/img"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
